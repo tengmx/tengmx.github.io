@@ -3,7 +3,9 @@ layout: page
 title: 
 ---
 
-Postdoc in [rafalab](http://rafalab.github.io) <br>
+Postdoc in [rafalab](http://rafalab.github.io)
+<img style="float: right;width:100px;height:100px;" 
+src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
 [Department of Biostatistics & Computational Biology](http://bcb.dfci.harvard.edu)
 at Dana-Farber Cancer Institute <br>
 [Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics)
