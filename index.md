@@ -35,4 +35,5 @@ I received my BEng, MEng and PhD from
 at Harbin Institute of Technology
 under the direction of Prof. Yadong Wang. I was also a visiting student in the
 [Center for Computational Biology and Bioinformatics](http://www.compbio.iupui.edu)
-at Indiana University School of Medicine.
+at Indiana University School of Medicine under the direction of Prof. Yunlong Liu
+and Prof. Lang Li.
