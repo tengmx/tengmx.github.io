@@ -25,7 +25,7 @@ and analyzing of high-throughput sequencing data and by integrating and
 visualizing with public data resources. My lastest researches include 
 [GC-content bias correction](http://biorxiv.org/content/early/2016/12/01/090704)
 for ChIP-seq and 
-[benchmark](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0940-1)
+[benchmarks](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0940-1)
 of quantification
 pipelines for RNA-seq.
 
@@ -35,7 +35,10 @@ pipelines for RNA-seq.
 I received my BEng, MEng and PhD from 
 [School of Computer Science and Technology](http://encs.hit.edu.cn/)
 at Harbin Institute of Technology
-under the direction of Prof. Yadong Wang. I was also a visiting student in the
+under the direction of Prof. Yadong Wang. My PhD works focuses on 
+[regulatory SNVs](http://dx.doi.org/10.1093/bioinformatics/bts275) and 
+[DNA methylation fidelity](http://dx.doi.org/10.1371/journal.pone.0032928).
+I was also a visiting student in the
 [Center for Computational Biology and Bioinformatics](http://www.compbio.iupui.edu)
 at Indiana University School of Medicine under the direction of Prof. Yunlong Liu
 and Prof. Lang Li.
