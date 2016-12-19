@@ -35,7 +35,7 @@ pipelines for RNA-seq.
 I received my BEng, MEng and PhD from 
 [School of Computer Science and Technology](http://encs.hit.edu.cn/)
 at Harbin Institute of Technology
-under the direction of Prof. Yadong Wang. My PhD works focuses on 
+under the direction of Prof. Yadong Wang. My PhD works focus on 
 [regulatory SNVs](http://dx.doi.org/10.1093/bioinformatics/bts275) and 
 [DNA methylation fidelity](http://dx.doi.org/10.1371/journal.pone.0032928).
 I was also a visiting student in the
