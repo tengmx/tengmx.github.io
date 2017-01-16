@@ -7,7 +7,7 @@ title: Papers
 
 **Mingxiang Teng**, Rafael A. Irizarry.
 Accounting for GC-content bias reduces systematic errors and batch 
-effects in ChIP-Seq peak callers.
+effects in ChIP-Seq data.
 [*bioRxiv*](http://biorxiv.org/content/early/2016/12/01/090704)
 
 Stephanie C. Hicks, **Mingxiang Teng**, Rafael A. Irizarry.
