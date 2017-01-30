@@ -19,7 +19,7 @@ effects in single-cell RNA-Seq data.
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 DMcompress: Dynamic Markov models for bacterial genome compression.
-IEEE International Conference on Bioinformatics and Biomedicine, 
+*IEEE International Conference on Bioinformatics and Biomedicine*, 
 2016:776-779. 
 [doi: 10.1109/BIBM.2016.7822621](http://dx.doi.org/10.1109/BIBM.2016.7822621)
 
