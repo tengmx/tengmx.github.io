@@ -3,12 +3,16 @@ layout: page
 title: Papers 
 ---
 
-### Preprints
+### Preprints and manuscripts in preparation
 
 **Mingxiang Teng**, Rafael A. Irizarry.
 Accounting for GC-content bias reduces systematic errors and batch 
 effects in ChIP-Seq data.
 [*bioRxiv*](http://biorxiv.org/content/early/2017/01/15/090704)
+
+**Mingxiang Teng**, Robert T. Nakayama, Stephanie C. Hicks,
+Cigall Kadoch, Rafael A. Irizarry. ComplexDiff: differential binding
+estimation for protein complexes. *In preparation*
 
 Stephanie C. Hicks, **Mingxiang Teng**, Rafael A. Irizarry.
 On the widespread and critical impact of systematic bias and batch 
@@ -18,7 +22,7 @@ effects in single-cell RNA-Seq data.
 ### Publications
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
-DMcompress: Dynamic Markov models for bacterial genome compression.
+DMcompress: dynamic Markov models for bacterial genome compression.
 *IEEE International Conference on Bioinformatics and Biomedicine*, 
 2016:776-779. 
 [doi: 10.1109/BIBM.2016.7822621](http://dx.doi.org/10.1109/BIBM.2016.7822621)
@@ -94,7 +98,7 @@ estrogen receptor α regulatory networks in breast cancer.
 [doi: 10.1186/1752-0509-5-67](http://dx.doi.org/10.1186/1752-0509-5-67)
 
 Shuang Qiu, Yadong Wang, Liran Juan, **Mingxiang Teng**, Liang Cheng.
-Bioinformatics Database Integration Based on Biomedical Ontology.
+Bioinformatics database integration based on biomedical ontology.
 *International Journal of Advancements in Computing Technology*, 3(2):66-75.
 doi: 10.4156/ijact.vol3.issue2.9
 
@@ -119,9 +123,9 @@ Prioritization of disease microRNAs through a human phenome-microRNAome network.
 
 Terry Camerlengo, Hatice Gulcin Ozer, Pearlly Yan, Jeffrey Parvin, Tim Huang,
 Kun Huang, Francisco Perez, **Mingxiang Teng**, Lang Li, Yunlong Liu, Tahsin Kurc.
-Enabling Data Analysis on High-Throughput Data in Large Data Depository 
-Using Web-Based Analysis Platform – A Case Study on Integrating QUEST 
-with GenePattern in Epigenetics Research.
+Enabling data analysis on high-throughput data in large data depository 
+using web-based analysis platform – a case study on integrating QUEST 
+with GenePattern in epigenetics research.
 *IEEE International Conference on Bioinformatics and Biomedicine*, 2009;1-4:392–395.
 [doi: 10.1109/BIBM.2009.84](http://dx.doi.org/10.1109/BIBM.2009.84)
 
