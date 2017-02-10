@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home Page 
+title: About Me 
 ---
 
 Postdoc in [rafalab](http://rafalab.github.io)
