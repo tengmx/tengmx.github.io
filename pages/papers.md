@@ -14,6 +14,13 @@ effects in ChIP-Seq data.
 Cigall Kadoch, Rafael A. Irizarry. ComplexDiff: differential binding
 estimation for protein complexes. *In preparation*
 
+Robert T. Nakayama, John L. Pulice, Alfredo M. Valencia, Matthew J. McBride, 
+Zachary M. McKenzie, Mark A. Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
+Kairong Cui, Robert T. Williams, Seth H. Cassel, He Qing, Christian J. Widmer,
+George D. Demetri, Rafael A. Irizarry, Keji Zhao, Jeff Ranish, Cigall Kadoch.B
+SMARCB1 is required for BAF complex-mediated activation of enhancers and 
+bivalent promoters. *In revision*
+
 Stephanie C. Hicks, **Mingxiang Teng**, Rafael A. Irizarry.
 On the widespread and critical impact of systematic bias and batch 
 effects in single-cell RNA-Seq data.
