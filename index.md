@@ -13,8 +13,8 @@ at Harvard T.H. Chan School of Public Health
 
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ) |
 [GitHub](https://github.com/tengmx) |
-[Email](mailto:mxteng@jimmy.harvard.edu) |
-[Twitter](https://twitter.com/mingxiangteng)
+[Twitter](https://twitter.com/mingxiangteng) |
+[Email](mailto:mxteng@jimmy.harvard.edu) 
 
 ---
 
