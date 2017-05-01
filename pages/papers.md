@@ -104,10 +104,6 @@ estrogen receptor α regulatory networks in breast cancer.
 *BMC Systems Biology*, 2011;5:67.
 [doi: 10.1186/1752-0509-5-67](http://dx.doi.org/10.1186/1752-0509-5-67)
 
-Shuang Qiu, Yadong Wang, Liran Juan, **Mingxiang Teng**, Liang Cheng.
-Bioinformatics database integration based on biomedical ontology.
-*International Journal of Advancements in Computing Technology*, 3(2):66-75.
-doi: 10.4156/ijact.vol3.issue2.9
 
 Feng C Zhou, Yokesh Balaraman, **Mingxiang Teng**, Yunlong Liu, 
 Rabindra P Singh, Kenneth P Nephew.
