@@ -5,11 +5,6 @@ title: Papers
 
 ### Preprints and manuscripts in preparation
 
-**Mingxiang Teng**, Rafael A. Irizarry.
-Accounting for GC-content bias reduces systematic errors and batch 
-effects in ChIP-Seq data.
-[*bioRxiv*](http://biorxiv.org/content/early/2017/01/15/090704)
-
 **Mingxiang Teng**, Robert T. Nakayama, Stephanie C. Hicks,
 Cigall Kadoch, Rafael A. Irizarry. ComplexDiff: differential binding
 estimation for protein complexes. *In preparation*
@@ -27,6 +22,12 @@ effects in single-cell RNA-Seq data.
 [*bioRxiv*](http://biorxiv.org/content/early/2015/12/27/025528)
 
 ### Publications
+
+**Mingxiang Teng**, Rafael A. Irizarry.
+Accounting for GC-content bias reduces systematic errors and batch 
+effects in ChIP-Seq data.
+*Genome Research*. *In press*. see also 
+[*bioRxiv*](http://biorxiv.org/content/early/2017/01/15/090704).
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 DMcompress: dynamic Markov models for bacterial genome compression.
