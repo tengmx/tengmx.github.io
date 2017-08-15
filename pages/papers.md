@@ -16,18 +16,17 @@ George D. Demetri, Rafael A. Irizarry, Keji Zhao, Jeff Ranish, Cigall Kadoch.
 SMARCB1 is required for BAF complex-mediated activation of enhancers and 
 bivalent promoters. *In revision*
 
-Stephanie C. Hicks, **Mingxiang Teng**, Rafael A. Irizarry.
-On the widespread and critical impact of systematic bias and batch 
-effects in single-cell RNA-Seq data.
-[*bioRxiv*](http://biorxiv.org/content/early/2015/12/27/025528)
+Stephanie C. Hicks, F. William Townes,**Mingxiang Teng**, Rafael A. Irizarry.
+Missing data and technical variability in single-cell RNA-sequencing 
+experiments.
+[*bioRxiv*](http://www.biorxiv.org/content/early/2017/05/08/025528)
 
 ### Publications
 
 **Mingxiang Teng**, Rafael A. Irizarry.
 Accounting for GC-content bias reduces systematic errors and batch 
-effects in ChIP-Seq data.
-*Genome Research*. *In press*. see also 
-[*bioRxiv*](http://biorxiv.org/content/early/2017/01/15/090704).
+effects in ChIP-seq data.
+*Genome Research*. *In press*.
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 DMcompress: dynamic Markov models for bacterial genome compression.

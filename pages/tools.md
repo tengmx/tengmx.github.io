@@ -6,13 +6,13 @@ title: Tools
 ### Maintainer
 
 [gcapc](https://bioconductor.org/packages/gcapc/).
-An R/Bioconductor package for ChIP-Seq peak calling with adjustment of
+An R/Bioconductor package for ChIP-seq peak calling with adjustment of
 potential GC-content bias. Also available
 [here](https://github.com/tengmx/gcapc) on GitHub.
 
 [ComplexDiff](https://github.com/tengmx/ComplexDiff).
 An R-package to normalize and estimate differential DNA bindings
-of protein complexes with ChIP-Seq data.
+of protein complexes with ChIP-seq data.
 
 [rnaseqcomp](https://bioconductor.org/packages/rnaseqcomp).
 An R/Bioconductor pakcage providing several quantitative and visualized
