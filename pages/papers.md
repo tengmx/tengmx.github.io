@@ -16,7 +16,7 @@ George D. Demetri, Rafael A. Irizarry, Keji Zhao, Jeff Ranish, Cigall Kadoch.
 SMARCB1 is required for BAF complex-mediated activation of enhancers and 
 bivalent promoters. *In revision*
 
-Stephanie C. Hicks, F. William Townes,**Mingxiang Teng**, Rafael A. Irizarry.
+Stephanie C. Hicks, F. William Townes, **Mingxiang Teng**, Rafael A. Irizarry.
 Missing data and technical variability in single-cell RNA-sequencing 
 experiments.
 [*bioRxiv*](http://www.biorxiv.org/content/early/2017/05/08/025528)
