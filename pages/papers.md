@@ -26,7 +26,7 @@ experiments.
 **Mingxiang Teng**, Rafael A. Irizarry.
 Accounting for GC-content bias reduces systematic errors and batch 
 effects in ChIP-seq data.
-*Genome Research*. *In press*.
+*Genome Research*. (In press)
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 DMcompress: dynamic Markov models for bacterial genome compression.
