@@ -3,23 +3,22 @@ layout: page
 title: Papers 
 ---
 
-### Preprints and manuscripts in preparation
+### Manuscripts under consideration
 
 **Mingxiang Teng**, Robert T. Nakayama, Stephanie C. Hicks,
 Cigall Kadoch, Rafael A. Irizarry. ComplexDiff: differential binding
-estimation for protein complexes. *In preparation*
+estimation for protein complexes. *In preparation*.
 
 Robert T. Nakayama, John L. Pulice, Alfredo M. Valencia, Matthew J. McBride, 
 Zachary M. McKenzie, Mark A. Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
 Kairong Cui, Robert T. Williams, Seth H. Cassel, He Qing, Christian J. Widmer,
 George D. Demetri, Rafael A. Irizarry, Keji Zhao, Jeff Ranish, Cigall Kadoch. 
 SMARCB1 is required for BAF complex-mediated activation of enhancers and 
-bivalent promoters. *In revision*
+bivalent promoters. *In revision*.
 
 Stephanie C. Hicks, F. William Townes, **Mingxiang Teng**, Rafael A. Irizarry.
 Missing data and technical variability in single-cell RNA-sequencing 
-experiments.
-[*bioRxiv*](http://www.biorxiv.org/content/early/2017/05/08/025528)
+experiments. *In revision*. Preprint on [*bioRxiv*](https://doi.org/10.1101/025528)
 
 ### Publications
 
