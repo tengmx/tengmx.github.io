@@ -27,9 +27,8 @@ Robert T. Nakayama, John L. Pulice, Alfredo M. Valencia, Matthew J. McBride,
 Zachary M. McKenzie, Mark A. Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
 Kairong Cui, Robert T. Williams, Seth H. Cassel, He Qing, Christian J. Widmer,
 George D. Demetri, Rafael A. Irizarry, Keji Zhao, Jeff Ranish, Cigall
-Kadoch. SMARCB1 rescues widespread BAF complex-mediated activation of
-enhancers and bivalent promoters in SMARCB1-deficient sarcomas.
-*Nature Genetics*. (In press)
+Kadoch. SMARCB1 is required for widespread BAF complex-mediated
+activation of enhancers and bivalent promoters. *Nature Genetics*. (In press)
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 DMcompress: dynamic Markov models for bacterial genome compression.
