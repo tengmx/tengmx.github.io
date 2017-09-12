@@ -12,6 +12,15 @@ estimation for protein complexes. *In preparation*.
 Chong Wang, **Mingxiang Teng**, Bo Zhao. Genome-Wide identification of
 super enhancers regulated by EBV and KSHV co-infection. *In preparation*.
 
+Moore J, Purcaro MJ, Pratt HE, Epstein CB,
+Shoresh N, Adrian J, Kawli T, Davis CA, Dobin A, Kaul R, Halow J, Van
+Nostrand EL, Freese P, Gorkin DU, He Y, Mackiewicz M, **The ENCODE
+Consortium**, Cherry JM, Myers RM, Ren B, Graveley BR,
+Stamatoyannopoulos JA, Gerstein MB, Pennacchio LA, Gingeras T, Snyder
+MP, Bernstein BE, Wold B, Hardison RC, Weng Z. ENCODE Phase III:
+Building an Encyclopaedia of candidate 2 Regulatory Elements for Human
+and Mouse. *In submission*. 
+
 Stephanie C. Hicks, F. William Townes, **Mingxiang Teng**, Rafael A. Irizarry.
 Missing data and technical variability in single-cell RNA-sequencing 
 experiments. *In revision*. Preprint on [*bioRxiv*](https://doi.org/10.1101/025528)
