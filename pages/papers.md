@@ -100,17 +100,17 @@ The influence of cis-regulatory elements on DNA methylation fidelity.
 *[PLoS ONE](https://doi.org/10.1371/journal.pone.0032928)*,
 2012;7(3):e32928.
 
+Shijia Zhu, Qinghua Jiang, Guohua Wang, Bo Liu, **Mingxiang Teng**, Yadong Wang.
+Chromatin structure characteristics of pre-miRNA genomic sequences.
+*[BMC Genomics](https://doi.org/10.1186/1471-2164-12-329)*,
+2011;12:329.
+
 **Mingxiang Teng**, Yadong Wang, Guohua Wang, Jeesun Jung, Howard J Edenberg, 
 Jeremy R Sanford, Yunlong Liu.
 Prioritizing single-nucleotide variations that potentially regulate 
 alternative splicing.
 *[BMC Proceedings](https://doi.org/10.1186/1753-6561-5-S9-S40)*,
 2011;5(Suppl 9):S40.
-
-Shijia Zhu, Qinghua Jiang, Guohua Wang, Bo Liu, **Mingxiang Teng**, Yadong Wang.
-Chromatin structure characteristics of pre-miRNA genomic sequences.
-*[BMC Genomics](https://doi.org/10.1186/1471-2164-12-329)*,
-2011;12:329.
 
 Changyu Shen, Yiwen Huang, Yunlong Liu, Guohua Wang, Yuming Zhao, Zhiping Wang,
 **Mingxiang Teng**, Yadong Wang, David A Flockhart, Todd C Skaar, Pearlly Yan,
