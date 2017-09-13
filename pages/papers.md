@@ -5,12 +5,12 @@ title: Papers
 
 ### Manuscripts under consideration
 
+Chong Wang, **Mingxiang Teng**, Bo Zhao. Genome-wide identification of
+super enhancers regulated by EBV and KSHV co-infection. *In preparation*.
+
 **Mingxiang Teng**, Robert T. Nakayama, Stephanie C. Hicks,
 Cigall Kadoch, Rafael A. Irizarry. ComplexDiff: differential binding
 estimation for protein complexes. *In preparation*.
-
-Chong Wang, **Mingxiang Teng**, Bo Zhao. Genome-wide identification of
-super enhancers regulated by EBV and KSHV co-infection. *In preparation*.
 
 Moore J, Purcaro MJ, Pratt HE, Epstein CB,
 Shoresh N, Adrian J, Kawli T, Davis CA, Dobin A, Kaul R, Halow J, Van
@@ -21,15 +21,14 @@ MP, Bernstein BE, Wold B, Hardison RC, Weng Z. ENCODE phase III:
 building an encyclopaedia of candidate regulatory elements for human
 and mouse. *In submission*. 
 
-Stephanie C. Hicks, F. William Townes, **Mingxiang Teng**, Rafael A. Irizarry.
-Missing data and technical variability in single-cell RNA-sequencing 
-experiments. *In revision*. Preprint on [*bioRxiv*](https://doi.org/10.1101/025528)
-
 ### Publications
 
-**Mingxiang Teng**, Rafael A. Irizarry.
-Accounting for GC-content bias reduces systematic errors and batch 
-effects in ChIP-seq data.
+Stephanie C. Hicks, F. William Townes, **Mingxiang Teng**, Rafael A. Irizarry.
+Missing data and technical variability in single-cell RNA-sequencing 
+experiments. *Biostatistics*. (In press)
+
+**Mingxiang Teng**, Rafael A. Irizarry. Accounting for GC-content bias
+reduces systematic errors and batch effects in ChIP-seq data.
 *Genome Research*. (In press)
 
 Robert T. Nakayama, John L. Pulice, Alfredo M. Valencia, Matthew J. McBride, 
@@ -44,7 +43,7 @@ Hu, **Mingxiang Teng**, Yadong Wang. WDNfinder: a method for minimum
 driver node  set detection and analysis in directed and weighted
 biological network.
 *[Journal of Bioinformatics and Computational Biology](https://doi.org/10.1142/S0219720017500214)*,
-2017.
+2017:1750021.
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 DMcompress: dynamic Markov models for bacterial genome compression.
