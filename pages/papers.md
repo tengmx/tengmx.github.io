@@ -47,7 +47,7 @@ biological network.
 
 Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 DMcompress: dynamic Markov models for bacterial genome compression.
-*[IEEE International Conference on Bioinformatics and Biomedicine](https://doi.org/10.1109/BIBM.2016.7822621)*, 
+*[BIBM16](https://doi.org/10.1109/BIBM.2016.7822621)*, 
 2016:776-779. 
 
 **Mingxiang Teng**, Michael I. Love, Carrie A. Davis, Sarah Djebali,
@@ -141,13 +141,13 @@ Kun Huang, Francisco Perez, **Mingxiang Teng**, Lang Li, Yunlong Liu, Tahsin Kur
 Enabling data analysis on high-throughput data in large data depository 
 using web-based analysis platform – a case study on integrating QUEST 
 with GenePattern in epigenetics research.
-*[IEEE International Conference on Bioinformatics and Biomedicine](https://doi.org/10.1109/BIBM.2009.84)*,
+*[BIBM09](https://doi.org/10.1109/BIBM.2009.84)*,
 2009;1-4:392–395.
 
 Xin Wang, **Mingxiang Teng**, Guohua Wang, Yuming Zhao, Xu Han, Weixing Feng, Lang Li, 
 Jeremy Sanford, Yunlong Liu.
 xIP-seq platform: an integrative framework for high-throughput sequencing data analysis.
-*[Ohio Collaborative Conference on Bioinformatics](https://doi.org/10.1109/OCCBIO.2009.20)*,
+*[OCCBIO09](https://doi.org/10.1109/OCCBIO.2009.20)*,
 2009:26-31.
 
 Qinghua Jiang, Yadong Wang, Yangyang Hao, Liran Juan, **Mingxiang Teng**, 
