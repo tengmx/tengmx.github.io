@@ -23,10 +23,10 @@ at Harvard T.H. Chan School of Public Health
 I develop computational and statistical methods for genomics analysis.
 Particularly, I focus on inferring genomics findings by pre-processing 
 and analyzing of high-throughput sequencing data and by integrating and 
-visualizing with public data resources. My lastest researches include 
-[GC-content bias correction](https://doi.org/10.1101/090704) for
-ChIP-seq and [statistical benchmarks](https://doi.org/10.1186/s13059-016-0940-1)
-of quantification pipelines for RNA-seq.
+visualizing with public data resources. My latest researches include 
+[GC bias correction](https://doi.org/10.1101/090704) for
+ChIP-seq data and [statistical benchmarks](https://doi.org/10.1186/s13059-016-0940-1)
+of quantification pipelines for RNA-seq data.
 
 
 ### Education
@@ -34,10 +34,10 @@ of quantification pipelines for RNA-seq.
 I received my BEng, MEng and PhD from 
 [School of Computer Science and Technology](http://encs.hit.edu.cn/)
 at Harbin Institute of Technology
-under the direction of Yadong Wang. My PhD works focus on
+under the direction of Yadong Wang. My PhD works focused on
 computational methods for 
-[regulatory SNVs](http://dx.doi.org/10.1093/bioinformatics/bts275) and 
-[DNA methylation fidelity](http://dx.doi.org/10.1371/journal.pone.0032928).
+[regulatory SNVs](https://doi.org/10.1093/bioinformatics/bts275) and 
+[DNA methylation fidelity](https://doi.org/10.1371/journal.pone.0032928).
 I was also a visiting graduate student in the
 [Center for Computational Biology and Bioinformatics](http://www.compbio.iupui.edu)
 at Indiana University School of Medicine under the direction of Yunlong Liu
