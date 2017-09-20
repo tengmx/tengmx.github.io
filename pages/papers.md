@@ -8,8 +8,8 @@ title: Papers
 Chong Wang, **Mingxiang Teng**, Bo Zhao. Genome-wide identification of
 super enhancers regulated by EBV and KSHV co-infection. *In preparation*.
 
-**Mingxiang Teng**, Robert T. Nakayama, Stephanie C. Hicks,
-Cigall Kadoch, Rafael A. Irizarry. ComplexDiff: differential binding
+**Mingxiang Teng**, Robert T Nakayama, Stephanie C Hicks,
+Cigall Kadoch, Rafael A Irizarry. ComplexDiff: differential binding
 estimation for protein complexes. *In preparation*.
 
 Moore J, Purcaro MJ, Pratt HE, Epstein CB,
@@ -23,18 +23,18 @@ and mouse. *In submission*.
 
 ### Publications
 
-Stephanie C. Hicks, F. William Townes, **Mingxiang Teng**, Rafael A. Irizarry.
+Stephanie C Hicks, F William Townes, **Mingxiang Teng**, Rafael A Irizarry.
 Missing data and technical variability in single-cell RNA-sequencing 
 experiments. *Biostatistics*. (In press)
 
-**Mingxiang Teng**, Rafael A. Irizarry. Accounting for GC-content bias
+**Mingxiang Teng**, Rafael A Irizarry. Accounting for GC-content bias
 reduces systematic errors and batch effects in ChIP-seq data.
 *Genome Research*. (In press)
 
-Robert T. Nakayama, John L. Pulice, Alfredo M. Valencia, Matthew J. McBride,
-Zachary M. McKenzie, Mark A. Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
-Kairong Cui, Robert T. Williams, Seth H. Cassel, He Qing, Christian J. Widmer,
-George D. Demetri, Rafael A. Irizarry, Keji Zhao, Jeff Ranish, Cigall
+Robert T Nakayama, John L Pulice, Alfredo M Valencia, Matthew J McBride,
+Zachary M McKenzie, Mark A Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
+Kairong Cui, Robert T Williams, Seth H Cassel, He Qing, Christian J Widmer,
+George D Demetri, Rafael A Irizarry, Keji Zhao, Jeff Ranish, Cigall
 Kadoch. SMARCB1 is required for widespread BAF complex-mediated
 activation of enhancers and bivalent promoters. *Nature Genetics*. (In press)
 
@@ -49,9 +49,9 @@ Rongjie Wang, **Mingxiang Teng**, Yang Bai, Tianyi Zang, Yadong Wang.
 compression](https://doi.org/10.1109/BIBM.2016.7822621). *BIBM16*, 
 2016:776-779.
 
-**Mingxiang Teng**, Michael I. Love, Carrie A. Davis, Sarah Djebali, Alexander
-Dobin, Brenton R. Graveley, Sheng Li, Christopher E. Mason, Sara Olson, Dmitri
-Pervouchine, Cricket A. Sloan, Xintao Wei, Lijun Zhan and Rafael A. Irizarry.
+**Mingxiang Teng**, Michael I Love, Carrie A Davis, Sarah Djebali, Alexander
+Dobin, Brenton R Graveley, Sheng Li, Christopher E Mason, Sara Olson, Dmitri
+Pervouchine, Cricket A Sloan, Xintao Wei, Lijun Zhan and Rafael A Irizarry.
 [A benchmark for RNA-seq quantification pipelines](https://doi.org/10.1186/s13059-016-0940-1).
 *Genome Biology*, 2016;17:74.
 
