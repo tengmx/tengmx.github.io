@@ -35,8 +35,9 @@ Robert T Nakayama, John L Pulice, Alfredo M Valencia, Matthew J McBride,
 Zachary M McKenzie, Mark A Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
 Kairong Cui, Robert T Williams, Seth H Cassel, He Qing, Christian J Widmer,
 George D Demetri, Rafael A Irizarry, Keji Zhao, Jeff Ranish, Cigall
-Kadoch. SMARCB1 is required for widespread BAF complex-mediated
-activation of enhancers and bivalent promoters. *Nature Genetics*. (In press)
+Kadoch. [SMARCB1 is required for widespread BAF complex-mediated
+activation of enhancers and bivalent promoters](https://doi.org/10.1038/ng.3958).
+*Nature Genetics*, 2017. (Epub)
 
 Yanshuo Chu, Zhenxing Wang, Rongjie Wang, Ningyi Zhang, Jie Li, Yang Hu, 
 **Mingxiang Teng**, Yadong Wang. [WDNfinder: a method for minimum driver
