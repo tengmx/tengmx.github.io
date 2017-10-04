@@ -26,6 +26,9 @@ single nucleotide substitutions.
 
 ### Contributor
 
+[WDNfinder](https://github.com/dustincys/WDNfinder).
+A method for detection of minimum driver node set.
+
 [Pre-SCNAClonal](https://github.com/dustincys/Pre-SCNAClonal).
 Tumor subclonal population inferring tool.
 

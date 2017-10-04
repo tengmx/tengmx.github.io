@@ -23,15 +23,15 @@ and mouse. *In submission*.
 
 ### Publications
 
-Stephanie C Hicks, F William Townes, **Mingxiang Teng**, Rafael A Irizarry.
-[Missing data and technical variability in single-cell RNA-sequencing 
-experiments](https://doi.org/10.1093/biostatistics/kxx053). 
-*Biostatistics*. (In press)
+Stephanie C Hicks, F William Townes, **Mingxiang Teng**, Rafael A 
+Irizarry. [Missing data and technical variability in single-cell 
+RNA-sequencing experiments](https://doi.org/10.1093/biostatistics/kxx053). 
+*Biostatistics*, 2017. 
 
 **Mingxiang Teng**, Rafael A Irizarry. [Accounting for GC-content bias
 reduces systematic errors and batch effects in ChIP-seq 
 data](https://doi.org/10.1101/gr.220673.117).
-*Genome Research*. (In press)
+*Genome Research*, 2017. 
 
 Robert T Nakayama, John L Pulice, Alfredo M Valencia, Matthew J McBride,
 Zachary M McKenzie, Mark A Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
