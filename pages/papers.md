@@ -30,8 +30,8 @@ RNA-sequencing experiments](https://doi.org/10.1093/biostatistics/kxx053).
 
 **Mingxiang Teng**, Rafael A Irizarry. [Accounting for GC-content bias
 reduces systematic errors and batch effects in ChIP-seq 
-data](http://genome.cshlp.org/content/early/2017/10/12/gr.220673.117.abstract).
-*Genome Research*, 2017. (Epub) 
+data](http://genome.cshlp.org/content/early/2017/10/12/gr.220673.117).
+*Genome Research*, 2017. (Epub)
 
 Robert T Nakayama, John L Pulice, Alfredo M Valencia, Matthew J McBride,
 Zachary M McKenzie, Mark A Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
