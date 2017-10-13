@@ -24,7 +24,7 @@ I develop computational and statistical methods for genomics analysis.
 Particularly, I focus on inferring genomics findings by pre-processing 
 and analyzing of high-throughput sequencing data and by integrating and 
 visualizing with public data resources. My latest researches include 
-[GC bias correction](http://genome.cshlp.org/content/early/2017/10/12/gr.220673.117)
+[GC bias correction](https://doi.org/10.1101/gr.220673.117)
 for ChIP-seq data,
 [statistical benchmarks](https://doi.org/10.1186/s13059-016-0940-1)
 of quantification pipelines for RNA-seq data, and other collaborative works.
