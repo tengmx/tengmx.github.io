@@ -31,7 +31,7 @@ RNA-sequencing experiments](https://doi.org/10.1093/biostatistics/kxx053).
 **Mingxiang Teng**, Rafael A Irizarry. [Accounting for GC-content bias
 reduces systematic errors and batch effects in ChIP-seq 
 data](https://doi.org/10.1101/gr.220673.117).
-*Genome Research*, 2017. (Epub)
+*Genome Research*, 2017;27(11):1930-1938.
 
 Robert T Nakayama, John L Pulice, Alfredo M Valencia, Matthew J McBride,
 Zachary M McKenzie, Mark A Gillespie, Wai Lim Ku, **Mingxiang Teng**, 
@@ -39,7 +39,7 @@ Kairong Cui, Robert T Williams, Seth H Cassel, He Qing, Christian J Widmer,
 George D Demetri, Rafael A Irizarry, Keji Zhao, Jeffrey A Ranish, Cigall
 Kadoch. [SMARCB1 is required for widespread BAF complex-mediated
 activation of enhancers and bivalent promoters](https://doi.org/10.1038/ng.3958).
-*Nature Genetics*, 2017;49:1613-1623.
+*Nature Genetics*, 2017;49(11):1613-1623.
 
 Yanshuo Chu, Zhenxing Wang, Rongjie Wang, Ningyi Zhang, Jie Li, Yang Hu, 
 **Mingxiang Teng**, Yadong Wang. [WDNfinder: a method for minimum driver
