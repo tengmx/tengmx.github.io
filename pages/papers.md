@@ -26,7 +26,7 @@ and mouse. *In submission*.
 Stephanie C Hicks, F William Townes, **Mingxiang Teng**, Rafael A 
 Irizarry. [Missing data and technical variability in single-cell 
 RNA-sequencing experiments](https://doi.org/10.1093/biostatistics/kxx053). 
-*Biostatistics*, 2017. 
+*Biostatistics*, 2017. Epub 2017 Nov 6.
 
 **Mingxiang Teng**, Rafael A Irizarry. [Accounting for GC-content bias
 reduces systematic errors and batch effects in ChIP-seq 
