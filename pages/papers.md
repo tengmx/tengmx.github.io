@@ -23,9 +23,10 @@ and mouse. *In submission*.
 
 ### Publications
 
-Yanshuo Chu<sup>#</sup>, **Mingxiang Teng**<sup>#</sup>, Zhenxing Wang, Yongtian Wang, Wang
-Yadong. Pre-SCNAClonal: efficient GC bias correction for SCNA based 
-tumor subclonal populations inferring. *BIBM17*, 2017.
+Yanshuo Chu<sup>#</sup>, **Mingxiang Teng**<sup>#</sup>, Zhenxing
+Wang, Yongtian Wang, Yadong Wang. Pre-SCNAClonal: efficient GC bias
+correction for SCNA based tumor subclonal populations
+inferring. *BIBM17*, 2017.
 
 Stephanie C Hicks, F William Townes, **Mingxiang Teng**, Rafael A 
 Irizarry. [Missing data and technical variability in single-cell 
@@ -86,15 +87,17 @@ Yunlong Liu, Tim HM Huang, Kenneth P Nephew, Curt Balch. [Empirical bayes model
 comparisons for differential methylation analysis](https://doi.org/10.1155/2012/376706).
 *Comparative and Functional Genomics*, 2012;2012:376706.
 
-**Mingxiang Teng**<sup>#</sup>, Shoji Ichikawa<sup>#</sup>, Leah R Padgett, Yadong Wang, Matthew Mort,
-David N Cooper, Daniel L Koller, Tatiana Foroud, Howard J Edenberg, Michael J
-Econs, Yunlong Liu. [regSNPs: a strategy for prioritizing regulatory single
-nucleotide substitutions](https://doi.org/10.1093/bioinformatics/bts275).
+**Mingxiang Teng**<sup>#</sup>, Shoji Ichikawa<sup>#</sup>, Leah R
+Padgett, Yadong Wang, Matthew Mort, David N Cooper, Daniel L Koller,
+Tatiana Foroud, Howard J Edenberg, Michael J Econs, Yunlong Liu. 
+[regSNPs: a strategy for prioritizing regulatory single nucleotide 
+substitutions](https://doi.org/10.1093/bioinformatics/bts275).
 *Bioinformatics*, 2012;28(14):1879-1886.
 
-**Mingxiang Teng**<sup>#</sup>, Curt Balch<sup>#</sup>, Yunlong Liu, Meng Li, Tim HM Huang, Yadong Wang,
-Kenneth P Nephew, Lang Li. [The influence of cis-regulatory elements on DNA 
-methylation fidelity](https://doi.org/10.1371/journal.pone.0032928).
+**Mingxiang Teng**<sup>#</sup>, Curt Balch<sup>#</sup>, Yunlong Liu,
+Meng Li, Tim HM Huang, Yadong Wang, Kenneth P Nephew, Lang Li.
+[The influence of cis-regulatory elements on DNA methylation
+fidelity](https://doi.org/10.1371/journal.pone.0032928).
 *PLoS ONE*, 2012;7(3):e32928.
 
 Shijia Zhu, Qinghua Jiang, Guohua Wang, Bo Liu, **Mingxiang Teng**, Yadong Wang.
@@ -135,9 +138,10 @@ using web-based analysis platform – a case study on integrating QUEST
 with GenePattern in epigenetics research](https://doi.org/10.1109/BIBM.2009.84).
 *BIBM09*, 2009:392–395.
 
-Xin Wang<sup>#</sup>, **Mingxiang Teng**<sup>#</sup>, Guohua Wang, Yuming Zhao, Xu Han, Weixing Feng,
-Lang Li, Jeremy Sanford, Yunlong Liu. [xIP-seq platform: an integrative framework
-for high-throughput sequencing data analysis](https://doi.org/10.1109/OCCBIO.2009.20).
+Xin Wang<sup>#</sup>, **Mingxiang Teng**<sup>#</sup>, Guohua Wang,
+Yuming Zhao, Xu Han, Weixing Feng, Lang Li, Jeremy Sanford, Yunlong
+Liu. [xIP-seq platform: an integrative framework for high-throughput sequencing
+data analysis](https://doi.org/10.1109/OCCBIO.2009.20).
 *OCCBIO09*, 2009:26-31.
 
 Qinghua Jiang, Yadong Wang, Yangyang Hao, Liran Juan, **Mingxiang Teng**, Xinjun
