@@ -135,7 +135,7 @@ using web-based analysis platform – a case study on integrating QUEST
 with GenePattern in epigenetics research](https://doi.org/10.1109/BIBM.2009.84).
 *BIBM09*, 2009:392–395.
 
-Xin Wang, **Mingxiang Teng**, Guohua Wang, Yuming Zhao, Xu Han, Weixing Feng,
+Xin Wang<sup>#</sup>, **Mingxiang Teng**<sup>#</sup>, Guohua Wang, Yuming Zhao, Xu Han, Weixing Feng,
 Lang Li, Jeremy Sanford, Yunlong Liu. [xIP-seq platform: an integrative framework
 for high-throughput sequencing data analysis](https://doi.org/10.1109/OCCBIO.2009.20).
 *OCCBIO09*, 2009:26-31.
