@@ -3,24 +3,15 @@ layout: page
 title: Papers 
 ---
 
-### Manuscripts under consideration
-
 Wang C, **Teng M**, Zhao B. Genome-wide identification of
 super enhancers regulated by EBV and KSHV co-infection. *In preparation*.
 
 **Teng M**, Nakayama RT, Hicks SC, Kadoch C, Irizarry RA. 
 ComplexDiff: differential binding estimation for protein complexes. *In preparation*.
 
-Moore J, Purcaro MJ, Pratt HE, Epstein CB,
-Shoresh N, Adrian J, Kawli T, Davis CA, Dobin A, Kaul R, Halow J, Van
-Nostrand EL, Freese P, Gorkin DU, He Y, Mackiewicz M, **The ENCODE
-Consortium**, Cherry JM, Myers RM, Ren B, Graveley BR,
-Stamatoyannopoulos JA, Gerstein MB, Pennacchio LA, Gingeras T, Snyder
-MP, Bernstein BE, Wold B, Hardison RC, Weng Z. ENCODE phase III:
+**The ENCODE Consortium**. ENCODE phase III:
 building an encyclopaedia of candidate regulatory elements for human
 and mouse. *In submission*. 
-
-### Publications
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Z, Wang Y, Wang Y. 
 Pre-SCNAClonal: efficient GC bias correction for SCNA based tumor subclonal
