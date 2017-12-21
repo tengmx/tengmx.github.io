@@ -3,17 +3,21 @@ layout: page
 title: Papers 
 ---
 
-Wang C, **Teng M**, Zhao B. Genome-wide identification of
-super enhancers regulated by EBV and KSHV co-infection. (*In preparation*).
+Wang C, **Teng M**, Kieff ED, Zhao B. Genome-wide identification of
+super enhancers regulated by EBV and KSHV co-infection. (*In preparation*)
 
 **Teng M**, Nakayama RT, Hicks SC, Kadoch C, Irizarry RA. 
-ComplexDiff: differential binding estimation for protein complexes. (*In preparation*).
+ComplexDiff: differential binding estimation for protein complexes. (*In preparation*)
+
+Kimes PK, Korthauer K, Reyes A, Duvallet C, Subramanian A, **Teng M**, Shukla C, Irizarry
+RA, Hicks SC. A practical guide for methods controlling false discovery rates. (*In
+preparation*)
 
 **The ENCODE Consortium**. ENCODE phase III:
 building an encyclopaedia of candidate regulatory elements for human
-and mouse. (*In submission*). 
+and mouse. (*In submission*)
 
-Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Z, Wang Y, Wang Y. 
+Chu Y, **Teng M**, Wang Z, Wang Y, Wang Y. 
 Pre-SCNAClonal: efficient GC bias correction for SCNA based tumor subclonal
 populations inferring. *BIBM17*, 2017.
 
@@ -67,13 +71,13 @@ Balch C. [Empirical bayes model comparisons for differential methylation
 analysis](https://doi.org/10.1155/2012/376706).
 *Comparative and Functional Genomics*, 2012;2012:376706.
 
-**Teng M**<sup>#</sup>, Ichikawa S<sup>#</sup>, Padgett LR, Wang Y, Mort M, 
+**Teng M**, Ichikawa S, Padgett LR, Wang Y, Mort M, 
 Cooper DN, Koller DL, Foroud T, Edenberg HJ, Econs MJ, Liu Y. 
 [regSNPs: a strategy for prioritizing regulatory single nucleotide 
 substitutions](https://doi.org/10.1093/bioinformatics/bts275).
 *Bioinformatics*, 2012;28(14):1879-1886.
 
-**Teng M**<sup>#</sup>, Balch C<sup>#</sup>, Liu Y, Li M, Huang THM, Wang Y,
+**Teng M**, Balch C, Liu Y, Li M, Huang THM, Wang Y,
 Nephew KP, Li L. [The influence of cis-regulatory elements on DNA methylation
 fidelity](https://doi.org/10.1371/journal.pone.0032928).
 *PLoS ONE*, 2012;7(3):e32928.
@@ -114,7 +118,7 @@ data depository using web-based analysis platform – a case study on integratin
 QUEST with GenePattern in epigenetics research](https://doi.org/10.1109/BIBM.2009.84).
 *BIBM09*, 2009:392–395.
 
-Wang X<sup>#</sup>, **Teng M**<sup>#</sup>, Wang G, Zhao Y, Han X, Feng W,
+Wang X, **Teng M**, Wang G, Zhao Y, Han X, Feng W,
 Li L, Sanford J, Liu Y. [xIP-seq platform: an integrative framework for 
 high-throughput sequencing data analysis](https://doi.org/10.1109/OCCBIO.2009.20).
 *OCCBIO09*, 2009:26-31.
