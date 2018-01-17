@@ -6,9 +6,9 @@ title: About Me
 Research Fellow in [rafalab](http://rafalab.github.io)
 <img style="float: right;width:100px;height:100px;" 
 src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
-[Department of Biostatistics & Computational Biology](http://bcb.dfci.harvard.edu)
+Department of Biostatistics & Computational Biology
 at Dana-Farber Cancer Institute <br>
-[Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics)
+Department of Biostatistics
 at Harvard T.H. Chan School of Public Health
 
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ) |
@@ -33,13 +33,13 @@ of quantification pipelines for RNA-seq data, and other collaborative works.
 ### Education
 
 I received my BEng, MEng and PhD from 
-[School of Computer Science and Technology](http://encs.hit.edu.cn/)
+School of Computer Science and Technology
 at Harbin Institute of Technology
 under the direction of Prof. Yadong Wang. My PhD works focused on
 computational analysis methods for 
-[regulatory single nucleotide variants](https://doi.org/10.1093/bioinformatics/bts275) and 
-[DNA methylation fidelity](https://doi.org/10.1371/journal.pone.0032928).
+regulatory single nucleotide variants
+DNA methylation fidelity
 I was also a visiting graduate student in the
-[Center for Computational Biology and Bioinformatics](http://www.compbio.iupui.edu)
+Center for Computational Biology and Bioinformatics
 at Indiana University School of Medicine under the direction of
 Profs. Yunlong Liu and Lang Li.
