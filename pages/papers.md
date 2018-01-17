@@ -15,11 +15,11 @@ preparation*)
 
 **The ENCODE Consortium**. ENCODE phase III:
 building an encyclopaedia of candidate regulatory elements for human
-and mouse. (*In submission*)
+and mouse. (*In revision*)
 
 Chu Y, **Teng M**, Wang Z, Wang Y, Wang Y. 
 [Pre-SCNAClonal: efficient GC bias correction for SCNA based tumor subclonal
-populations inferring](https://muii.missouri.edu/bibm2017/papers). *BIBM17*, 2017:262-265.
+populations inferring](https://doi.org/10.1109/BIBM.2017.8217660). *BIBM17*, 2017:262-265.
 
 Hicks SC, Townes FW, **Teng M**, Irizarry RA. [Missing data and technical 
 variability in single-cell RNA-sequencing experiments](https://doi.org/10.1093/biostatistics/kxx053). 
