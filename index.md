@@ -3,13 +3,13 @@ layout: page
 title: About Me 
 ---
 
-Research Fellow in [rafalab](http://rafalab.github.io)
+Assistant Member
 <img style="float: right;width:100px;height:100px;" 
 src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
-Department of Biostatistics & Computational Biology
-at Dana-Farber Cancer Institute <br>
-Department of Biostatistics
-at Harvard T.H. Chan School of Public Health
+Department of Biostatistics and Bioinformatics <br>
+Moffitt Cancer Center
+
+
 
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ) |
 [GitHub](https://github.com/tengmx) |
@@ -20,7 +20,7 @@ at Harvard T.H. Chan School of Public Health
 
 ### Research
 
-I develop computational and statistical methods for genomics analysis.
+I develop computational methods and tools  for genomics analysis.
 Particularly, I focus on inferring genomics findings by pre-processing 
 and analyzing of high-throughput sequencing data and by integrating and 
 visualizing with public data resources. My latest researches include 
@@ -35,7 +35,11 @@ of quantification pipelines for RNA-seq data, and other collaborative works.
 I received my BEng, MEng and PhD from School of Computer Science and Technology
 at Harbin Institute of Technology under the direction of Prof. Yadong
 Wang. My PhD works focused on computational analysis methods for
-regulatory single nucleotide variants and DNA methylation fidelity.
-I was also a visiting graduate student in the Center for Computational
-Biology and Bioinformatics at Indiana University School of Medicine
-under the direction of Profs. Yunlong Liu and Lang Li.
+regulatory single nucleotide variants and DNA methylation fidelity, 
+which were partially finished in Profs. Yunlong Liu and Lang Li 's labs
+in the Center for Computational Biology and Bioinformatics at Indiana
+University School of Medicine. I had my postdoctoral training in
+Prof. Rafael Irizarry's lab in the Department of Biostatistics and 
+Computational Biology at Dana-Farber Cancer Institute and
+Harvard T.H. Chan School of Public Health.
+

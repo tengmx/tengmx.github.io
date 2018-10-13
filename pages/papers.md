@@ -3,27 +3,14 @@ layout: page
 title: Papers 
 ---
 
-Wang C, **Teng M**, Kieff ED, Zhao B. Genome-wide identification of
-super enhancers regulated by EBV and KSHV co-infection. (*In preparation*)
-
-**Teng M**, Nakayama RT, Hicks SC, Kadoch C, Irizarry RA. 
-ComplexDiff: differential binding estimation for protein complexes. (*In preparation*)
-
-Kimes PK, Korthauer K, Reyes A, Duvallet C, Subramanian A, **Teng M**, Shukla C, Irizarry
-RA, Hicks SC. A practical guide for methods controlling false discovery rates. (*In
-preparation*)
-
-**The ENCODE Consortium**. ENCODE phase III:
-building an encyclopaedia of candidate regulatory elements for human
-and mouse. (*In revision*)
-
-Chu Y, **Teng M**, Wang Z, Wang Y, Wang Y. 
-[Pre-SCNAClonal: efficient GC bias correction for SCNA based tumor subclonal
-populations inferring](https://doi.org/10.1109/BIBM.2017.8217660). *BIBM17*, 2017:262-265.
+Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
+[Modeling and correct the GC bias of tumor and normal WGS data for SCNA
+based tumor subclonal population inferring](https://doi.org/10.1186/s12859-018-2099-0).
+*BMC Bioinformatics*, 2018;19(Suppl 5):112.
 
 Hicks SC, Townes FW, **Teng M**, Irizarry RA. [Missing data and technical 
 variability in single-cell RNA-sequencing experiments](https://doi.org/10.1093/biostatistics/kxx053). 
-*Biostatistics*, 2017. Epub 2017 Nov 6.
+*Biostatistics*, 2018;19(4):562-578.
 
 **Teng M**, Irizarry RA. [Accounting for GC-content bias reduces systematic 
 errors and batch effects in ChIP-seq data](https://doi.org/10.1101/gr.220673.117).
@@ -39,10 +26,6 @@ Chu Y, Wang Z, Wang R, Zhang N, Li J, Hu Y, **Teng M**, Wang Y.
 [WDNfinder: a method for minimum driver node set detection and analysis in 
 directed and weighted biological network](https://doi.org/10.1142/S0219720017500214).
 *Journal of Bioinformatics and Computational Biology*, 2017;15(5):1750021.
-
-Wang R, **Teng M**, Bai Y, Zang T, Wang Y. [DMcompress: dynamic Markov models
-for bacterial genome compression](https://doi.org/10.1109/BIBM.2016.7822621). 
-*BIBM16*, 2016:776-779.
 
 **Teng M**, Love MI, Davis CA, Djebali S, Dobin A, Graveley BR, Li S, Mason CE,
 Olson S, Pervouchine D, Sloan CA, Wei X, Zhan L, Irizarry RA.
@@ -71,13 +54,13 @@ Balch C. [Empirical bayes model comparisons for differential methylation
 analysis](https://doi.org/10.1155/2012/376706).
 *Comparative and Functional Genomics*, 2012;2012:376706.
 
-**Teng M**, Ichikawa S, Padgett LR, Wang Y, Mort M, 
+**Teng M**<sup>#</sup>, Ichikawa S<sup>#</sup>, Padgett LR, Wang Y, Mort M, 
 Cooper DN, Koller DL, Foroud T, Edenberg HJ, Econs MJ, Liu Y. 
 [regSNPs: a strategy for prioritizing regulatory single nucleotide 
 substitutions](https://doi.org/10.1093/bioinformatics/bts275).
 *Bioinformatics*, 2012;28(14):1879-1886.
 
-**Teng M**, Balch C, Liu Y, Li M, Huang THM, Wang Y,
+**Teng M**<sup>#</sup>, Balch C<sup>#</sup>, Liu Y, Li M, Huang THM, Wang Y,
 Nephew KP, Li L. [The influence of cis-regulatory elements on DNA methylation
 fidelity](https://doi.org/10.1371/journal.pone.0032928).
 *PLoS ONE*, 2012;7(3):e32928.
@@ -111,17 +94,6 @@ Jiang Q, Hao Y, Wang G, Juan L, Zhang T, **Teng M**, Liu Y, Wang Y.
 [Prioritization of disease microRNAs through a human phenome-microRNAome 
 network](https://doi.org/10.1186/1752-0509-4-S1-S2).
 *BMC Systems Biology*, 2010;4(Suppl 1):S2.
-
-Camerlengo T, Ozer HG, Yan P, Parvin J, Huang THM, Huang K, Perez F, **Teng M**,
-Li L, Liu Y, Kurc T. [Enabling data analysis on high-throughput data in large 
-data depository using web-based analysis platform – a case study on integrating
-QUEST with GenePattern in epigenetics research](https://doi.org/10.1109/BIBM.2009.84).
-*BIBM09*, 2009:392–395.
-
-Wang X, **Teng M**, Wang G, Zhao Y, Han X, Feng W,
-Li L, Sanford J, Liu Y. [xIP-seq platform: an integrative framework for 
-high-throughput sequencing data analysis](https://doi.org/10.1109/OCCBIO.2009.20).
-*OCCBIO09*, 2009:26-31.
 
 Jiang Q, Wang Y, Hao Y, Juan L, **Teng M**, Zhang X, Li M, Wang G, Liu Y. 
 [miR2Disease: a manually curated database for microRNA deregulation in human
