@@ -14,7 +14,7 @@ Moffitt Cancer Center
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ) |
 [GitHub](https://github.com/tengmx) |
 [Twitter](https://twitter.com/mingxiangteng) |
-[Email](mailto:mxteng@jimmy.harvard.edu) 
+[Email](mailto:Mingxiang.Teng@moffitt.org) 
 
 ---
 
@@ -24,10 +24,8 @@ I develop computational methods and tools  for genomics analysis.
 Particularly, I focus on inferring genomics findings by pre-processing 
 and analyzing of high-throughput sequencing data and by integrating and 
 visualizing with public data resources. My latest researches include 
-[GC bias correction](https://doi.org/10.1101/gr.220673.117)
-for ChIP-seq data,
-[statistical benchmarks](https://doi.org/10.1186/s13059-016-0940-1)
-of quantification pipelines for RNA-seq data, and other collaborative works.
+GC bias correction for ChIP-seq data, statistical benchmarks of 
+quantification pipelines for RNA-seq data, and other collaborative works.
 
 
 ### Education
