@@ -20,13 +20,12 @@ Moffitt Cancer Center
 
 ### Research
 
-I develop computational methods and tools  for genomics analysis.
-Particularly, I focus on inferring genomics findings by pre-processing 
-and analyzing of high-throughput sequencing data and by integrating and 
-visualizing with public data resources. My latest researches include 
-GC bias correction for ChIP-seq data, statistical benchmarks of 
-quantification pipelines for RNA-seq data, and other collaborative works.
-
+I develop computational methods and tools to address data challenges 
+in cancer genomics studies. These include assessing high-throughout 
+data quality, tackling data biases, pre-processing noisy data and
+functional annotation of cancer genomics data. Besides, I work on
+managing computational pipelines for collaborative genomics studies, 
+such as data visualization, integration and functional analysis.
 
 ### Education
 
