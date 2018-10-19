@@ -2,6 +2,13 @@
 layout: page
 title: Papers 
 ---
+Moore J, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli
+T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P,
+Gorkin DU, He Y, Mackiewicz M, **The ENCODE Consortium**, Cherry JM, 
+Myers RM, Ren B, Graveley BR, Stamatoyannopoulos JA, Gerstein MB, 
+Pennacchio LA, Gingeras T, Snyder MP, Bernstein BE, Wold B, Hardison
+RC, Weng Z. ENCODE phase III: building an encyclopaedia of candidate 
+regulatory elements for human and mouse. (In revision)
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
 [Modeling and correct the GC bias of tumor and normal WGS data for SCNA
