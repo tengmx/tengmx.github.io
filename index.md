@@ -11,10 +11,11 @@ Moffitt Cancer Center
 
 
 
+[Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ) |
 [GitHub](https://github.com/tengmx) |
-[Twitter](https://twitter.com/mingxiangteng) |
-[Email](mailto:Mingxiang.Teng@moffitt.org) 
+[Twitter](https://twitter.com/mingxiangteng)
+
 
 ---
 
