@@ -1,6 +1,17 @@
 ---
 layout: page
-title: Ongoing 
+title: Studies
 ---
 
-To be updated
+#### Tools
+
+- Computational tool to accommadate new features in ATAC-seq.
+- Differential testing of ChIP-seq with bias-oriented normalization.
+
+#### Analysis
+
+- CRISPR/Cas9 screening to identify B-cell regulators.
+- ChIP-seq and HiC-seq for enhancer regulatory mechanisms in B-cell. 
+
+
+
