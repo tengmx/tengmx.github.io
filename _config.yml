@@ -8,10 +8,9 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Mingxiang Teng
+title : Home
 author :
   name : Mingxiang Teng
-  email : tengmx@gmail.com
   github : tengmx
   twitter : mingxiangteng
 

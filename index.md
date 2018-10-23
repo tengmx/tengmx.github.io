@@ -1,25 +1,23 @@
 ---
 layout: page
-title: About Me 
+title: About
 ---
 
+**Mingxiang Teng**
 Assistant Member
 <img style="float: right;width:100px;height:100px;" 
 src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
 Department of Biostatistics and Bioinformatics <br>
 Moffitt Cancer Center
 
-
-
 [Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ) |
 [GitHub](https://github.com/tengmx) |
 [Twitter](https://twitter.com/mingxiangteng)
 
-
 ---
 
-### Research
+#### Research
 
 I develop computational methods and tools to address data challenges 
 in cancer genomics studies. These include assessing high-throughout 
@@ -28,7 +26,7 @@ functional annotation of cancer genomics data. Besides, I work on
 managing computational pipelines for collaborative genomics studies, 
 such as data visualization, integration and functional analysis.
 
-### Education
+#### Education
 
 I received my BEng, MEng and PhD from School of Computer Science and Technology
 at Harbin Institute of Technology under the direction of Prof. Yadong

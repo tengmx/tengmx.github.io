@@ -3,7 +3,7 @@ layout: page
 title: Tools
 ---
 
-### Maintainer
+#### Maintainer
 
 [gcapc](https://bioconductor.org/packages/gcapc/).
 An R/Bioconductor package for ChIP-seq peak calling with adjustment of
@@ -24,7 +24,7 @@ Also available [here](https://github.com/tengmx/rnaseqcomp) on GitHub.
 R code implementing the strategy for prioritizing regulatory 
 single nucleotide substitutions.
 
-### Contributor
+#### Contributor
 
 [WDNfinder](https://github.com/dustincys/WDNfinder).
 A method for detection of minimum driver node set.
