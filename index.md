@@ -4,9 +4,9 @@ title: About
 ---
 
 **Mingxiang Teng**
-Assistant Member
 <img style="float: right;width:100px;height:100px;" 
 src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
+Assistant Member <br>
 Department of Biostatistics and Bioinformatics <br>
 Moffitt Cancer Center
 

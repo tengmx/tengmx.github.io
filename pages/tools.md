@@ -24,6 +24,7 @@ Also available [here](https://github.com/tengmx/rnaseqcomp) on GitHub.
 R code implementing the strategy for prioritizing regulatory 
 single nucleotide substitutions.
 
+<br>
 #### Contributor
 
 [WDNfinder](https://github.com/dustincys/WDNfinder).
