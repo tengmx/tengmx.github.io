@@ -16,6 +16,7 @@ Pennacchio LA, Gingeras T, Snyder MP, Bernstein BE, Wold B, Hardison
 RC, Weng Z. ENCODE phase III: building an encyclopaedia of candidate 
 regulatory elements for human and mouse. (In revision)
 
+<br>
 #### Published
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
