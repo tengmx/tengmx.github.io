@@ -2,6 +2,12 @@
 layout: page
 title: Papers 
 ---
+
+Jiang C, Trudeau SJ, Cheong TC, Wang LW, Pighi C,**Teng M**, 
+Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
+Doench J, Chiarle R, Gewurz BE. CRISPR/Cas9 screens reveal multiple
+layers of B-cell CD40 regulation. (In submission)
+
 Moore J, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli
 T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P,
 Gorkin DU, He Y, Mackiewicz M, **The ENCODE Consortium**, Cherry JM, 
@@ -9,6 +15,8 @@ Myers RM, Ren B, Graveley BR, Stamatoyannopoulos JA, Gerstein MB,
 Pennacchio LA, Gingeras T, Snyder MP, Bernstein BE, Wold B, Hardison
 RC, Weng Z. ENCODE phase III: building an encyclopaedia of candidate 
 regulatory elements for human and mouse. (In revision)
+
+#### Published
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
 [Modeling and correct the GC bias of tumor and normal WGS data for SCNA

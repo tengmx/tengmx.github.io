@@ -11,8 +11,8 @@ title: Studies
 <br>
 #### Analysis
 
-- CRISPR/Cas9 screening to identify B-cell regulators.
-- ChIP-seq and HiC-seq for enhancer regulatory mechanisms in B-cell. 
+- CRISPR/Cas9 screens to identify B-cell regulators.
+- ChIP-seq and HiC-seq to study enhancer regulation in B-cell. 
 
 
 

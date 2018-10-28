@@ -26,6 +26,7 @@ functional annotation of cancer genomics data. Besides, I work on
 managing computational pipelines for collaborative genomics studies, 
 such as data visualization, integration and functional analysis.
 
+<br>
 #### Education
 
 I received my BEng, MEng and PhD from School of Computer Science and Technology
