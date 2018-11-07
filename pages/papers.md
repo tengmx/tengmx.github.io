@@ -3,10 +3,15 @@ layout: page
 title: Papers 
 ---
 
-Jiang C, Trudeau SJ, Cheong TC, Wang LW, Pighi C,**Teng M**, 
+Jiang C, Trudeau SJ, Cheong TC, Wang LW, Pighi C, **Teng M**, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
 Doench J, Chiarle R, Gewurz BE. CRISPR/Cas9 screens reveal multiple
 layers of B-cell CD40 regulation. (In submission)
+
+Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**,
+Shukla C, Alm EJ, Hicks SC. [A practical guide to methods controlling 
+false discoveries in computational biology](https://doi.org/10.1101/458786).
+(In submission)
 
 Moore J, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli
 T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P,
