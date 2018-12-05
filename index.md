@@ -20,7 +20,7 @@ Moffitt Cancer Center
 #### Research
 
 I develop computational methods and tools to address data challenges 
-in cancer genomics studies. These include assessing high-throughout 
+in cancer genomics studies. These include assessing high-throughput 
 data quality, tackling data biases, pre-processing noisy data and
 functional annotation of cancer genomics data. Besides, I work on
 managing computational pipelines for collaborative genomics studies, 
