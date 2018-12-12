@@ -3,15 +3,21 @@ layout: page
 title: Papers 
 ---
 
-Jiang C, Trudeau SJ, Cheong TC, Wang LW, Pighi C, **Teng M**, 
+Wang C, Jiang S, Ke L, **Teng M**, Chen C, Zhang L, Li D, Liang J, 
+Narita Y, Hou I, Wang L, Zhong Q, Lv X, Xiang Y, Tsao SW, Guo X, 
+Gewurz BE, Zeng MS, Zhao B. Super-enhancer driven MYST histone lysine 
+acetyltransferases family members are critical for nasopharyngeal 
+carcinoma cell growth and survival. (submitted)
+
+Jiang C, Trudeau SJ, Cheong TC, **Teng M**,Wang LW, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
 Doench J, Chiarle R, Gewurz BE. CRISPR/Cas9 screens reveal multiple
-layers of B-cell CD40 regulation. (In submission)
+layers of B-cell CD40 regulation. (submitted)
 
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**,
 Shukla C, Alm EJ, Hicks SC. [A practical guide to methods controlling 
 false discoveries in computational biology](https://doi.org/10.1101/458786).
-(In submission)
+(submitted)
 
 Moore J, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli
 T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P,
