@@ -2,13 +2,13 @@
 layout: page
 title: Papers 
 ---
-(* co-senior, # co-first)
+(***** co-senior, **#** co-first)
 
 <br>
 #### Under Consideration 
 
 Wang C, Li D, Zhang L, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
-Xiao H, Gewurz BE, **Teng M**<sup>*</sup>, Zhao B<sup>*</sup>. 
+Xiao H, Gewurz BE, **Teng M***, Zhao B*. 
 RNA-seq analyses of gene expression during Epstein-Barr virus infection
 of B lymphocytes identify lncRNAs essential for lymphoblast growth. (in revision)
 
