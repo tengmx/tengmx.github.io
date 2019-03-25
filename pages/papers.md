@@ -2,7 +2,7 @@
 layout: page
 title: Papers 
 ---
-(__*__co-senior, __#__co-first)
+(**\***co-senior, **\#**co-first)
 
 <br>
 #### Under Consideration 
@@ -14,7 +14,7 @@ acetyltransferases family members are critical for nasopharyngeal
 carcinoma cell growth and survival. (under review)
 
 Wang C, Li D, Zhang L, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
-Xiao H, Gewurz BE, __Teng M*__, Zhao B*. 
+Xiao H, Gewurz BE, **Teng M\***, Zhao B*. 
 RNA-seq analyses of gene expression during Epstein-Barr virus infection
 of B lymphocytes identify lncRNAs essential for lymphoblast growth. (in revision)
 
