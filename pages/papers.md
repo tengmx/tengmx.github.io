@@ -2,22 +2,31 @@
 layout: page
 title: Papers 
 ---
+(<sup>*</sup> co-senior; <sup>#</sup> co-first)
 
-Wang C, Jiang S, Ke L, **Teng M**, Chen C, Zhang L, Li D, Liang J, 
-Narita Y, Hou I, Wang L, Zhong Q, Lv X, Xiang Y, Tsao SW, Guo X, 
-Gewurz BE, Zeng MS, Zhao B. Super-enhancer driven MYST histone lysine 
+<br>
+###### Under Consideration 
+
+Wang C, Li D, Zhang L, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
+Xiao H, Gewurz BE, **Teng M**<sup>*</sup>, Zhao B<sup>*</sup>. 
+RNA-seq analyses of gene expression during Epstein-Barr virus infection
+of B lymphocytes identify lncRNAs essential for lymphoblast growth. (in revision)
+
+Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, 
+Chen C, Wang L, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**, Tsao SW,  
+Gewurz BE, Zeng M, Zhao B. Super-enhancer driven MYST histone lysine 
 acetyltransferases family members are critical for nasopharyngeal 
-carcinoma cell growth and survival. (submitted)
+carcinoma cell growth and survival. (under review)
 
-Jiang C, Trudeau SJ, Cheong TC, **Teng M**,Wang LW, Pighi C, 
+Jiang C, Trudeau SJ, Cheong TC, **Teng M**, Wang LW, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
 Doench J, Chiarle R, Gewurz BE. CRISPR/Cas9 screens reveal multiple
-layers of B-cell CD40 regulation. (submitted)
+layers of B-cell CD40 regulation. (in revision)
 
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**,
 Shukla C, Alm EJ, Hicks SC. [A practical guide to methods controlling 
 false discoveries in computational biology](https://doi.org/10.1101/458786).
-(submitted)
+(under review)
 
 Moore J, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli
 T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P,
@@ -25,10 +34,10 @@ Gorkin DU, He Y, Mackiewicz M, **The ENCODE Consortium**, Cherry JM,
 Myers RM, Ren B, Graveley BR, Stamatoyannopoulos JA, Gerstein MB, 
 Pennacchio LA, Gingeras T, Snyder MP, Bernstein BE, Wold B, Hardison
 RC, Weng Z. ENCODE phase III: building an encyclopaedia of candidate 
-regulatory elements for human and mouse. (In revision)
+regulatory elements for human and mouse. (in revision)
 
 <br>
-#### Published
+###### Refereed Articles
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
 [Modeling and correct the GC bias of tumor and normal WGS data for SCNA

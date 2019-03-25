@@ -3,16 +3,19 @@ layout: page
 title: Studies
 ---
 
-#### Methods
+#### Computational methods for genomic sequencing data
 
-- Computational tool to accommadate new features in ATAC-seq.
-- Differential testing of ChIP-seq with bias-oriented normalization.
+- ChIP-seq
+- ATAC-seq
+- scATAC-seq
 
 <br>
-#### Analysis
+#### Bioinformatics analysis for biological questions
 
-- CRISPR/Cas9 screens to identify B-cell regulators.
-- ChIP-seq and HiC-seq to study enhancer regulation in B-cell. 
+- Super enhancer
+- LincRNA
+- Epstein–Barr virus
+ 
 
 
 
