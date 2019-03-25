@@ -4,8 +4,7 @@ title: Papers
 ---
 (<sup>*</sup> co-senior; <sup>#</sup> co-first)
 
-<br>
-###### Under Consideration 
+##### Under Consideration 
 
 Wang C, Li D, Zhang L, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
 Xiao H, Gewurz BE, **Teng M**<sup>*</sup>, Zhao B<sup>*</sup>. 
@@ -37,7 +36,7 @@ RC, Weng Z. ENCODE phase III: building an encyclopaedia of candidate
 regulatory elements for human and mouse. (in revision)
 
 <br>
-###### Refereed Articles
+##### Refereed Articles
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
 [Modeling and correct the GC bias of tumor and normal WGS data for SCNA
