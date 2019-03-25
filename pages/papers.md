@@ -2,21 +2,21 @@
 layout: page
 title: Papers 
 ---
-(***** co-senior, **#** co-first)
+(__*__co-senior, __#__co-first)
 
 <br>
 #### Under Consideration 
-
-Wang C, Li D, Zhang L, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
-Xiao H, Gewurz BE, **Teng M***, Zhao B*. 
-RNA-seq analyses of gene expression during Epstein-Barr virus infection
-of B lymphocytes identify lncRNAs essential for lymphoblast growth. (in revision)
 
 Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, 
 Chen C, Wang L, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**, Tsao SW,  
 Gewurz BE, Zeng M, Zhao B. Super-enhancer driven MYST histone lysine 
 acetyltransferases family members are critical for nasopharyngeal 
 carcinoma cell growth and survival. (under review)
+
+Wang C, Li D, Zhang L, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
+Xiao H, Gewurz BE, __Teng M*__, Zhao B*. 
+RNA-seq analyses of gene expression during Epstein-Barr virus infection
+of B lymphocytes identify lncRNAs essential for lymphoblast growth. (in revision)
 
 Jiang C, Trudeau SJ, Cheong TC, **Teng M**, Wang LW, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
@@ -26,7 +26,7 @@ layers of B-cell CD40 regulation. (in revision)
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**,
 Shukla C, Alm EJ, Hicks SC. [A practical guide to methods controlling 
 false discoveries in computational biology](https://doi.org/10.1101/458786).
-(under review)
+(in revision)
 
 Moore J, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli
 T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P,
