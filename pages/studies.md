@@ -3,14 +3,14 @@ layout: page
 title: Studies
 ---
 
-#### Computational methods for genomic sequencing data
+#### Computational methods processing genomic sequencing data
 
 - ChIP-seq
 - ATAC-seq
 - scATAC-seq
 
 <br>
-#### Bioinformatics analysis for biological questions
+#### Bioinformatics analysis answering biological questions
 
 - Super enhancer
 - LincRNA
