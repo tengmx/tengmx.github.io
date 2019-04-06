@@ -13,11 +13,6 @@ Tsao SW, Gewurz BE, Zeng M, Zhao B. Super-enhancer driven MYST histone
 lysine acetyltransferases family members are critical for nasopharyngeal
 carcinoma cell growth and survival. (under review)
 
-Wang C, Li D, Zhang L, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
-Xiao H, Gewurz BE, **Teng M\***, Zhao B*. RNA-seq analyses of gene
-expression during Epstein-Barr virus infection of B lymphocytes 
-identify lncRNAs essential for lymphoblast growth. (in revision)
-
 Jiang C, Trudeau SJ, Cheong TC, **Teng M**, Wang LW, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
 Doench J, Chiarle R, Gewurz BE. CRISPR/Cas9 screens reveal multiple
@@ -38,6 +33,11 @@ regulatory elements for human and mouse. (in revision)
 
 <br>
 #### Refereed Articles
+
+Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
+Xiao H, Gewurz BE, **Teng M\***, Zhao B*. RNA-seq analyses of gene
+expression during Epstein-Barr virus infection of B lymphocytes 
+identify lncRNAs essential for lymphoblast growth. *Journal of Virology*, 2019. (in press)
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
 [Modeling and correct the GC bias of tumor and normal WGS data for SCNA
