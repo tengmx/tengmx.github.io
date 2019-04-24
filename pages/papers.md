@@ -2,9 +2,8 @@
 layout: page
 title: Papers 
 ---
-(**\***co-corresponding, **\#**co-first)
+**\*** co-corresponding, **<sup>#</sup>** co-first
 
-<br>
 #### Under Consideration 
 
 Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, 
@@ -12,6 +11,10 @@ Chen C, Wang L, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**,
 Tsao SW, Gewurz BE, Zeng M, Zhao B. Super-enhancer driven MYST histone
 lysine acetyltransferases family members are critical for nasopharyngeal
 carcinoma cell growth and survival. (under review)
+
+Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q,
+Gewurz B, **Teng M\***, Zhao B\*. TAF family proteins and MEF2C 
+are essential for Epstein-Barr virus super-enhancer activity. (in revision)
 
 Jiang C, Trudeau SJ, Cheong TC, **Teng M**, Wang LW, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
@@ -36,8 +39,9 @@ regulatory elements for human and mouse. (in revision)
 
 Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
 Xiao H, Gewurz BE, **Teng M\***, Zhao B\*. RNA-seq analyses of gene
-expression during Epstein-Barr virus infection of B lymphocytes 
-identify lncRNAs essential for lymphoblast growth. *Journal of Virology*, 2019. (in press)
+expression during Epstein-Barr virus infection of primary B 
+lymphocytes](https://doi.org/10.1128/JVI.00226-19).
+*Journal of Virology*, 2019. (in press)
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
 [Modeling and correct the GC bias of tumor and normal WGS data for SCNA
