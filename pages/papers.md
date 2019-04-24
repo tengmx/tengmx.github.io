@@ -38,7 +38,7 @@ regulatory elements for human and mouse. (in revision)
 #### Refereed Articles
 
 Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
-Xiao H, Gewurz BE, **Teng M\***, Zhao B\*. RNA-seq analyses of gene
+Xiao H, Gewurz BE, **Teng M\***, Zhao B\*. [RNA-seq analyses of gene
 expression during Epstein-Barr virus infection of primary B 
 lymphocytes](https://doi.org/10.1128/JVI.00226-19).
 *Journal of Virology*, 2019. (in press)
