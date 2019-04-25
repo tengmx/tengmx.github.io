@@ -7,6 +7,8 @@ title: Studies
 
 - ChIP-seq
 - ATAC-seq
+- HiChIP
+- CRISPR/cas9 screening
 - scATAC-seq
 
 <br>
@@ -15,6 +17,7 @@ title: Studies
 - Super enhancer
 - LincRNA
 - Epstein–Barr virus
+- 3D genome
  
 
 
