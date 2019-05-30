@@ -2,34 +2,23 @@
 layout: page
 title: Papers 
 ---
-**<sup>#</sup>** co-first,  **\*** co-corresponding
-
-#### Under Consideration 
+**<sup>#</sup>** co-first author,  **\*** co-corresponding author
 
 Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q,
 Gewurz B, **Teng M\***, Zhao B\*. TAF family proteins and MEF2C 
-are essential for Epstein-Barr virus super-enhancer activity. (in revision)
+are essential for Epstein-Barr virus super-enhancer activity. 
+*Journal of Virology*, 2019. (accepted)
 
 Jiang C, Trudeau SJ, Cheong TC, **Teng M**, Wang LW, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
-Doench J, Chiarle R, Gewurz BE. CRISPR/Cas9 screens reveal multiple
-layers of B-cell CD40 regulation. (in revision)
+Doench J, Chiarle R, Gewurz BE. [CRISPR/Cas9 screens reveal multiple
+layers of B-cell CD40 regulation](https://doi.org/10.2139/ssrn.3314564).
+*Cell Reports*, 2019. (accepted)
 
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**,
 Shukla C, Alm EJ, Hicks SC. [A practical guide to methods controlling 
 false discoveries in computational biology](https://doi.org/10.1101/458786).
-(in revision)
-
-Moore J, Purcaro MJ, Pratt HE, Epstein CB, Shoresh N, Adrian J, Kawli
-T, Davis CA, Dobin A, Kaul R, Halow J, Van Nostrand EL, Freese P,
-Gorkin DU, He Y, Mackiewicz M, **The ENCODE Consortium**, Cherry JM, 
-Myers RM, Ren B, Graveley BR, Stamatoyannopoulos JA, Gerstein MB, 
-Pennacchio LA, Gingeras T, Snyder MP, Bernstein BE, Wold B, Hardison
-RC, Weng Z. ENCODE phase III: building an encyclopaedia of candidate 
-regulatory elements for human and mouse. (in revision)
-
-<br>
-#### Refereed Articles
+*Genome Biology*, 2019. (accepted)
 
 Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, 
 Chen CH, Wang LW, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**, 
