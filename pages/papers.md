@@ -9,7 +9,7 @@ Gewurz B, **Teng M\***, Zhao B\*. TAF family proteins and MEF2C
 are essential for Epstein-Barr virus super-enhancer activity. 
 *Journal of Virology*, 2019. (accepted)
 
-Jiang C, Trudeau SJ, Cheong TC, **Teng M**, Wang LW, Pighi C, 
+Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
 Doench J, Chiarle R, Gewurz BE. [CRISPR/Cas9 screens reveal multiple
 layers of B-cell CD40 regulation](https://doi.org/10.2139/ssrn.3314564).
