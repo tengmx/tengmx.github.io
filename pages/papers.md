@@ -4,21 +4,22 @@ title: Papers
 ---
 **<sup>#</sup>** co-first author,  **\*** co-corresponding author
 
-Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q,
-Gewurz B, **Teng M\***, Zhao B\*. TAF family proteins and MEF2C 
-are essential for Epstein-Barr virus super-enhancer activity. 
-*Journal of Virology*, 2019. (accepted)
-
 Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
 Doench J, Chiarle R, Gewurz BE. [CRISPR/Cas9 screens reveal multiple
 layers of B-cell CD40 regulation](https://doi.org/10.2139/ssrn.3314564).
 *Cell Reports*, 2019. (accepted)
 
+Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q,
+Gewurz B, **Teng M\***, Zhao B\*. [TAF family proteins and MEF2C are 
+essential for Epstein-Barr virus MYC super-enhancer 
+activity](https://doi.org/10.1128/JVI.00513-19).
+*Journal of Virology*, 2019. (in press)
+
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**,
 Shukla C, Alm EJ, Hicks SC. [A practical guide to methods controlling 
-false discoveries in computational biology](https://doi.org/10.1101/458786).
-*Genome Biology*, 2019. (accepted)
+false discoveries in computational biology](https://doi.org/10.1186/s13059-019-1716-1).
+*Genome Biology*, 2019;20:118.
 
 Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, 
 Chen CH, Wang LW, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**, 
