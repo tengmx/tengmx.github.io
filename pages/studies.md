@@ -3,21 +3,21 @@ layout: page
 title: Studies
 ---
 
-#### Computational methods processing genomic sequencing data
+#### Data Challenges
 
 - ChIP-seq
 - ATAC-seq
-- HiChIP
-- CRISPR/cas9 screening
+- CRISPR/cas9 Screen
 - scATAC-seq
+- HiChIP
 
 <br>
-#### Bioinformatics analysis answering biological questions
+#### Functional Genomics
 
-- Super enhancer
+- Super Enhancer
 - LincRNA
-- Epstein–Barr virus
-- 3D genome
+- Epstein–Barr Virus
+- 3D Genome
  
 
 
