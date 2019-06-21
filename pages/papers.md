@@ -29,10 +29,10 @@ essential for nasopharyngeal carcinoma](https://doi.org/10.1074/jbc.RA119.008793
 *Journal of Biological Chemistry*, 2019. (in press)
 
 Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
-Xiao H, Gewurz BE, **Teng M\***, Zhao B\*. [RNA-seq analyses of gene
+Xiao H, Gewurz BE, **Teng M\***, Zhao B\*. [RNA sequencing analyses of gene
 expression during Epstein-Barr virus infection of primary B 
 lymphocytes](https://doi.org/10.1128/JVI.00226-19).
-*Journal of Virology*, 2019. (in press)
+*Journal of Virology*, 2019;93:e00226-19.
 
 Chu Y<sup>#</sup>, **Teng M**<sup>#</sup>, Wang Y.
 [Modeling and correct the GC bias of tumor and normal WGS data for SCNA
