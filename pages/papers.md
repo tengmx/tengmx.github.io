@@ -26,7 +26,7 @@ Chen CH, Wang LW, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**,
 Tsao SW, Gewurz BE, Zeng MS, Zhao B. [Genome-wide CRISPR-based
 gene knockout screens reveal cellular factors and pathways
 essential for nasopharyngeal carcinoma](https://doi.org/10.1074/jbc.RA119.008793).
-*Journal of Biological Chemistry*, 2019. (in press)
+*Journal of Biological Chemistry*, 2019;294(25):9734-9745.
 
 Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
 Xiao H, Gewurz BE, **Teng M\***, Zhao B\*. [RNA sequencing analyses of gene
