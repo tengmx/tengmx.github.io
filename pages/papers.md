@@ -2,7 +2,7 @@
 layout: page
 title: Papers 
 ---
-**<sup>#</sup>** co-first author,  **\*** co-corresponding author
+**<sup>#</sup>** <u>equal contribution</u>
 
 Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
@@ -11,7 +11,7 @@ of B cell CD40 Regulation](https://doi.org/10.1016/j.celrep.2019.06.079).
 *Cell Reports*, 2019;28(5):1307-1322.e8.
 
 Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q,
-Gewurz BE, **Teng M\***, Zhao B\*. [TAF family proteins and MEF2C are 
+Gewurz BE, **Teng M**<sup>#</sup>, Zhao B<sup>#</sup>. [TAF family proteins and MEF2C are 
 essential for Epstein-Barr virus MYC super-enhancer 
 activity](https://doi.org/10.1128/JVI.00513-19).
 *Journal of Virology*, 2019;93:e00513-19.
@@ -29,7 +29,7 @@ essential for nasopharyngeal carcinoma](https://doi.org/10.1074/jbc.RA119.008793
 *Journal of Biological Chemistry*, 2019;294(25):9734-9745.
 
 Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, 
-Xiao H, Gewurz BE, **Teng M\***, Zhao B\*. [RNA sequencing analyses of gene
+Xiao H, Gewurz BE, **Teng M**<sup>#</sup>, Zhao B<sup>#</sup>. [RNA sequencing analyses of gene
 expression during Epstein-Barr virus infection of primary B 
 lymphocytes](https://doi.org/10.1128/JVI.00226-19).
 *Journal of Virology*, 2019;93:e00226-19.

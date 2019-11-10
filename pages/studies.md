@@ -5,20 +5,14 @@ title: Studies
 
 #### Data Challenges
 
-- ChIP-seq
-- ATAC-seq
-- CRISPR/cas9 Screen
-- scATAC-seq
-- HiChIP
+- Regulatory genomic sequencing: ChIP-seq & ATAC-seq
+- Single cell sequencing: scRNA-seq & scATAC-seq
+- 3D genome sequencing: Hi-C & HiChIP
+- CRISPR/cas9 screening
 
 <br>
 #### Functional Genomics
 
-- Super Enhancer
-- LincRNA
-- Epstein–Barr Virus
-- 3D Genome
- 
-
-
-
+- Gene regulation
+- Chromatin interation
+- Human cancer virus
