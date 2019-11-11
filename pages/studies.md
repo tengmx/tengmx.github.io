@@ -13,6 +13,6 @@ title: Studies
 <br>
 #### Functional Genomics
 
-- Gene regulation
-- Chromatin interation
-- Human cancer virus
+- Gene regulation in human cancers
+- Chromatin interation modeling
+- Human viral oncogenesis
