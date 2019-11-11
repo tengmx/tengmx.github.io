@@ -2,7 +2,7 @@
 layout: page
 title: Papers 
 ---
-**<sup>#</sup>** <u>equal contribution</u>
+<u>**<sup>#</sup>** equal contribution</u>
 
 Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L,
