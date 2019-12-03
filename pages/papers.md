@@ -78,6 +78,7 @@ miR2Disease: a manually curated database for microRNA deregulation in human dise
 [*Nucleic Acids Res* 37(S1):D98-104 (2009)](https://doi.org/10.1093/nar/gkn714)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18927107)
 
+<br>
 #### Viral Oncogenesis 
 
 Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q, Gewurz BE,
@@ -92,6 +93,7 @@ of gene expression during Epstein-Barr virus infection of primary B lymphocytes.
 [*J Virol* 93:e00226-19 (2019)](https://doi.org/10.1128/JVI.00226-19)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31019051)
 
+<br>
 #### Integrative Genomics
 
 Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
