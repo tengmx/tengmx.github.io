@@ -21,11 +21,11 @@ Email: mingxiang dot teng at moffitt dot org
 #### Research
 
 I develop computational methods and tools to address data challenges 
-in cancer genomics studies. These include assessing high-throughput 
-data quality, tackling data biases, pre-processing noisy data and
-functional annotation of cancer genomics data. Besides, I work on
-managing computational pipelines for collaborative genomics studies, 
-such as data visualization, integration and functional analysis.
+in genomic studies. Particularly, I work on next generation sequencing
+datasets with the focuses on data pre-processing, data mining and functional 
+annotation, as well as data integration across a wide-range of sequencing
+types. Another specific interest of me is to elucidate the machanisms 
+of viral oncogenesis in human cancers using integrative approaches.
 
 <br>
 #### Education
