@@ -3,7 +3,7 @@ layout: page
 title: Papers 
 ---
 
-#### Data Science and Tools
+#### Computational Methods 
 
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**, Shukla C,
 Alm EJ, Hicks SC. A practical guide to methods controlling false discoveries in
