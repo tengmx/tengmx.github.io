@@ -3,7 +3,7 @@ layout: page
 title: Papers 
 ---
 
-#### Computational Methods 
+#### Computational Methodology
 
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**, Shukla C,
 Alm EJ, Hicks SC. A practical guide to methods controlling false discoveries in
