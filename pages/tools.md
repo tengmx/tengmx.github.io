@@ -13,11 +13,13 @@ on [GitHub](https://github.com/tengmx/gcapc).
 
 [ComplexDiff](https://github.com/tengmx/ComplexDiff).
 An R-package to normalize and estimate differential DNA bindings
-of protein complexes with ChIP-seq data.
+of protein complexes with ChIP-seq data. This package considers several
+unique features of protein complexes and provides better performance compared
+to tools developed for generic differential binding analysis.
 
 [rnaseqcomp](https://bioconductor.org/packages/rnaseqcomp).
-An R/Bioconductor pakcage providing several quantitative and visualized
-benchmarks for RNA-seq quantification pipelines, accompanied with an
+An R/Bioconductor pakcage providing evaluation and visualization of several
+quantitative benchmarks for RNA-seq quantification pipelines, accompanied with an
 easy-to-use [web tool](http://rafalab.rc.fas.harvard.edu/rnaseqbenchmark).
 Quantifications of genes, transcripts, junctions or exons in two compared
 conditions by each pipeline with necessary meta information should be
@@ -25,5 +27,10 @@ organized into numeric matrices in order to proceed the evaluation.
 Package is also available on [GitHub](https://github.com/tengmx/rnaseqcomp).
 
 [regSNPs](https://github.com/tengmx/regSNPs).
-R code pipeline that implements the strategy for prioritizing regulatory 
-single nucleotide substitutions for a given phenotype.
+An informatics strategy with R code that integrates several established
+bioinformatics tools for prioritizing regulatory SNPs, i.e. the SNPs 
+in the promoter regions that potentially affect phenotype through 
+changing transcription of downstream genes. regSNPs considers degenerative
+features of binding motifs by calculating the differences on the binding
+affinity caused by the candidate variants and integrates potential
+phenotypic effects of various transcription factors.
