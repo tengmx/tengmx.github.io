@@ -3,12 +3,12 @@ layout: page
 title: Studies
 ---
 
-#### Computational Methodology
+#### Computational Genomics
 
 - Regulatory genomic sequencing: ChIP-seq & ATAC-seq
 - Single cell sequencing: scRNA-seq & scATAC-seq
 - 3D genome sequencing: Hi-C & HiChIP
-- CRISPR/cas9 screening
+- CRISPR screening
 
 <br>
 #### Integrative Functional Genomics
