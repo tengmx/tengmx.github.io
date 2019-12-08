@@ -3,7 +3,7 @@ layout: page
 title: Studies
 ---
 
-#### Data Challenges
+#### Computational Methodology
 
 - Regulatory genomic sequencing: ChIP-seq & ATAC-seq
 - Single cell sequencing: scRNA-seq & scATAC-seq
@@ -11,7 +11,7 @@ title: Studies
 - CRISPR/cas9 screening
 
 <br>
-#### Functional Genomics
+#### Integrative Functional Genomics
 
 - Gene regulation in human cancers
 - Chromatin interation modeling

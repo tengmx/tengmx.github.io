@@ -79,7 +79,13 @@ miR2Disease: a manually curated database for microRNA deregulation in human dise
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18927107)
 
 <br>
-#### Viral Oncogenesis 
+#### Integrative Functional Genomics
+
+Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
+Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L, Doench JG, 
+Chiarle R, Gewurz BE. CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40
+Regulation. [*Cell Rep* 28(5):1307-22 (2019)](https://doi.org/10.1016/j.celrep.2019.06.079)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31365872)
 
 Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q, Gewurz BE,
 **Teng M**<sup>‡</sup>, Zhao B<sup>‡</sup>. TAF family proteins and MEF2C are 
@@ -92,15 +98,6 @@ H, Gewurz BE, **Teng M**<sup>‡</sup>, Zhao B<sup>‡</sup>. RNA sequencing ana
 of gene expression during Epstein-Barr virus infection of primary B lymphocytes.
 [*J Virol* 93:e00226-19 (2019)](https://doi.org/10.1128/JVI.00226-19)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31019051)
-
-<br>
-#### Integrative Genomics
-
-Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
-Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L, Doench JG, 
-Chiarle R, Gewurz BE. CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40
-Regulation. [*Cell Rep* 28(5):1307-22 (2019)](https://doi.org/10.1016/j.celrep.2019.06.079)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31365872)
 
 Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, Chen CH, Wang
 LW, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**, Tsao SW, Gewurz BE, Zeng
