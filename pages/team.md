@@ -3,11 +3,6 @@ layout: page
 title: Team
 ---
 
-#### Visiting Graduate Students
-
-- Jiao Hua 2020 (Harbin Institute of Technology) 
-- Weiyue Ding 2020 (Harbin Institute of Technology)
-
-<br>
 #### Intern Students
+- Rodrigo Azuero-Dajud 2020 (University of South Florida)
 - Mak Djulbegovic 2019 (University of South Florida)

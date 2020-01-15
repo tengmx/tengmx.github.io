@@ -10,10 +10,8 @@ src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
 Assistant Member <br>
 Department of Biostatistics and Bioinformatics <br>
 Moffitt Cancer Center <br>
-Email: mingxiang dot teng at moffitt dot org
 
 [Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
-[Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ) |
 [GitHub](https://github.com/tengmx) |
 [Twitter](https://twitter.com/mingxiangteng)
 
@@ -41,4 +39,3 @@ University School of Medicine. I had my postdoctoral training in
 Prof. Rafael Irizarry's lab in the Department of Biostatistics and 
 Computational Biology at Dana-Farber Cancer Institute and
 Harvard T.H. Chan School of Public Health.
-
