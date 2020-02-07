@@ -3,7 +3,7 @@ layout: page
 title: Papers 
 ---
 
-#### Computational Genomics
+#### Data Challenges
 
 Korthauer K, Kimes PK, Duvallet C, Reyes A, Subramanian A, **Teng M**, Shukla C,
 Alm EJ, Hicks SC. A practical guide to methods controlling false discoveries in
@@ -79,7 +79,7 @@ miR2Disease: a manually curated database for microRNA deregulation in human dise
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18927107)
 
 <br>
-#### Integrative Functional Genomics
+#### Functional Genomics
 
 Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L, Doench JG, 

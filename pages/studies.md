@@ -3,16 +3,15 @@ layout: page
 title: Studies
 ---
 
-#### Computational Genomics
+#### Data Challenges
 
-- Regulatory genomic sequencing: ChIP-seq & ATAC-seq
-- Single cell sequencing: scRNA-seq & scATAC-seq
-- 3D genome sequencing: Hi-C & HiChIP
+- Regulatory genomic sequencing
+- Single cell sequencing
+- 3D chromatin sequencing
 - CRISPR screening
 
 <br>
-#### Integrative Functional Genomics
+#### Functional Genomics
 
-- Gene regulation in human cancers
-- Chromatin interation modeling
-- Human viral oncogenesis
+- Genetic regulation
+- Viral oncogenesis
