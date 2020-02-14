@@ -18,13 +18,13 @@ Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q, Gewurz BE,
 **Teng M**<sup>‡</sup>, Zhao B<sup>‡</sup>. TAF family proteins and MEF2C are 
 essential for Epstein-Barr virus MYC super-enhancer activity. [*J Virol* 
 93:e00513-19 (2019)](https://doi.org/10.1128/JVI.00513-19)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31167905)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31167905) (<sup>‡</sup>co-corresponding author)
 
 Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, Xiao
 H, Gewurz BE, **Teng M**<sup>‡</sup>, Zhao B<sup>‡</sup>. RNA sequencing analyses
 of gene expression during Epstein-Barr virus infection of primary B lymphocytes.
 [*J Virol* 93:e00226-19 (2019)](https://doi.org/10.1128/JVI.00226-19)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31019051)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31019051) (<sup>‡</sup>co-corresponding author)
 
 Wang C, Jiang S, Ke L, Zhang L, Li D, Liang J, Narita Y, Hou I, Chen CH, Wang
 LW, Zhong Q, Ling Y, Lv X, Xiang Y, Guo X, **Teng M**, Tsao SW, Gewurz BE, Zeng
@@ -36,7 +36,7 @@ factors and pathways essential for nasopharyngeal carcinoma. [*J Biol Chem*
 Chu Y<sup>†</sup>, **Teng M**<sup>†</sup>, Wang Y. Modeling and correct the GC 
 bias of tumor and normal WGS data for SCNA based tumor subclonal population 
 inferring. [*BMC Bioinformatics* 19(S5):112 (2018)](https://doi.org/10.1186/s12859-018-2099-0)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29671389)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29671389) (<sup>†</sup>co-first author)
 
 Hicks SC, Townes FW, **Teng M**, Irizarry RA. Missing data and technical 
 variability in single-cell RNA-sequencing experiments. [*Biostatistics* 
@@ -96,12 +96,12 @@ Balch C. Empirical bayes model comparisons for differential methylation analysis
 Cooper DN, Koller DL, Foroud T, Edenberg HJ, Econs MJ, Liu Y. regSNPs: a 
 strategy for prioritizing regulatory single nucleotide substitutions.
 [*Bioinformatics* 28(14):1879-86 (2012)](https://doi.org/10.1093/bioinformatics/bts275)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22611130)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22611130) (<sup>†</sup>co-first author)
 
 **Teng M**<sup>†</sup>, Balch C<sup>†</sup>, Liu Y, Li M, Huang THM, Wang Y,
 Nephew KP, Li L. The influence of cis-regulatory elements on DNA methylation
 fidelity. [*PLoS ONE* 7(3):e32928 (2012)](https://doi.org/10.1371/journal.pone.0032928)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954) (<sup>†</sup>co-first author)
 
 Zhu S, Jiang Q, Wang G, Liu B, **Teng M**, Wang Y. Chromatin structure 
 characteristics of pre-miRNA genomic sequences. [*BMC Genomics* 12:329 
