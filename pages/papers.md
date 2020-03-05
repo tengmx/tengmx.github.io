@@ -3,6 +3,15 @@ layout: page
 title: Papers 
 ---
 
+#### 2020
+
+Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, 
+Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
+**Teng M**<sup>‡</sup>, Gewurz BE<sup>‡</sup>. MYC controls the Epstein-Barr 
+Virus lytic switch. *Mol Cell* (In press) (<sup>‡</sup>co-corresponding author)
+
+#### 2019
+
 Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
 Gautier-Courteille C, Ma Y, Jiang S, Wang C, Zhao B, Paillard L, Doench JG, 
 Chiarle R, Gewurz BE. CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40
@@ -33,15 +42,17 @@ factors and pathways essential for nasopharyngeal carcinoma. [*J Biol Chem*
 294(25):9734-45 (2019)](https://doi.org/10.1074/jbc.RA119.008793)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31073033)
 
-Chu Y<sup>†</sup>, **Teng M**<sup>†</sup>, Wang Y. Modeling and correct the GC 
-bias of tumor and normal WGS data for SCNA based tumor subclonal population 
-inferring. [*BMC Bioinformatics* 19(S5):112 (2018)](https://doi.org/10.1186/s12859-018-2099-0)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29671389) (<sup>†</sup>co-first author)
+#### 2018 and Earlier
 
 Hicks SC, Townes FW, **Teng M**, Irizarry RA. Missing data and technical 
 variability in single-cell RNA-sequencing experiments. [*Biostatistics* 
 19(4):562-8 (2018)](https://doi.org/10.1093/biostatistics/kxx053)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29121214)
+
+Chu Y<sup>†</sup>, **Teng M**<sup>†</sup>, Wang Y. Modeling and correct the GC 
+bias of tumor and normal WGS data for SCNA based tumor subclonal population 
+inferring. [*BMC Bioinformatics* 19(S5):112 (2018)](https://doi.org/10.1186/s12859-018-2099-0)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29671389) (<sup>†</sup>co-first author)
 
 **Teng M**, Irizarry RA. Accounting for GC-content bias reduces systematic errors
 and batch effects in ChIP-seq data. [*Genome Res* 27(11):1930-8 
