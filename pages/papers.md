@@ -10,6 +10,7 @@ Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
 **Teng M**<sup>‡</sup>, Gewurz BE<sup>‡</sup>. MYC controls the Epstein-Barr 
 Virus lytic switch. *Mol Cell* (In press) (<sup>‡</sup>co-corresponding author)
 
+<br>
 #### 2019
 
 Jiang C, Trudeau SJ, Cheong TC, Guo R, **Teng M**, Wang LW, Wang Z, Pighi C, 
@@ -42,6 +43,7 @@ factors and pathways essential for nasopharyngeal carcinoma. [*J Biol Chem*
 294(25):9734-45 (2019)](https://doi.org/10.1074/jbc.RA119.008793)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31073033)
 
+<br>
 #### 2018 and Earlier
 
 Hicks SC, Townes FW, **Teng M**, Irizarry RA. Missing data and technical 
