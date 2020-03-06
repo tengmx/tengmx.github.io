@@ -5,10 +5,16 @@ title: Papers
 
 #### 2020
 
+Velde RV, Yoon N, Marusyk V, Durmaz A, Dhawan A, Myroshnychenko D, Lozano-Peral1
+D, Desai B, Balynska O, Poleszhuk J, Kenian L, **Teng M**, Abazeed M, Mian O, 
+Tan AC, Haura E, Scott J, Marusyk A. Resistance to targeted therapies as a 
+multifactorial, gradual adaptation to inhibitor specific selective pressures.
+*Nat Commun* (accepted)
+
 Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, 
 Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
 **Teng M**<sup>‡</sup>, Gewurz BE<sup>‡</sup>. MYC controls the Epstein-Barr 
-Virus lytic switch. *Mol Cell* (In press) (<sup>‡</sup>co-corresponding author)
+Virus lytic switch. *Mol Cell* (accepted) (<sup>‡</sup>co-corresponding author)
 
 <br>
 #### 2019
