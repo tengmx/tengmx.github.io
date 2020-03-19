@@ -4,7 +4,7 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
-**Mingxiang Teng** (Principal Investigator)
+**Mingxiang Teng**
 <img style="float: right;width:100px;height:100px;" 
 src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
 Assistant Member <br>
