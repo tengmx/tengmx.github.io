@@ -1,0 +1,14 @@
+---
+layout: page
+title: People
+---
+
+#### Current Lab Members
+
+- Rodrigo Azuero-Dajud (Graduate Intern Student)
+- Mingxiang Teng (Principal Investigator)
+
+<br>
+#### Past Members
+
+- Mak Djulbegovic (Graduate Intern Student, 2019)

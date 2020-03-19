@@ -4,7 +4,7 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
-**Mingxiang Teng**
+**Mingxiang Teng** (Principal Investigator)
 <img style="float: right;width:100px;height:100px;" 
 src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
 Assistant Member <br>
@@ -15,27 +15,18 @@ Moffitt Cancer Center <br>
 [GitHub](https://github.com/tengmx) |
 [Twitter](https://twitter.com/mingxiangteng)
 
+Mingxiang Teng received his PhD in Computer Application Technology
+from Harbin Institute of Technology in 2012. He had a joint graduate
+training in Computational Biology and Bioinformatics at Indiana
+University School of Medicine during 2008-2010. He had his postdoctoral
+training in  Biostatistics and Computational Biology at Dana-Farber 
+Cancer Institute and Harvard T.H. Chan School of Public Health 
+durng 2013-2018.
+
 ---
 
-#### Research
+#### News & Events
 
-I develop computational methods and tools to address data challenges 
-in genomic studies. Particularly, I work on next generation sequencing
-datasets with the focuses on data pre-processing, data mining and functional 
-annotation, as well as data integration across a wide-range of sequencing
-types. Another specific interest of me is to elucidate the mechanisms 
-of viral oncogenesis in human cancers using integrative genomics approaches.
+2020.02 Welcome **Rodrigo Azuero-Dajud** as a graduate intern in the lab. 
 
-<br>
-#### Education
 
-I received my BEng, MEng and PhD from School of Computer Science and Technology
-at Harbin Institute of Technology under the direction of Prof. Yadong
-Wang. My PhD works focused on computational analysis methods for
-regulatory single nucleotide variants and DNA methylation fidelity, 
-which were partially finished in Profs. Yunlong Liu and Lang Li 's labs
-in the Center for Computational Biology and Bioinformatics at Indiana
-University School of Medicine. I had my postdoctoral training in
-Prof. Rafael Irizarry's lab in the Department of Biostatistics and 
-Computational Biology at Dana-Farber Cancer Institute and
-Harvard T.H. Chan School of Public Health.
