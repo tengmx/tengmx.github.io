@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Research
+title: Research Interests
 ---
-
-### Research Interests
-
 We focus on statistical/computational methods to address data challenges
 in cancer genomics studies, such as data preprocessing, data integration
 and functional annotation of high-throughput genomic sequencing data. 

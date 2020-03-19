@@ -29,4 +29,4 @@ during 2013-2018.
 
 - 2020.03 Our collaborative paper is accepted by *Molecular Cell*.  
 
-- 2020.02 Welcome **Rodrigo Azuero-Dajud** as a graduate intern in the lab. 
+- 2020.02 Welcome *Rodrigo Azuero-Dajud* as a graduate intern in the lab. 
