@@ -20,7 +20,7 @@ GC bias for a given list of genomic sites. Package is also available
 on [GitHub](https://github.com/tengmx/gcapc).
 
 [**rnaseqcomp**](https://bioconductor.org/packages/rnaseqcomp) - 
-An R/Bioconductor pakcage providing evaluation and visualization of several
+An R/Bioconductor package providing evaluation and visualization of several
 quantitative benchmarks for RNA-seq quantification pipelines, accompanied with an
 easy-to-use [web tool](http://rafalab.rc.fas.harvard.edu/rnaseqbenchmark).
 Quantifications of genes, transcripts, junctions or exons in two compared

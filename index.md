@@ -19,14 +19,14 @@ Mingxiang Teng received his PhD in Computer Application Technology
 from Harbin Institute of Technology in 2012. He had a joint graduate
 training in Computational Biology and Bioinformatics at Indiana
 University School of Medicine during 2008-2010. He had his postdoctoral
-training in  Biostatistics and Computational Biology at Dana-Farber 
+training in Biostatistics and Computational Biology at Dana-Farber 
 Cancer Institute and Harvard T.H. Chan School of Public Health 
-durng 2013-2018.
+during 2013-2018.
 
 ---
 
 #### News & Events
 
-2020.02 Welcome **Rodrigo Azuero-Dajud** as a graduate intern in the lab. 
+- 2020.03 Our collaborative paper is accepted by *Molecular Cell*.  
 
-
+- 2020.02 Welcome **Rodrigo Azuero-Dajud** as a graduate intern in the lab. 
