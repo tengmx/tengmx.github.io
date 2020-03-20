@@ -6,6 +6,7 @@ title: People
 #### Current Lab Members
 
 - Rodrigo Azuero-Dajud (Graduate Intern Student)
+- Dongliang Du (Staff Scientist)
 - Mingxiang Teng (Principal Investigator)
 
 <br>
