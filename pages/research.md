@@ -4,8 +4,8 @@ title: Research Interests
 ---
 We focus on statistical/computational methods to address data challenges
 in cancer genomics studies, such as data preprocessing, data integration
-and functional annotation of high-throughput genomic sequencing data. 
-Areas of ongoing research include:
+and functional annotation of high-throughput genomic sequencing datasets. 
+Ongoing research include:
 
 
 <br>
@@ -17,7 +17,7 @@ or integrative approaches across different genomic data types. One of
 our main focuses is to infer genetic regulatory mechanisms under cancer
 settings, such as gene regulation by enhancers and super enhancers. 
 Sequencing data types we are currently working with towards this goal
-including ChIP-seq, ATAC-seq, HiC-seq, HiChIP, etc. 
+including RNA-seq, ChIP-seq, ATAC-seq, HiC-seq, HiChIP, WES etc. 
 
 
 <br>
@@ -28,4 +28,4 @@ analysis approaches. We aim to discover novel biomarkers during viral
 oncogenesis, such as the critical viral targets in cancer hallmark pathways,
 functions of virus oncoproteins, etc. The oncoviruses we are currently 
 working on including EBV (in gastric and nasopharyngeal cancers), HPV
-(in cervical and head & neck cancers), KSHV (Kaposi sarcoma).
+(in cervical and head & neck cancers), KSHV (Kaposi sarcoma) etc.
