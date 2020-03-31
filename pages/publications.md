@@ -8,18 +8,18 @@ title: Publications
 - Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, 
 Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
 **Teng M<sup>‡</sup>**, Gewurz BE**<sup>‡</sup>**. (2020) MYC controls the Epstein-Barr 
-Virus lytic switch. *Mol Cell* (accepted)
+Virus lytic switch. *Mol Cell* (in press)
 
 - Velde RV, Yoon N, Marusyk V, Durmaz A, Dhawan A, Myroshnychenko D, Lozano-Peral
 D, Desai B, Balynska O, Poleszhuk J, Kenian L, **Teng M**, Abazeed M, Mian O, 
 Tan AC, Haura E, Scott J, Marusyk A. (2020) Resistance to targeted therapies as a 
 multifactorial, gradual adaptation to inhibitor specific selective pressures.
-*Nat Commun* (accepted)
+*Nat Commun* (in press)
 
 - Guo R, Zhang Y, **Teng M**, Jiang C, Schineller M, Zhao B, Doench JG, O’Reilly RJ, 
 Cesarman E, Guilino-Roth L, Gewurz BE. (2020) A CRISPR screen reveals epigenetic
  factors that restrict B-cell Epstein-Barr Virus oncoprotein expression. 
-*Nat Microbiol* (accepted)
+*Nat Microbiol* (in press)
 
 <br>
 #### 2019
