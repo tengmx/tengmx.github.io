@@ -7,7 +7,7 @@ title: People
 
 - Rodrigo Azuero-Dajud (Graduate Intern Student)
 - Dongliang Du (Core Scientist)
-- Mingxiang Teng (Principal Investigator)
+- Mingxiang Teng
 
 <br>
 #### Past Members
