@@ -5,7 +5,7 @@ title: Publications
 
 #### 2020
 
-- Vena F, Bayle1 S, Nieto A, Quereda V, Aceti M, Frydman S, Sansil S, Grant W, 
+- Vena F, Bayle S, Nieto A, Quereda V, Aceti M, Frydman S, Sansil S, Grant W, 
 Monastyrskyi A, McDonald P, Roush W, **Teng M**, Duckett D. (2020) Targeting casein 
 kinase 1 delta sensitizes pancreatic and bladder cancer cells to gemcitabine 
 treatment by upregulating deoxycytidine kinase. *Mol Cancer Ther* (in press)
