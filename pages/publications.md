@@ -5,6 +5,11 @@ title: Publications
 
 #### 2020
 
+- Vena F, Bayle1 S, Nieto A, Quereda V, Aceti M, Frydman S, Sansil S, Grant W, 
+Monastyrskyi A, McDonald P, Roush W, **Teng M**, Duckett D. (2020) Targeting casein 
+kinase 1 delta sensitizes pancreatic and bladder cancer cells to gemcitabine 
+treatment by upregulating deoxycytidine kinase. *Mol Cancer Ther* (in press)
+
 - Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, 
 Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
 **Teng M<sup>‡</sup>**, Gewurz BE**<sup>‡</sup>**. (2020) MYC controls the Epstein-Barr 
