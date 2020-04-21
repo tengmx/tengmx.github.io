@@ -26,6 +26,6 @@ Cancer Institute and Harvard School of Public Health during 2013-2018.
 
 #### News & Events
 
-- 2020.03 Our collaborative paper is accepted by *Molecular Cell*.  
+- 2020.04 Our collaborative paper is published in [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025).  
 
 - 2020.02 Welcome *Rodrigo Azuero-Dajud* as a graduate intern in the lab. 

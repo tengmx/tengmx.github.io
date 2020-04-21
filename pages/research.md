@@ -27,5 +27,5 @@ We focus on oncoviruses as the main biological  applications of our data
 analysis approaches. We aim to discover novel biomarkers during viral
 oncogenesis, such as the critical viral targets in cancer hallmark pathways,
 functions of virus oncoproteins, etc. The oncoviruses we are currently 
-working on including EBV (in gastric and nasopharyngeal cancers), HPV
-(in cervical and head & neck cancers), KSHV (Kaposi sarcoma) etc.
+working on including EBV (gastric and nasopharyngeal cancers), HPV
+(cervical and head & neck cancers), KSHV (Kaposi sarcoma) etc.
