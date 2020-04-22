@@ -24,7 +24,8 @@ multifactorial, gradual adaptation to inhibitor specific selective pressures.
 - Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, 
 Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
 **Teng M<sup>‡</sup>**, Gewurz BE**<sup>‡</sup>**. (2020) MYC controls the Epstein-Barr 
-Virus lytic switch. [*Mol Cell* 78:1-17](https://doi.org/10.1016/j.molcel.2020.03.025)
+Virus lytic switch. [*Mol Cell* S1097-2765(20)30193-3](https://doi.org/10.1016/j.molcel.2020.03.025)
+| [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
 
 <br>
 #### 2019
