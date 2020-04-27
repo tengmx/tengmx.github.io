@@ -92,7 +92,8 @@ weighted biological network. [*J Bioinf Comput Biol*. 15(5):1750021](https://doi
 - **Teng M**, Love MI, Davis CA, Djebali S, Dobin A, Graveley BR, Li S, Mason CE,
 Olson S, Pervouchine D, Sloan CA, Wei X, Zhan L, Irizarry RA. (2016) A benchmark for
 RNA-seq quantification pipelines. [*Genome Biol*. 17:74](https://doi.org/10.1186/s13059-016-0940-1)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27107712)
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27107712) (Highlighted in the Research
+Highlights section of [*Nature Reviews Genetics*](https://www.nature.com/articles/nrg.2016.62))
 
 - Liu B, Guan D, **Teng M**, Wang Y. (2016) rHAT: fast alignment of noisy long reads 
 with regional hashing. [*Bioinformatics*. 32(11):1625-31](https://doi.org/10.1093/bioinformatics/btv662)
