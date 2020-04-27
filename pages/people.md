@@ -10,7 +10,7 @@ title: People
 - Mingxiang Teng
 
 <br>
-#### Friend of the lab
+#### Friends of the lab
 - Chang Jiang
 
 <br>
