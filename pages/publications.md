@@ -3,7 +3,7 @@ layout: page
 title: Selected Publications
 ---
 
-<u>See full list of publications on [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)</u>
+Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)
 
 <br>
 - Guo R, Zhang Y, **Teng M**, Jiang C, Schineller M, Zhao B, Doench JG, O’Reilly RJ, 
