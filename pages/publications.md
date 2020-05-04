@@ -6,10 +6,6 @@ title: Selected Publications
 Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)
 
 <br>
-- Guo R, Zhang Y, **Teng M**, Jiang C, Schineller M, Zhao B, Doench JG, O’Reilly RJ, 
-Cesarman E, Guilino-Roth L, Gewurz BE. (2020) DNA Methylation Enzymes and PRC1 Restrict
-B-cell Epstein-Barr Virus Oncoprotein Expression. 
-*Nat Microbiol*. (in press)
 
 - Guo R, Jiang C, Zhang Y, Govande A, Trudeau SJ, Chen F, Fry CJ, Puri R, 
 Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
@@ -17,12 +13,6 @@ Wolinsky E, Schineller M, Frost TC, Gebre M, Zhao B, Giulino-Roth L, Doench JG,
 Virus lytic switch. [*Mol Cell*. 78:1-17](https://doi.org/10.1016/j.molcel.2020.03.025)
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601) (Highlighted in the Research Watch 
 section of [*Cancer Discovery*](https://doi.org/10.1158/2159-8290.CD-RW2020-064))
-
-- Wang C, Jiang S, Zhang L, Li D, Liang J, Narita Y, Hou I, Zhong Q, Gewurz BE,
-**Teng M<sup>‡</sup>**, Zhao B**<sup>‡</sup>**. (2019) TAF family proteins and MEF2C are 
-essential for Epstein-Barr virus MYC super-enhancer activity. [*J Virol*. 
-93:e00513-19](https://doi.org/10.1128/JVI.00513-19)
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31167905)
 
 - Wang C, Li D, Zhang L, Jiang S, Liang J, Narita Y, Hou I, Zhong Q, Zheng Z, Xiao
 H, Gewurz BE, **Teng M<sup>‡</sup>**, Zhao B**<sup>‡</sup>**. (2019) RNA sequencing analyses
