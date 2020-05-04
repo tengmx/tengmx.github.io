@@ -3,6 +3,9 @@ layout: page
 title: Selected Publications
 ---
 
+<u>See full list of publications on [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)</u>
+
+<br>
 - Guo R, Zhang Y, **Teng M**, Jiang C, Schineller M, Zhao B, Doench JG, O’Reilly RJ, 
 Cesarman E, Guilino-Roth L, Gewurz BE. (2020) DNA Methylation Enzymes and PRC1 Restrict
 B-cell Epstein-Barr Virus Oncoprotein Expression. 
@@ -57,6 +60,3 @@ strategy for prioritizing regulatory single nucleotide substitutions.
 Nephew KP, Li L. (2012) The influence of cis-regulatory elements on DNA methylation
 fidelity. [*PLoS ONE*. 7(3):e32928](https://doi.org/10.1371/journal.pone.0032928)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954)
-
-<br>
-__See the full list of publications on [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)__
