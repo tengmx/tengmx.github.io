@@ -4,6 +4,7 @@ title: Selected Publications
 ---
 
 Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)
+or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Teng%2C+Mingxiang%5BAuthor%5D&sort=date&size=20)
 
 <br>
 
