@@ -17,7 +17,7 @@ or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Teng%2C+Mingxiang%5BAuthor%5D&
 (2020) MYC controls the Epstein-Barr Virus lytic switch. 
 [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025)
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
-(Highlighted in the Research Watch section of [*Cancer Discovery*](https://doi.org/10.1158/2159-8290.CD-RW2020-064))
+(Highlighted in [*Cancer Discovery*](https://doi.org/10.1158/2159-8290.CD-RW2020-064))
 
 - Wang C, Jiang S, Zhang L, ..., Gewurz BE, **Teng M**<sup>‡</sup>, Zhao B<sup>‡</sup>.
 (2019) TAF family proteins and MEF2C are essential for Epstein-Barr virus MYC super-enhancer activity. 
@@ -48,7 +48,7 @@ or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Teng%2C+Mingxiang%5BAuthor%5D&
 (2016) A benchmark for RNA-seq quantification pipelines.
 [*Genome Biology*](https://doi.org/10.1186/s13059-016-0940-1)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27107712)
-(Highlighted in the Research Highlights section of [*Nature Reviews Genetics*](https://www.nature.com/articles/nrg.2016.62))
+(Highlighted in [*Nature Reviews Genetics*](https://www.nature.com/articles/nrg.2016.62))
 
 - Juan L, **Teng M**, Zang T, ..., Li J, Zhang T, Wang Y.
 (2014) The personal genome browser: visualizing functions of genetic variants.
