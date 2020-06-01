@@ -15,13 +15,6 @@ Moffitt Cancer Center <br>
 [GitHub](https://github.com/tengmx) |
 [Twitter](https://twitter.com/mingxiangteng)
 
-Mingxiang Teng received his PhD in Computer Application Technology
-from Harbin Institute of Technology in 2012. He had a joint graduate
-training in Computational Biology and Bioinformatics at Indiana
-University School of Medicine during 2008-2010. He had his postdoctoral
-training in Biostatistics and Computational Biology at Dana-Farber 
-Cancer Institute and Harvard School of Public Health during 2013-2018.
-
 ---
 
 #### News & Events
