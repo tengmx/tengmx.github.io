@@ -10,6 +10,8 @@ src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
 Assistant Member <br>
 Department of Biostatistics and Bioinformatics <br>
 Moffitt Cancer Center <br>
+Mail: 12902 Magnolia Drive, Tampa, FL 33612<br>
+Email: mingxiang dot teng at moffitt dot org
 
 [Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
 [GitHub](https://github.com/tengmx) |
@@ -18,6 +20,8 @@ Moffitt Cancer Center <br>
 ---
 
 #### News & Events
+
+- We are looking for a post-doctoral fellow in integrative epigenomics. Please send us an email if you are interested.
 
 - 2020.04 Our collaborative paper is published in [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025).  
 
