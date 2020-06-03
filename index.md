@@ -21,7 +21,7 @@ Email: mingxiang dot teng at moffitt dot org
 
 #### News & Events
 
-- We are looking for a post-doctoral fellow in integrative epigenomics. Please send us an email if you are interested.
+- We are looking for a post-doctoral fellow in integrative epigenomics. Please contact us for detail if you are interested.
 
 - 2020.04 Our collaborative paper is published in [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025).  
 
