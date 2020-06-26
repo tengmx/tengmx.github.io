@@ -2,11 +2,22 @@
 layout: page
 ---
 
+
+
+
+
+
+{% include carousel.html height="225" width="700" unit="px" duration="10" %}
+
+
+---
+#### Contacts
+
 <!-- {% include JB/setup %} -->
 
-**Mingxiang Teng**
+Mingxiang Teng,
 <img style="float: right;width:100px;height:100px;" 
-src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> <br>
+src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
 Assistant Member <br>
 Department of Biostatistics and Bioinformatics <br>
 Moffitt Cancer Center <br>
