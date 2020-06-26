@@ -2,16 +2,24 @@
 layout: page
 ---
 
+{% include carousel.html height="225" unit="px" duration="7" %}
 
-
-
-
-
-{% include carousel.html height="225" width="700" unit="px" duration="10" %}
+---
 
 
 ---
-#### Contacts
+
+#### News & Events
+
+- We are looking for a post-doctoral fellow in integrative epigenomics. Please contact us for detail if you are interested.
+
+- 2020.04 Our collaborative paper is published in [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025).  
+
+- 2020.02 Welcome *Rodrigo Azuero-Dajud* as a graduate intern in the lab. 
+
+---
+
+#### Contact Us
 
 <!-- {% include JB/setup %} -->
 
@@ -28,12 +36,3 @@ Email: mingxiang dot teng at moffitt dot org
 [GitHub](https://github.com/tengmx) |
 [Twitter](https://twitter.com/mingxiangteng)
 
----
-
-#### News & Events
-
-- We are looking for a post-doctoral fellow in integrative epigenomics. Please contact us for detail if you are interested.
-
-- 2020.04 Our collaborative paper is published in [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025).  
-
-- 2020.02 Welcome *Rodrigo Azuero-Dajud* as a graduate intern in the lab. 
