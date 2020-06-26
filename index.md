@@ -6,9 +6,6 @@ layout: page
 
 ---
 
-
----
-
 #### News & Events
 
 - We are looking for a post-doctoral fellow in integrative epigenomics. Please contact us for detail if you are interested.
