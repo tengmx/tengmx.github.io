@@ -12,7 +12,7 @@ layout: page
 
 - 2012.12 Welcome new postdoc *Xiang Liu*.
 
-- 2012.11 Our paper on [enhancer connectome of EBV/KSHV cancers] is online at *Nature Communications*. 
+- 2012.12 Our paper on [enhancer connectome of EBV/KSHV cancers](https://doi.org/10.1038/s41467-020-20136-w) is online at *Nature Communications*. 
 
 - 2020.04 Our paper on [CRISPR screen of EBV lytic switch](https://doi.org/10.1016/j.molcel.2020.03.025) is online at *Molecular Cell*.
 
