@@ -8,11 +8,15 @@ layout: page
 
 #### News & Events
 
-- We are looking for a post-doctoral fellow in integrative epigenomics. Please contact us for detail if you are interested.
+- Postdoc position available in regulatory genomics! Please email us for more info.
 
-- 2020.04 Our collaborative paper is published in [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025).  
+- 2012.12 Welcome new postdoc *Xiang Liu*.
 
-- 2020.02 Welcome *Rodrigo Azuero-Dajud* as a graduate intern in the lab. 
+- 2012.11 Our paper on [enhancer connectome of EBV/KSHV cancers] is online at *Nature Communications*. 
+
+- 2020.04 Our paper on [CRISPR screen of EBV lytic switch](https://doi.org/10.1016/j.molcel.2020.03.025) is online at *Molecular Cell*.
+
+- 2020.02 Welcome new graduate intern *Rodrigo Azuero-Dajud*. 
 
 ---
 

@@ -5,8 +5,8 @@ title: Lab Members
 
 #### Current Members
 
-- Rodrigo Azuero-Dajud (Graduate Intern Student)
 - Dongliang Du (Core Scientist)
+- Xiang Liu (Postdoc)
 - Mingxiang Teng
 
 <br>
@@ -17,3 +17,4 @@ title: Lab Members
 #### Alumni
 
 - Mak Djulbegovic (Graduate Intern Student, 2019)
+- Rodrigo Azuero-Dajud (Graduate Intern Student, 2020)
