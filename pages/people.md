@@ -5,7 +5,7 @@ title: Lab Members
 
 #### Current Members
 
-- Dongliang Du (Core Scientist)
+- Weiyue Ding (Graduate student at BWH)
 - Xiang Liu (Postdoc)
 - Mingxiang Teng
 
