@@ -8,11 +8,11 @@ layout: page
 
 #### News & Events
 
-- Postdoc position available in regulatory genomics! Please email us for more info.
+- 2021.04 Welcome new graduate intern *Yi-Han Tang*.
 
-- 2012.12 Welcome new postdoc *Xiang Liu*.
+- 2020.12 Welcome new postdoc *Xiang Liu*.
 
-- 2012.12 Our paper on [enhancer connectome of EBV/KSHV cancers](https://doi.org/10.1038/s41467-020-20136-w) is online at *Nature Communications*. 
+- 2020.12 Our paper on [enhancer connectome of EBV/KSHV cancers](https://doi.org/10.1038/s41467-020-20136-w) is online at *Nature Communications*. 
 
 - 2020.04 Our paper on [CRISPR screen of EBV lytic switch](https://doi.org/10.1016/j.molcel.2020.03.025) is online at *Molecular Cell*.
 

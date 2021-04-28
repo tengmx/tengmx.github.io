@@ -7,6 +7,7 @@ title: Lab Members
 
 - Weiyue Ding (Graduate student at BWH)
 - Xiang Liu (Postdoc)
+- Yi-Han Tang (Graduate Intern)
 - Mingxiang Teng
 
 <br>
