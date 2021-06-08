@@ -6,20 +6,6 @@ layout: page
 
 ---
 
-#### News & Events
-
-- 2021.04 Welcome new graduate intern *Yi-Han Tang*.
-
-- 2020.12 Welcome new postdoc *Xiang Liu*.
-
-- 2020.12 Our paper on [enhancer connectome of EBV/KSHV cancers](https://doi.org/10.1038/s41467-020-20136-w) is online at *Nature Communications*. 
-
-- 2020.04 Our paper on [CRISPR screen of EBV lytic switch](https://doi.org/10.1016/j.molcel.2020.03.025) is online at *Molecular Cell*.
-
-- 2020.02 Welcome new graduate intern *Rodrigo Azuero-Dajud*. 
-
----
-
 #### Contact Us
 
 <!-- {% include JB/setup %} -->
@@ -35,6 +21,18 @@ Email: mingxiang dot teng at moffitt dot org
 
 [Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
 [USF AI+X](https://aix.eng.usf.edu/members.html) |
-[GitHub](https://github.com/tengmx) |
 [Twitter](https://twitter.com/mingxiangteng)
 
+---
+
+#### News & Events
+
+- 2021.04 Welcome new graduate intern *Yi-Han Tang*.
+
+- 2020.12 Welcome new postdoc *Xiang Liu*.
+
+- 2020.12 Our paper on [enhancer connectome of EBV/KSHV cancers](https://doi.org/10.1038/s41467-020-20136-w) is online at *Nature Communications*. 
+
+- 2020.04 Our paper on [CRISPR screen of EBV lytic switch](https://doi.org/10.1016/j.molcel.2020.03.025) is online at *Molecular Cell*.
+
+- 2020.02 Welcome new graduate intern *Rodrigo Azuero-Dajud*. 

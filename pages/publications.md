@@ -8,7 +8,7 @@ or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Teng%2C+Mingxiang%5BAuthor%5D&
 
 <br>
 
-- Wang C, Zhang L, Ke L, ..., Kaye KM, **Teng M**<sup>‡</sup>, Zhao B<sup>‡</sup>. 
+- Wang C<sup>†</sup>, Zhang L<sup>†</sup>, Ke L, ..., Kaye KM, **Teng M**<sup>‡</sup>, Zhao B<sup>‡</sup>. 
 (2020) Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors.
 [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
@@ -18,7 +18,8 @@ or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Teng%2C+Mingxiang%5BAuthor%5D&
 [*Nature Microbiology*](https://doi.org/10.1038/s41564-020-0724-y)
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/32424339)
 
-- Guo R<sup>†</sup>, **Jiang C**<sup>†</sup>, Zhang Y, ...,  Doench JG, **Teng M**<sup>‡</sup>, Gewurz BE<sup>‡</sup>.
+- Guo R<sup>†</sup>, **Jiang C**<sup>†</sup>, Zhang Y, ...,  Doench JG, 
+**Teng M**<sup>‡</sup>, Gewurz BE<sup>‡</sup>.
 (2020) MYC controls the Epstein-Barr Virus lytic switch. 
 [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025)
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
@@ -41,7 +42,8 @@ or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Teng%2C+Mingxiang%5BAuthor%5D&
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29121214)
 
 - Chu Y<sup>†</sup>, **Teng M**<sup>†</sup>, Wang Y. 
-(2018) Modeling and correct the GC bias of tumor and normal WGS data for SCNA based tumor subclonal population inferring.
+(2018) Modeling and correct the GC bias of tumor and normal WGS data for SCNA 
+based tumor subclonal population inferring.
 [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-018-2099-0) 
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29671389)
 
@@ -66,7 +68,8 @@ or [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Teng%2C+Mingxiang%5BAuthor%5D&
 [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/bts275)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22611130)
 
-- **Teng M**<sup>†</sup>, Balch C<sup>†</sup>, Liu Y, ..., Wang Y, Nephew KP, Li L.
+- **Teng M**<sup>†</sup>, Balch C<sup>†</sup>, Liu Y, ..., Wang Y<sup>‡</sup>, 
+Nephew KP<sup>‡</sup>, Li L<sup>‡</sup>.
 (2012) The influence of cis-regulatory elements on DNA methylation fidelity.
 [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0032928)
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954)

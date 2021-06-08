@@ -4,16 +4,11 @@ title: Software Packages
 ---
 
 #### In Development
+
 - Full list of In-Develop tools are listed [here](https://github.com/tenglab).
 
 
 #### In Release
-
-- [**ComplexDiff**](https://github.com/tengmx/ComplexDiff) - 
-An R-package to normalize and estimate differential DNA bindings
-of protein complexes with ChIP-seq data. This package considers several
-unique features of protein complexes and provides better performance compared
-to tools developed for generic differential binding analysis.
 
 - [**gcapc**](https://bioconductor.org/packages/gcapc/) - 
 An R/Bioconductor package for ChIP-seq peak calling with adjustment of
