@@ -23,12 +23,12 @@ Primary effusion lymphoma enhancer connectome links super-enhancers to dependenc
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
 
-- Cheng L, Deng L, **Teng M** (2020)<br>
+- Cheng L<sup>‡</sup>, Deng L<sup>‡</sup>, **Teng M**<sup>‡</sup>. (2020)<br>
 Editorial: System Biology Methods and Tools for Integrating Omics Data.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33281868/)
 | [*Frontiers in Genetics*](https://doi.org/10.3389/fgene.2020.563108)
 
-- Zhang Y, Jiang C, ..., **Teng M**, Guo R, Gewurz BE. (2020)<br>
+- Zhang Y<sup>†</sup>, **Jiang C**<sup>†</sup>, ..., **Teng M**, Guo R, Gewurz BE. (2020)<br>
 Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
 | [*mBio*](https://doi.org/10.1128/mBio.01063-20)
@@ -65,7 +65,7 @@ MYC controls the Epstein-Barr Virus lytic switch.<br>
 Resistance to targeted therapies as a multifactorial, gradual adaptation 
 to inhibitor specific selective pressures.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32409712/)
-| [*Nature Communications*](10.1038/s41467-020-16212-w)
+| [*Nature Communications*](https://doi.org/10.1038/s41467-020-16212-w)
 
 <br>
 #### 2019
