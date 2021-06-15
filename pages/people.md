@@ -8,14 +8,13 @@ title: Lab Members
 - Weiyue Ding (Graduate student at BWH)
 - Xiang Liu (Postdoc)
 - Yi-Han Tang (Graduate Intern)
-- Mingxiang Teng
 
 <br>
 #### Friends of the Lab
-- Chang Jiang
+- Chang Jiang (Instructor at Moffitt)
 
 <br>
 #### Alumni
 
-- Mak Djulbegovic (Graduate Intern Student, 2019)
-- Rodrigo Azuero-Dajud (Graduate Intern Student, 2020)
+- Mak Djulbegovic (Graduate Intern, 2019)
+- Rodrigo Azuero-Dajud (Graduate Intern, 2020)
