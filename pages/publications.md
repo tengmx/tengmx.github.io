@@ -8,6 +8,11 @@ title: Publications
 <br>
 #### 2021
 
+- Wang Z, Guo R, Trudeau SJ, ..., **Teng M**, Mootha VK, Gewurz BE. (2021)<br>
+CYB561A3 is the key lysosomal iron reductase required for Burkitt B-cell growth and survival. <br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34232987/)
+| [*Blood*](https://doi.org/10.1182/blood.2021011079)
+
 - Xie M, Lee K, Lockhart JH, ..., **Teng M**, Chung CH, Tan AC. (2021)<br>
 TIMEx: tumor-immune microenvironment deconvolution web-portal for bulk transcriptomics 
 using pan-cancer scRNA-seq signatures.<br>
@@ -44,7 +49,7 @@ gemcitabine treatment by upregulating deoxycytidine kinase.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32430484/)
 | [*Molecular Cancer Therapeutics*](https://doi.org/10.1158/1535-7163.MCT-19-0997)
 
-- **ENCODE Consortium**, Moore JE, Purcaro MJ, ..., Gingeras TR, Stamatoyannopoulos JA, Weng Z, (2020)<br>
+- **ENCODE Consortium**, Moore JE, Purcaro MJ, ..., Gingeras TR, Stamatoyannopoulos JA, Weng Z. (2020)<br>
 Expanded encyclopaedias of DNA elements in the human and mouse genomes.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32728249/)
 | [*Nature*](https://doi.org/10.1038/s41586-020-2493-4)
