@@ -8,6 +8,10 @@ title: Publications
 <br>
 #### 2021
 
+- Liu X, Zhao B, Shaw T, Fridley B, Duckett D, Tan AC, Teng M. (2021)<br>
+Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
+[*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
+
 - Wang Z, Guo R, Trudeau SJ, ..., **Teng M**, Mootha VK, Gewurz BE. (2021)<br>
 CYB561A3 is the key lysosomal iron reductase required for Burkitt B-cell growth and survival. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34232987/)
