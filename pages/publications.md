@@ -8,7 +8,7 @@ title: Publications
 <br>
 #### 2021
 
-- Liu X, Zhao B, Shaw T, Fridley B, Duckett D, Tan AC, Teng M. (2021)<br>
+- Liu X, Zhao B, Shaw T, Fridley B, Duckett D, Tan AC, **Teng M**. (2021)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
 
