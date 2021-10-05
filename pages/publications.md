@@ -41,7 +41,7 @@ Editorial: System Biology Methods and Tools for Integrating Omics Data.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33281868/)
 | [*Frontiers in Genetics*](https://doi.org/10.3389/fgene.2020.563108)
 
-- Zhang Y<sup>†</sup>, **Jiang C**<sup>†</sup>, Trudeau SJ, ..., **Teng M**, Guo R, Gewurz BE. (2020)<br>
+- Zhang Y, Jiang C, Trudeau SJ, ..., **Teng M**, Guo R, Gewurz BE. (2020)<br>
 Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
 | [*mBio*](https://doi.org/10.1128/mBio.01063-20)
