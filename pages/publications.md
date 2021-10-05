@@ -12,7 +12,7 @@ title: Publications
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
 
-- **Teng M**\*, Du D, Chen D, Irizarry RA. (2021)<br>
+- **Teng M\***, Du D, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
 [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)
 
@@ -31,12 +31,12 @@ using pan-cancer scRNA-seq signatures.<br>
 <br>
 #### 2020
 
-- Wang C, Zhang L, Ke L, ..., Kaye KM, **Teng M**\*, Zhao B\*. (2020)<br>
+- Wang C, Zhang L, Ke L, ..., Kaye KM, **Teng M\***, Zhao B\*. (2020)<br>
 Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
 
-- Cheng L<sup>*</sup>, Deng L<sup>*</sup>, **Teng M**<sup>*</sup>. (2020)<br>
+- Cheng L\*, Deng L\*, **Teng M\***. (2020)<br>
 Editorial: System Biology Methods and Tools for Integrating Omics Data.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33281868/)
 | [*Frontiers in Genetics*](https://doi.org/10.3389/fgene.2020.563108)
@@ -67,7 +67,7 @@ Perspectives on ENCODE.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32728248/)
 | [*Nature*](https://doi.org/10.1038/s41586-020-2449-8)
 
-- Guo R<sup>†</sup>, **Jiang C**<sup>†</sup>, Zhang Y, ..., Doench JG, **Teng M**\*, Gewurz BE\*. (2020)<br>
+- Guo R<sup>†</sup>, **Jiang C**<sup>†</sup>, Zhang Y, ..., Doench JG, **Teng M\***, Gewurz BE\*. (2020)<br>
 MYC controls the Epstein-Barr Virus lytic switch.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
 | [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025)<br>
@@ -93,12 +93,12 @@ A practical guide to methods controlling false discoveries in computational biol
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31164141)
 | [*Genome Biology*](https://doi.org/10.1186/s13059-019-1716-1)
 
-- Wang C, Jiang S, Zhang L, ..., Gewurz BE, **Teng M**\*, Zhao B\*. (2019)<br>
+- Wang C, Jiang S, Zhang L, ..., Gewurz BE, **Teng M\***, Zhao B\*. (2019)<br>
 TAF family proteins and MEF2C are essential for Epstein-Barr virus MYC super-enhancer activity.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31167905)
 | [*Journal of Virology*](https://doi.org/10.1128/JVI.00513-19)
 
-- Wang C, Li D, Zhang L, ..., Gewurz BE, **Teng M**\*, Zhao B\*. (2019)<br>
+- Wang C, Li D, Zhang L, ..., Gewurz BE, **Teng M\***, Zhao B\*. (2019)<br>
 RNA sequencing analyses of gene expression during Epstein-Barr virus infection of primary B lymphocytes.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31019051)
 | [*Journal of Virology*](https://doi.org/10.1128/JVI.00226-19)
