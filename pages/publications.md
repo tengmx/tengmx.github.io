@@ -8,11 +8,11 @@ title: Publications
 <br>
 #### 2021
 
-- Liu X, Zhao B, Shaw T, Fridley B, Duckett D, Tan AC, **Teng M**. (2021)<br>
+- **Liu X**, Zhao B, Shaw T, Fridley B, Duckett D, Tan AC, **Teng M**. (2021)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
 
-- **Teng M\***, Du D, Chen D, Irizarry RA. (2021)<br>
+- **Teng M\***, **Du D**, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
 [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)
 
@@ -41,7 +41,7 @@ Editorial: System Biology Methods and Tools for Integrating Omics Data.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33281868/)
 | [*Frontiers in Genetics*](https://doi.org/10.3389/fgene.2020.563108)
 
-- Zhang Y, Jiang C, Trudeau SJ, ..., **Teng M**, Guo R, Gewurz BE. (2020)<br>
+- Zhang Y, **Jiang C**, Trudeau SJ, ..., **Teng M**, Guo R, Gewurz BE. (2020)<br>
 Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
 | [*mBio*](https://doi.org/10.1128/mBio.01063-20)
