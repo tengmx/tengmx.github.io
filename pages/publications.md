@@ -12,6 +12,11 @@ title: Publications
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
 
+- Liang J<sup>†</sup>, Jiang S<sup>†</sup>, Narita Y<sup>†</sup>, Wang C<sup>†</sup>, 
+**Ding W**<sup>†</sup>, ..., Zeng M, **Teng M\***, Zhao B\*.(2021) <br>
+A DNA tumor virus globally reprograms host 3D genome architecture to achieve immortal growth. <br>
+Nature Communications. (accepted)
+
 - **Teng M\***, **Du D**, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
 [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)

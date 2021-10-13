@@ -27,9 +27,9 @@ Email: mingxiang dot teng at moffitt dot org
 
 #### News & Events
 
-- 2021.04 Welcome new graduate intern *Yi-Han Tang*.
+- 2021.04 Welcome new Data Analyst *Yi-Han Tang*.
 
-- 2020.12 Welcome new postdoc *Xiang Liu*.
+- 2020.12 Welcome new Postdoc *Xiang Liu*.
 
 - 2020.12 Our paper on [enhancer connectome of EBV/KSHV cancers](https://doi.org/10.1038/s41467-020-20136-w) is online at *Nature Communications*. 
 
