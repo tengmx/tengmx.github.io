@@ -6,12 +6,12 @@ title: Software Packages
 Full list of tools under development are [here](https://github.com/tenglab).
 
 - [**DASE**](https://github.com/tenglab/DASE) -
-An R package for differential analysis of super enhancers with the consideration
+An R package for differential analysis of super enhancers with the consideration 
 of their internal alterations. Four types of internal alterations in addition to 
 the overall activity changes will be reported by this package. We have demostrated 
-the distinct functional interpretation corresponding to different types of alterations.
-It is recommended to use this package if you are interested in comparing super enhancer  
-profile across similar cell types.
+the distinct functional interpretation corresponding to different types of 
+alterations. It is recommended to use this package if you are interested in 
+comparing super enhancer profiles across similar cell conditions.
 
 - [**gcapc**](https://bioconductor.org/packages/gcapc/) - 
 An R/Bioconductor package for ChIP-seq peak calling with adjustment of

@@ -5,8 +5,8 @@ title: Lab Members
 
 #### Current Members
 
-- Weiyue Ding (Graduate student at BWH)
-- Dongliang Du (Core staff)
+- Weiyue Ding (Graduate Student at BWH)
+- Dongliang Du (Core Staff)
 - Xiang Liu (Postdoc)
 - Yi-Han Tang (Data Analyst)
 
