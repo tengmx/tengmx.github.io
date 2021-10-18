@@ -19,6 +19,7 @@ A DNA tumor virus globally reprograms host 3D genome architecture to achieve imm
 
 - Teng M\*, Du D, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34661103/)
 [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)
 
 - Wang Z, Guo R, Trudeau SJ, ..., Teng M, Mootha VK, Gewurz BE. (2021)<br>
