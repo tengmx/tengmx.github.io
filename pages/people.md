@@ -5,10 +5,9 @@ title: Lab Members
 
 #### Current Members
 
-- Weiyue Ding (Graduate Student at BWH)
+- Weiyue Ding (Graduate Student)
 - Dongliang Du (Core Staff)
-- Xiang Liu (Postdoc)
-- Yi-Han Tang (Data Analyst)
+- Xiang Liu (Postdoc Fellow)
 
 <br>
 #### Friends of the Lab
@@ -17,5 +16,6 @@ title: Lab Members
 <br>
 #### Alumni
 
-- Mak Djulbegovic (Graduate Intern, 2019)
-- Rodrigo Azuero-Dajud (Graduate Intern, 2020)
+- Yi-Han Tang (Intern Student, 2021)
+- Rodrigo Azuero-Dajud (Intern Student, 2020)
+- Mak Djulbegovic (Intern Student, 2019)
