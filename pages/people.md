@@ -8,14 +8,14 @@ title: Lab Members
 - Weiyue Ding (Graduate Student)
 - Dongliang Du (Core Staff)
 - Xiang Liu (Postdoc Fellow)
+- Yi-Han Tang (Data Analyst)
 
 <br>
 #### Friends of the Lab
-- Chang Jiang (Instructor at Moffitt)
+- Chang Jiang (Instructor)
 
 <br>
 #### Alumni
 
-- Yi-Han Tang (Intern Student, 2021)
-- Rodrigo Azuero-Dajud (Intern Student, 2020)
-- Mak Djulbegovic (Intern Student, 2019)
+- Rodrigo Azuero-Dajud (Intern, 2020)
+- Mak Djulbegovic (Intern, 2019)
