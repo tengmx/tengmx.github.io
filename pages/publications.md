@@ -19,7 +19,8 @@ A DNA tumor virus globally reprograms host 3D genome architecture to achieve imm
 
 - Huang J, Soupir AC, Schlick BD, Teng M, ..., Manley BJ, Pellini B, Wang L. (2021)<br>
 Cancer detection and classification by CpG island hypermethylation signatures in plasma cell-free DNA. <br>
-[*Cancers*](https://doi.org/10.3390/cancers13225611)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/34830765/)
+| [*Cancers*](https://doi.org/10.3390/cancers13225611)
 
 - Teng M\*, Du D, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
