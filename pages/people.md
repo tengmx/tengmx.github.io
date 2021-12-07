@@ -13,6 +13,7 @@ title: Lab Members
 <br>
 #### Friends of the Lab
 - Chang Jiang (Instructor)
+- Christelle Colin-Leitzinger (Data Scientist)
 
 <br>
 #### Alumni

@@ -27,7 +27,7 @@ Email: mingxiang dot teng at moffitt dot org
 
 #### News & Events
 
-- 2021.04 Welcome new Intern Student *Yi-Han Tang*.
+- 2021.12 Welcome new Data Analyst *Yi-Han Tang*.
 
 - 2020.12 Welcome new Postdoc *Xiang Liu*.
 
