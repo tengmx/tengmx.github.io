@@ -6,14 +6,13 @@ title: Lab Members
 #### Current Members
 
 - Weiyue Ding (Graduate Student)
-- Dongliang Du (Core Staff)
 - Xiang Liu (Postdoc Fellow)
 - Yi-Han Tang (Data Analyst)
 
 <br>
 #### Friends of the Lab
-- Chang Jiang (Instructor)
 - Christelle Colin-Leitzinger (Data Scientist)
+- Chang Jiang (Instructor)
 
 <br>
 #### Alumni
