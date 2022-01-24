@@ -29,6 +29,8 @@ Email: mingxiang dot teng at moffitt dot org
 
 - 2021.12 Welcome new Data Analyst *Yi-Han Tang*.
 
+- 2021.10 Our paper on [ChIP-seq site-specific variability](https://doi.org/10.1093/nargab/lqab098) is online at *NAR Genomics and Bioinformatics*.
+
 - 2020.12 Welcome new Postdoc *Xiang Liu*.
 
 - 2020.12 Our paper on [enhancer connectome of EBV/KSHV cancers](https://doi.org/10.1038/s41467-020-20136-w) is online at *Nature Communications*. 
@@ -36,3 +38,5 @@ Email: mingxiang dot teng at moffitt dot org
 - 2020.04 Our paper on [CRISPR screen of EBV lytic switch](https://doi.org/10.1016/j.molcel.2020.03.025) is online at *Molecular Cell*.
 
 - 2020.02 Welcome new graduate intern *Rodrigo Azuero-Dajud*. 
+
+- 2019.06 Our paper on [gene expression during Epstein-Barr virus infection](https://doi.org/10.1128/JVI.00226-19) is online at *Journal of Virology*.

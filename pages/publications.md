@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Journal Articles
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)
