@@ -6,12 +6,15 @@ title: Journal Articles
 [Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)
 
 <br>
-#### 2021
-
-- Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M\*. (2021)<br>
+#### 2022
+- Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M\*. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 *Nucleic Acids Research* (accepted) 
 | [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
+
+
+<br>
+#### 2021
 
 - Liang J<sup>†</sup>, Jiang S<sup>†</sup>, Narita Y<sup>†</sup>, Wang C<sup>†</sup>, 
 Ding W<sup>†</sup>, ..., Zeng M, Teng M\*, Zhao B\*.(2021) <br>
