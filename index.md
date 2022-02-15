@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% include carousel.html height="225" unit="px" duration="7" %}
+{% include carousel.html height="245" unit="px" duration="7" %}
 
 ---
 
