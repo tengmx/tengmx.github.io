@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% include carousel1.html height="300" unit="px" duration="7" %}
+{% include carousel.html height="300" unit="px" duration="7" %}
 
 ---
 
@@ -12,7 +12,7 @@ layout: page
 
 Mingxiang Teng, Ph.D. 
 <img style="float: right;width:100px;height:100px;" 
-src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
+src="/assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
 Assistant Member <br>
 Department of Biostatistics and Bioinformatics, Moffitt Cancer Center <br>
 Institute for Artificial Intelligence + X, University of South Florida <br>
