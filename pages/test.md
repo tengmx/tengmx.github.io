@@ -29,6 +29,7 @@ Email: mingxiang dot teng at moffitt dot org
 
 <div style="height:200px;line-height:3em;overflow:scroll;padding:5px;"> 
 
+<p src="https://doi.org/10.1038/s41467-020-20136-w"> 2022 </p>
 - 2022.02 Our paper on super enhancer dynamics is accpeted at *Nucleic Acids Research*.
 
 - 2021.12 Welcome new Data Analyst *Yi-Han Tang*.

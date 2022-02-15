@@ -10,7 +10,7 @@ layout: page
 
 <!-- {% include JB/setup %} -->
 
-Mingxiang Teng,
+Mingxiang Teng, PhD, 
 <img style="float: right;width:100px;height:100px;" 
 src="/assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
 Assistant Member <br>
