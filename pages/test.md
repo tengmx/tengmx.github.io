@@ -27,7 +27,7 @@ Email: mingxiang dot teng at moffitt dot org
 
 #### News & Events
 
-pn.pane.HTML('''<div style="height:200px;line-height:3em;overflow:scroll;padding:5px;"> 
+<div style="height:200px;line-height:3em;overflow:scroll;padding:5px;"> 
 
 - 2022.02 Our paper on super enhancer dynamics is accpeted at *Nucleic Acids Research*.
 
@@ -45,4 +45,4 @@ pn.pane.HTML('''<div style="height:200px;line-height:3em;overflow:scroll;padding
 
 - 2019.06 Our paper on [gene expression during Epstein-Barr virus infection](https://doi.org/10.1128/JVI.00226-19) is online at *Journal of Virology*.
 
-</div>''')
+</div>

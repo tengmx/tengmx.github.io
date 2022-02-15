@@ -12,7 +12,7 @@ layout: page
 
 Mingxiang Teng,
 <img style="float: right;width:100px;height:100px;" 
-src="assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
+src="/assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
 Assistant Member <br>
 Department of Biostatistics and Bioinformatics, Moffitt Cancer Center <br>
 Institute for Artificial Intelligence + X, University of South Florida <br>
