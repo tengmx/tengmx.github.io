@@ -17,5 +17,5 @@ title: Lab Members
 <br>
 #### Alumni
 
-- Rodrigo Azuero-Dajud (Intern, 2020)
-- Mak Djulbegovic (Intern, 2019)
+- Rodrigo Azuero-Dajud
+- Mak Djulbegovic
