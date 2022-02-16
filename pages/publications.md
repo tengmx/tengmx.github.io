@@ -7,11 +7,15 @@ title: Journal Articles
 
 <br>
 #### 2022
+
 - Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M\*. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 *Nucleic Acids Research* (accepted) 
 | [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
 
+- Obermayer A, Dong L, Hu Q, ..., Teng M, Tan AC, Shaw TI. (2022)<br>
+DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer datasets. <br>
+[*Biology*](https://doi.org/10.3390/biology11020260)
 
 <br>
 #### 2021

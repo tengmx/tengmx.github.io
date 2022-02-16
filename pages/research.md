@@ -24,22 +24,23 @@ include RNA-seq, ChIP-seq, Hi-C, HiChIP, CRISPR screen, CHIA-PET, WES, ATAC-seq 
  - 3D genome interaction and annotation ([REF1](https://doi.org/10.1101/2021.09.25.461810)
    | [REF3](https://doi.org/10.1038/s41467-020-20136-w))
  - RNA-seq analysis and benchmarking ([REF1](https://doi.org/10.1101/2021.09.25.461810)
-   | [REF5](https://doi.org/10.1186/s13059-016-0940-1) 
-   | [REF6](https://doi.org/10.1016/j.molcel.2020.03.025) 
-   | [REF7](https://doi.org/10.1128/JVI.00226-19))
- - CRISPR applications ([REF6](https://doi.org/10.1016/j.molcel.2020.03.025)
+   | [REF5](https://doi.org/10.1016/j.molcel.2020.03.025) 
+   | [REF6](https://doi.org/10.1128/JVI.00226-19)
+   | [REF7](https://doi.org/10.1186/s13059-016-0940-1))
+ - CRISPR screen applications ([REF5](https://doi.org/10.1016/j.molcel.2020.03.025)
    | [REF8](https://doi.org/10.1128/JVI.00513-19))
+ - CHIP mutation detection
 
 <br>
 #### Oncovirus Genomics
 
-Oncovirus is another main biological setting for the applications of our 
+Oncovirus is another main biological setting where we build our 
 analysis techniques. The goal is to discover novel biomarkers during viral
 oncogenesis, such as the critical viral targets in cancer hallmark pathways,
-functions of virus oncoproteins, etc. The studying oncoviruses include EBV 
+functions of virus oncoproteins, etc. The studied oncoviruses include EBV 
 (gastric and nasopharyngeal cancers), HPV (cervical and head & neck cancers), 
 KSHV (Kaposi sarcoma), HIV etc.
  - Genomic regulation in EBV+ NPC/PEL ([REF1](https://doi.org/10.1101/2021.09.25.461810)
    | [REF3](https://doi.org/10.1038/s41467-020-20136-w)
-   | [REF6](https://doi.org/10.1016/j.molcel.2020.03.025))
+   | [REF5](https://doi.org/10.1016/j.molcel.2020.03.025))
  - Integrative genomics in HPV+ HNSCC
