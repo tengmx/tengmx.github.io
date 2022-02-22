@@ -5,23 +5,23 @@ title: Lab Members
 
 #### Current Members
 
-Weiyue Ding <br>
-<img style="float:middle;width:150px;height:160px;"
+<img style="float:left;width:150px;height:160px;"
 src="/assets/themes/twitter/bootstrap/img/weiyueding.jpg">
+Weiyue Ding <br>
 (Graduate Student) <br><br><br><br><br><br><br>
 
 ---
 
-Xiang Liu<br>
-<img style="float:middle;width:150px;height:160px;"
+<img style="float:left;width:150px;height:160px;"
 src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg"> 
+Xiang Liu<br>
 (Postdoc Fellow) <br><br><br><br><br><br><br>
 
 ---
 
-Yi-Han Tang <br>
-<img style="float:middle;width:150px;height:160px;"
+<img style="float:left;width:150px;height:160px;"
 src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
+Yi-Han Tang <br>
 (Data Analyst) <br><br><br><br><br><br><br>
 
 ---
