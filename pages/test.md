@@ -5,20 +5,25 @@ title: Lab Members
 
 #### Current Members
 
-Weiyue Ding,
-Graduate Student <br>
----
-Xiang Liu,
-<img style="float: right;width:150px;height:180px;"
-src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg"> 
-Postdoc Fellow <br>
----
-Yi-Han Tang,
-<img style="float: right;width:150px;height:180px;"
-src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
-Data Analyst <br>
+Weiyue Ding <br>
+(Graduate Student) <br>
 
 ---
+
+Xiang Liu<br>
+<img style="float: right;width:150px;height:160px;"
+src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg"> 
+(Postdoc Fellow) <br><br><br><br><br>
+
+---
+
+Yi-Han Tang <br>
+<img style="float: right;width:150px;height:160px;"
+src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
+Data Analyst <br><br><br><br><br>
+
+---
+
 <br>
 #### Friends of the Lab
 - Christelle Colin-Leitzinger (Data Scientist)
