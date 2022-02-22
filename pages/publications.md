@@ -13,6 +13,12 @@ Summarizing internal dynamics boosts differential analysis and functional interp
 *Nucleic Acids Research* (accepted) 
 | [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
 
+- Wei G, Teng M, Rosa M, Wang X. (2022) <br> 
+Unique ER PR expression pattern in breast cancers with CHEK2 mutation: 
+a hormone receptor and HER2 analysis based on germline cancer predisposition genes. <br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35135604/)
+| [*Breast Cancer Research*](https://doi.org/10.1186/s13058-022-01507-1)
+
 - Obermayer A, Dong L, Hu Q, ..., Teng M, Tan AC, Shaw TI. (2022)<br>
 DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer datasets. <br>
 [*Biology*](https://doi.org/10.3390/biology11020260)
