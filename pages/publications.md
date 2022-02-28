@@ -21,7 +21,8 @@ a hormone receptor and HER2 analysis based on germline cancer predisposition gen
 
 - Obermayer A, Dong L, Hu Q, ..., Teng M, Tan AC, Shaw TI. (2022)<br>
 DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer datasets. <br>
-[*Biology*](https://doi.org/10.3390/biology11020260)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35205126/)
+| [*Biology*](https://doi.org/10.3390/biology11020260)
 
 <br>
 #### 2021
