@@ -10,8 +10,8 @@ title: Journal Articles
 
 - Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M\*. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
-*Nucleic Acids Research* (accepted) 
-| [*bioRxiv*](https://doi.org/10.1101/2021.09.25.461810)
+[*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkac141) 
+
 
 - Wei G, Teng M, Rosa M, Wang X. (2022) <br> 
 Unique ER PR expression pattern in breast cancers with CHEK2 mutation: 
