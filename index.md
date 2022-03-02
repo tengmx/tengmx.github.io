@@ -30,7 +30,8 @@ Email: mingxiang dot teng at moffitt dot org
 
 <div style="height:150px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>2022.02 Our paper on super enhancer dynamics is accpeted at <em>Nucleic Acids Research</em>.</li>
+<li>2022.03 Our paper on <a href="https://doi.org/10.1093/nar/gkac141">super enhancer dynamics</a>
+	   is online at <em>Nucleic Acids Research</em>.</li>
 <li>2021.12 Welcome new Data Analyst <em>Yi-Han Tang</em>.</li>
 <li>2021.10 Our paper on <a href="https://doi.org/10.1093/nargab/lqab098">ChIP-seq site-specific variability</a> 
 	   is online at <em>NAR Genomics and Bioinformatics</em>.</li>
