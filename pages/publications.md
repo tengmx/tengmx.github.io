@@ -10,7 +10,8 @@ title: Journal Articles
 
 - Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M\*. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
-[*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkac141) 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35234924/)
+| [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkac141) 
 
 
 - Wei G, Teng M, Rosa M, Wang X. (2022) <br> 
