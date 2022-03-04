@@ -17,13 +17,13 @@ approaches. One main application is to better understand gene regulation
 through the improved analysis techniques, such as the regulatory mechanisms involving 
 enhancers and super enhancers. Data types involved in these researches
 include RNA-seq, ChIP-seq, Hi-C, HiChIP, CRISPR screen, CHIA-PET, WES, ATAC-seq etc. 
- - ChIP-seq data modeling and integration ([REF1](https://doi.org/10.1101/2021.09.25.461810)
+ - ChIP-seq data modeling and integration ([REF1](https://doi.org/10.1093/nar/gkac141)
    | [REF2](https://doi.org/10.1093/nargab/lqab098) 
    | [REF3](https://doi.org/10.1038/s41467-020-20136-w)
    | [REF4](https://doi.org/10.1101/gr.220673.117))
- - 3D genome interaction and annotation ([REF1](https://doi.org/10.1101/2021.09.25.461810)
+ - 3D genome interaction and annotation ([REF1](https://doi.org/10.1093/nar/gkac141)
    | [REF3](https://doi.org/10.1038/s41467-020-20136-w))
- - RNA-seq analysis and benchmarking ([REF1](https://doi.org/10.1101/2021.09.25.461810)
+ - RNA-seq analysis and benchmarking ([REF1](https://doi.org/10.1093/nar/gkac141)
    | [REF5](https://doi.org/10.1016/j.molcel.2020.03.025) 
    | [REF6](https://doi.org/10.1128/JVI.00226-19)
    | [REF7](https://doi.org/10.1186/s13059-016-0940-1))
@@ -40,7 +40,7 @@ oncogenesis, such as the critical viral targets in cancer hallmark pathways,
 functions of virus oncoproteins, etc. The studied oncoviruses include EBV 
 (gastric and nasopharyngeal cancers), HPV (cervical and head & neck cancers), 
 KSHV (Kaposi sarcoma), HIV etc.
- - Genomic regulation in EBV+ NPC/PEL ([REF1](https://doi.org/10.1101/2021.09.25.461810)
+ - Genomic regulation in EBV+ NPC/PEL ([REF1](https://doi.org/10.1093/nar/gkac141)
    | [REF3](https://doi.org/10.1038/s41467-020-20136-w)
    | [REF5](https://doi.org/10.1016/j.molcel.2020.03.025))
  - Integrative genomics in HPV+ HNSCC
