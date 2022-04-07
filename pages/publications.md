@@ -8,11 +8,15 @@ title: Journal Articles
 <br>
 #### 2022
 
-- Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M\*. (2022)<br>
+- Peres LC, Colin-Leitzinger CM, Teng M, ..., Nishihori T, Shain KH, Gillis N. (2022)<br>
+Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcomes of 
+patients with multiple myeloma. <br>
+*Blood Advances* (accepted)
+
+- Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35234924/)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkac141) 
-
 
 - Wei G, Teng M, Rosa M, Wang X. (2022) <br> 
 Unique ER PR expression pattern in breast cancers with CHEK2 mutation: 
