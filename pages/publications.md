@@ -8,10 +8,11 @@ title: Journal Articles
 <br>
 #### 2022
 
-- Peres LC, Colin-Leitzinger CM, Teng M, ..., Nishihori T, Shain KH, Gillis N. (2022)<br>
+- Peres LC, Colin-Leitzinger C, Teng M, ..., Nishihori T, Shain KH, Gillis N. (2022)<br>
 Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcomes of 
 patients with multiple myeloma. <br>
-*Blood Advances* (accepted)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35500227/)
+| [*Blood Advances*](https://doi.org/10.1182/bloodadvances.2021006652)
 
 - Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
