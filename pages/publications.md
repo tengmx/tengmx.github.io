@@ -8,6 +8,12 @@ title: Journal Articles
 <br>
 #### 2022
 
+Jiang C, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM. (2022)<br>
+A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small 
+cell lung cancer. <br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35667246/)
+| [*Redox Biology*](https://doi.org/10.1016/j.redox.2022.102358)
+
 - Peres LC, Colin-Leitzinger C, Teng M, ..., Nishihori T, Shain KH, Gillis N. (2022)<br>
 Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcomes of 
 patients with multiple myeloma. <br>
@@ -73,7 +79,7 @@ Editorial: System Biology Methods and Tools for Integrating Omics Data.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33281868/)
 | [*Frontiers in Genetics*](https://doi.org/10.3389/fgene.2020.563108)
 
-- Zhang Y<sup>†</sup>, Jiang C<sup>†</sup>, Trudeau SJ, ..., Teng M, Guo R, Gewurz BE. (2020)<br>
+- Zhang Y, Jiang C, Trudeau SJ, ..., Teng M, Guo R, Gewurz BE. (2020)<br>
 Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
 | [*mBio*](https://doi.org/10.1128/mBio.01063-20)
