@@ -8,7 +8,7 @@ title: Journal Articles
 <br>
 #### 2022
 
-Jiang C, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM. (2022)<br>
+- Jiang C, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM. (2022)<br>
 A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small 
 cell lung cancer. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35667246/)
