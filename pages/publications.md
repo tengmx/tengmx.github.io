@@ -74,11 +74,6 @@ Primary effusion lymphoma enhancer connectome links super-enhancers to dependenc
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
 
-- Cheng L\*, Deng L\*, Teng M\*. (2020)<br>
-Editorial: System Biology Methods and Tools for Integrating Omics Data.<br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33281868/)
-| [*Frontiers in Genetics*](https://doi.org/10.3389/fgene.2020.563108)
-
 - Zhang Y, Jiang C, Trudeau SJ, ..., Teng M, Guo R, Gewurz BE. (2020)<br>
 Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
