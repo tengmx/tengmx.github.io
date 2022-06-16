@@ -27,9 +27,10 @@ Yi-Han Tang <br>
 
 ---
 
-#### Friends of the Lab
-- Christelle Colin-Leitzinger (Data Scientist)
-- Chang Jiang (Instructor)
+Anthony McCofie<br>
+(Summer Intern) <br><br><br><br><br><br><br>
+
+---
 
 <br>
 #### Alumni

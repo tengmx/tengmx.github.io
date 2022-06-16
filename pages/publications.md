@@ -39,11 +39,6 @@ DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer
 <br>
 #### 2021
 
-- Liang J<sup>†</sup>, Jiang S<sup>†</sup>, Narita Y<sup>†</sup>, Wang C<sup>†</sup>, 
-Ding W<sup>†</sup>, ..., Zeng M, Teng M\*, Zhao B\*.(2021) <br>
-A DNA tumor virus globally reprograms host 3D genome architecture to achieve immortal growth. <br>
-*Nature Communications* (accepted)
-
 - Huang J, Soupir AC, Schlick BD, Teng M, ..., Manley BJ, Pellini B, Wang L. (2021)<br>
 Cancer detection and classification by CpG island hypermethylation signatures in plasma cell-free DNA. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34830765/)
