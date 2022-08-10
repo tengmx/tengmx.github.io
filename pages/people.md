@@ -27,13 +27,14 @@ Yi-Han Tang <br>
 
 ---
 
-Anthony McCofie<br>
-(Summer Intern) <br><br><br><br><br><br><br>
+Perezhil Nagendirakumar<br>
+(Gradute Intern) <br><br><br><br><br><br><br>
 
 ---
 
 <br>
 #### Alumni
 
+- Anthony McCofie
 - Rodrigo Azuero-Dajud
 - Mak Djulbegovic
