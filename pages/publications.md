@@ -8,6 +8,11 @@ title: Journal Articles
 <br>
 #### 2022
 
+- Ding W, Wang C, Narita Y, ..., Teng M, Jin S, Sato Y, Zhao B. (2022)<br>
+The Epstein-Barr virus enhancer interaction landscapes in virus-associated cancer cell lines. <br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36094314/)
+| [*Journal of Virology*](https://doi.org/10.1128/jvi.00739-22)
+
 - Jiang C, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM. (2022)<br>
 A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small 
 cell lung cancer. <br>
