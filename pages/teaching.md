@@ -5,6 +5,7 @@ title: Course Lectures
 
 #### Current Lectures
 
+- Moffitt BBI Seminar Series - Large Regulatory Elements
 - Moffitt BBI Seminar Series - Super Enhancers
 - Moffitt Genome Data Analysis - ChIP-seq Data Analysis
 - Moffitt Biostat 201/401 - Regulatory Genomic Sequencing

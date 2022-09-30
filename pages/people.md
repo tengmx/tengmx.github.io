@@ -3,7 +3,6 @@ layout: page
 title: Lab Members
 ---
 
-#### Current Members
 
 <br>
 <img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
@@ -30,7 +29,7 @@ Yi-Han Tang <br>
 <img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
 src="/assets/themes/twitter/bootstrap/img/perezhilnagendirakumar.jpg"> 
 Perezhil Nagendirakumar<br>
-(Gradute Intern) <br><br><br><br><br><br><br>
+(Gradute Student) <br><br><br><br><br><br><br>
 
 ---
 
