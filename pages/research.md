@@ -29,7 +29,7 @@ to process and understand these datasets.
    Sequencing of 3D chromatin looping has provided precise measurements of enhancer-gene
    relationships. When combined with other sequencing data, it facilitates the [enhancer
    regulator identification](https://doi.org/10.1038/s41467-020-20136-w) in cancers,
-   and provides new insights to the [diverse enhancer characteristics](https://doi.org/10.1093/nar/gkac141)
+   and provides new insights to the [enhancer dynamic characteristics](https://doi.org/10.1093/nar/gkac141)
    in cell-type-specific gene regulation.
 
  - **Standardizing gene expression to aid epigenomic interpretation**. Gene expression
