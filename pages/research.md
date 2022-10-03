@@ -12,8 +12,8 @@ are listed below.
 
 With epigenomics dataset accumulated, opportunities emerge to better interpret gene 
 regulation using integrative approaches. A variety of mature technologies dedicate
-to producing genome-wide profiles of epigenomic data: ChIP-seq, Cut&Tag, ATAC-seq, 
-DNase-seq, HiC, HiChIP, and CRISPR screens etc. Our lab develop compuatational methods
+to producing genome-wide profiles of epigenomic data: ChIP-seq, CUT&Tag, ATAC-seq, 
+DNase-seq, HiC, HiChIP, and CRISPR screens etc. Our lab develop computational methods
 to process and understand these datasets.
 
  - **Harmonizing ChIP-seq datasets across large spectrum of biological conditions**.

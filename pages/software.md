@@ -11,7 +11,7 @@ src="/assets/themes/twitter/bootstrap/img/sedynamics2.jpg">
 An R/GitHub package for detecting internal structural alterations of super 
 enhancers (SE) based on ChIP-seq data. Four types of internal alterations
 in addition to overall activity changes of SEs can be identified with this
-tool. In our publication, we have demostrated the distinct functional 
+tool. In our publication, we have demonstrated the distinct functional 
 [characteristics of the different SE alterations](https://doi.org/10.1093/nar/gkac141).
 This tool has high sensitivity on detecting SE internal alterations, 
 thus is highly recommended if you are interested in comparing super 
