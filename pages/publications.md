@@ -8,18 +8,18 @@ title: Journal Articles
 <br>
 #### 2022
 
-- Ding W, Wang C, Narita Y, ..., Teng M, Jin S, Sato Y, Zhao B. (2022)<br>
+- Ding W<sup>†</sup>, Wang C<sup>†</sup>, Narita Y<sup>†</sup>, ..., Teng M, Jin S<sup>$</sup>, Sato Y<sup>$</sup>, Zhao B<sup>$</sup>. (2022)<br>
 The Epstein-Barr virus enhancer interaction landscapes in virus-associated cancer cell lines. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36094314/)
 | [*Journal of Virology*](https://doi.org/10.1128/jvi.00739-22)
 
-- Jiang C, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM. (2022)<br>
+- Jiang C<sup>$</sup>, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM<sup>$</sup>. (2022)<br>
 A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small 
 cell lung cancer. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35667246/)
 | [*Redox Biology*](https://doi.org/10.1016/j.redox.2022.102358)
 
-- Peres LC, Colin-Leitzinger C, Teng M, ..., Nishihori T, Shain KH, Gillis N. (2022)<br>
+- Peres LC, Colin-Leitzinger C, Teng M, ..., Nishihori T, Shain KH<sup>$</sup>, Gillis N<sup>$</sup>. (2022)<br>
 Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcomes of 
 patients with multiple myeloma. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35500227/)
@@ -44,17 +44,17 @@ DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer
 <br>
 #### 2021
 
-- Huang J, Soupir AC, Schlick BD, Teng M, ..., Manley BJ, Pellini B, Wang L. (2021)<br>
+- Huang J, Soupir AC, Schlick BD, Teng M, ..., Manley BJ, Pellini B<sup>$</sup>, Wang L<sup>$</sup>. (2021)<br>
 Cancer detection and classification by CpG island hypermethylation signatures in plasma cell-free DNA. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34830765/)
 | [*Cancers*](https://doi.org/10.3390/cancers13225611)
 
-- Teng M\*, Du D, Chen D, Irizarry RA. (2021)<br>
+- Teng M<sup>$</sup>, Du D, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34661103/)
 | [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)
 
-- Wang Z, Guo R, Trudeau SJ, ..., Teng M, Mootha VK, Gewurz BE. (2021)<br>
+- Wang Z<sup>†</sup>, Guo R<sup>†</sup>, Trudeau SJ<sup>†</sup>, Wolinsky E<sup>†</sup>, ..., Teng M, Mootha VK, Gewurz BE. (2021)<br>
 CYB561A3 is the key lysosomal iron reductase required for Burkitt B-cell growth and survival. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34232987/)
 | [*Blood*](https://doi.org/10.1182/blood.2021011079)
@@ -69,12 +69,12 @@ using pan-cancer scRNA-seq signatures.<br>
 <br>
 #### 2020
 
-- Wang C, Zhang L, Ke L, ..., Kaye KM, Teng M\*, Zhao B\*. (2020)<br>
+- Wang C<sup>†</sup>, Zhang L<sup>†</sup>, Ke L, ..., Kaye KM, Teng M<sup>$</sup>, Zhao B<sup>$</sup>. (2020)<br>
 Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
 
-- Zhang Y, Jiang C, Trudeau SJ, ..., Teng M, Guo R, Gewurz BE. (2020)<br>
+- Zhang Y<sup>†</sup>, Jiang C<sup>†</sup>, Trudeau SJ, ..., Teng M, Guo R<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
 Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
 | [*mBio*](https://doi.org/10.1128/mBio.01063-20)
@@ -84,30 +84,38 @@ DNA methylation enzymes and PRC1 restrict B-cell Epstein–Barr virus oncoprotei
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32424339)
 | [*Nature Microbiology*](https://doi.org/10.1038/s41564-020-0724-y)
 
-- Vena F, Bayle S, Nieto A, ..., Roush WR, Teng M, Duckett D. (2020)<br>
+- Vena F<sup>†</sup>, Bayle S<sup>†</sup>, Nieto A, ..., Roush WR, Teng M, Duckett D. (2020)<br>
 Targeting casein kinase 1 delta sensitizes pancreatic and bladder cancer cells to 
 gemcitabine treatment by upregulating deoxycytidine kinase.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32430484/)
 | [*Molecular Cancer Therapeutics*](https://doi.org/10.1158/1535-7163.MCT-19-0997)
 
-- ENCODE Consortium, Moore JE, Purcaro MJ, ..., Gingeras TR, Stamatoyannopoulos JA, Weng Z. (2020)<br>
+- ENCODE Consortium, Moore JE<sup>†</sup>, Purcaro MJ<sup>†</sup>, Pratt HE<sup>†</sup>, Epstein CB<sup>†</sup>,
+Shoresh N<sup>†</sup>, Adrian J<sup>†</sup>, Kawli T<sup>†</sup>,
+Davis CA<sup>†</sup>, Dobin A<sup>†</sup>, 
+Kaul R<sup>†</sup>, Halow J<sup>†</sup>, ELV Nostrand<sup>†</sup>,
+Freese P<sup>†</sup>, Gorkin DU<sup>†</sup>, 
+Shen Y<sup>†</sup>, He Y<sup>†</sup>, Mackiewicz M<sup>†</sup>,
+Pauli-Behn F<sup>†</sup>, ..., Cherry JM<sup>$</sup>, Myers RM<sup>$</sup>,
+Ren B<sup>$</sup>, Graveley BR<sup>$</sup>, Gerstein MB<sup>$</sup>, Pennacchio LA<sup>$</sup>,
+Snyder MP<sup>$</sup>, Bernstein BE<sup>$</sup>, Wold B<sup>$</sup>, Hardison RC<sup>$</sup>, Gingeras TR<sup>$</sup>, Stamatoyannopoulos JA<sup>$</sup>, Weng Z<sup>$</sup>. (2020)<br>
 Expanded encyclopaedias of DNA elements in the human and mouse genomes.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32728249/)
 | [*Nature*](https://doi.org/10.1038/s41586-020-2493-4)
 
-- ENCODE Consortium, Snyder MP, Gingeras TR, ..., Frankish A, Flicek P, Myers RM. (2020)<br>
+- ENCODE Consortium, Snyder MP<sup>$</sup>, Gingeras TR, ..., Frankish A, Flicek P, Myers RM. (2020)<br>
 Perspectives on ENCODE.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32728248/)
 | [*Nature*](https://doi.org/10.1038/s41586-020-2449-8)
 
-- Guo R<sup>†</sup>, Jiang C<sup>†</sup>, Zhang Y, ..., Doench JG, Teng M\*, Gewurz BE\*. (2020)<br>
+- Guo R<sup>†</sup>, Jiang C<sup>†</sup>, Zhang Y, ..., Doench JG, Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
 MYC controls the Epstein-Barr Virus lytic switch.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
 | [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025)<br>
 (Highlighted in [*Cancer Discovery*](https://doi.org/10.1158/2159-8290.CD-RW2020-064) and 
 [*Science Signaling*](https://doi.org/10.1126/scisignal.abd0677))
 
-- Vander Velde R, Yoon N, Marusyk V, ..., Teng M, ..., Haura E, Scott J, Marusyk A. (2020)<br>
+- Vander Velde R, Yoon N, Marusyk V, ..., Teng M, ..., Haura E, Scott J<sup>$</sup>, Marusyk A<sup>$</sup>. (2020)<br>
 Resistance to targeted therapies as a multifactorial, gradual adaptation 
 to inhibitor specific selective pressures.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32409712/)
@@ -121,22 +129,22 @@ CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40 Regulation.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31365872)
 | [*Cell Reports*](https://doi.org/10.1016/j.celrep.2019.06.079)
 
-- Korthauer K, Kimes PK, Duvallet C, ..., Teng M, ..., Shukla C, Alm EJ, Hicks SC. (2019)<br>
+- Korthauer K<sup>†</sup>, Kimes PK<sup>†</sup>, Duvallet C, ..., Teng M, ..., Shukla C, Alm EJ, Hicks SC. (2019)<br>
 A practical guide to methods controlling false discoveries in computational biology.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31164141)
 | [*Genome Biology*](https://doi.org/10.1186/s13059-019-1716-1)
 
-- Wang C, Jiang S, Zhang L, ..., Gewurz BE, Teng M\*, Zhao B\*. (2019)<br>
+- Wang C, Jiang S, Zhang L, ..., Gewurz BE, Teng M<sup>$</sup>, Zhao B<sup>$</sup>. (2019)<br>
 TAF family proteins and MEF2C are essential for Epstein-Barr virus MYC super-enhancer activity.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31167905)
 | [*Journal of Virology*](https://doi.org/10.1128/JVI.00513-19)
 
-- Wang C, Li D, Zhang L, ..., Gewurz BE, Teng M\*, Zhao B\*. (2019)<br>
+- Wang C, Li D, Zhang L, ..., Gewurz BE, Teng M<sup>$</sup>, Zhao B<sup>$</sup>. (2019)<br>
 RNA sequencing analyses of gene expression during Epstein-Barr virus infection of primary B lymphocytes.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31019051)
 | [*Journal of Virology*](https://doi.org/10.1128/JVI.00226-19)
 
-- Wang C, Jiang S, Ke L, ..., Teng M, ..., Gewurz BE, Zeng MS, Zhao B. (2019)<br>
+- Wang C, Jiang S, Ke L, ..., Teng M, ..., Gewurz BE, Zeng MS<sup>$</sup>, Zhao B<sup>$</sup>. (2019)<br>
 Genome-wide CRISPR-based gene knockout screens reveal cellular factors and 
 pathways essential for nasopharyngeal carcinoma.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31073033)
@@ -249,3 +257,7 @@ Prioritization of disease microRNAs through a human phenome-microRNAome network.
 miR2Disease: a manually curated database for microRNA deregulation in human disease.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18927107)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkn714)
+
+
+<sup>†</sup> co-first authors
+<sup>$</sup> (co-)corresponding authors
