@@ -3,7 +3,8 @@ layout: page
 title: Journal Articles
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ)
+<sup>†</sup> Equal contribution<br>
+<sup>$</sup> Corresponding authors
 
 <br>
 #### 2022
@@ -25,18 +26,18 @@ patients with multiple myeloma. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35500227/)
 | [*Blood Advances*](https://doi.org/10.1182/bloodadvances.2021006652)
 
-- Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M. (2022)<br>
+- Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M<sup>$</sup>. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35234924/)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkac141) 
 
-- Wei G, Teng M, Rosa M, Wang X. (2022) <br> 
+- Wei G, Teng M, Rosa M, Wang X<sup>$</sup>. (2022) <br> 
 Unique ER PR expression pattern in breast cancers with CHEK2 mutation: 
 a hormone receptor and HER2 analysis based on germline cancer predisposition genes. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35135604/)
 | [*Breast Cancer Research*](https://doi.org/10.1186/s13058-022-01507-1)
 
-- Obermayer A, Dong L, Hu Q, ..., Teng M, Tan AC, Shaw TI. (2022)<br>
+- Obermayer A, Dong L, Hu Q, ..., Teng M, Tan AC, Shaw TI<sup>$</sup>. (2022)<br>
 DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer datasets. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35205126/)
 | [*Biology*](https://doi.org/10.3390/biology11020260)
@@ -54,12 +55,12 @@ Characterizing batch effects and binding site-specific variability in ChIP-seq d
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34661103/)
 | [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)
 
-- Wang Z<sup>†</sup>, Guo R<sup>†</sup>, Trudeau SJ<sup>†</sup>, Wolinsky E<sup>†</sup>, ..., Teng M, Mootha VK, Gewurz BE. (2021)<br>
+- Wang Z<sup>†</sup>, Guo R<sup>†</sup>, Trudeau SJ<sup>†</sup>, Wolinsky E<sup>†</sup>, ..., Teng M, Mootha VK, Gewurz BE<sup>$</sup>. (2021)<br>
 CYB561A3 is the key lysosomal iron reductase required for Burkitt B-cell growth and survival. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34232987/)
 | [*Blood*](https://doi.org/10.1182/blood.2021011079)
 
-- Xie M, Lee K, Lockhart JH, ..., Teng M, Chung CH, Tan AC. (2021)<br>
+- Xie M, Lee K, Lockhart JH, ..., Teng M, Chung CH, Tan AC<sup>$</sup>. (2021)<br>
 TIMEx: tumor-immune microenvironment deconvolution web-portal for bulk transcriptomics 
 using pan-cancer scRNA-seq signatures.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33901274/)
@@ -79,26 +80,24 @@ Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivat
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
 | [*mBio*](https://doi.org/10.1128/mBio.01063-20)
 
-- Guo R, Zhang Y, Teng M, ..., Cesarman E, Giulino-Roth L, Gewurz BE. (2020)<br>
+- Guo R, Zhang Y, Teng M, ..., Cesarman E, Giulino-Roth L, Gewurz BE<sup>$</sup>. (2020)<br>
 DNA methylation enzymes and PRC1 restrict B-cell Epstein–Barr virus oncoprotein expression.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32424339)
 | [*Nature Microbiology*](https://doi.org/10.1038/s41564-020-0724-y)
 
-- Vena F<sup>†</sup>, Bayle S<sup>†</sup>, Nieto A, ..., Roush WR, Teng M, Duckett D. (2020)<br>
+- Vena F<sup>†</sup>, Bayle S<sup>†</sup>, Nieto A, ..., Roush WR, Teng M, Duckett D<sup>$</sup>. (2020)<br>
 Targeting casein kinase 1 delta sensitizes pancreatic and bladder cancer cells to 
 gemcitabine treatment by upregulating deoxycytidine kinase.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32430484/)
 | [*Molecular Cancer Therapeutics*](https://doi.org/10.1158/1535-7163.MCT-19-0997)
 
 - ENCODE Consortium, Moore JE<sup>†</sup>, Purcaro MJ<sup>†</sup>, Pratt HE<sup>†</sup>, Epstein CB<sup>†</sup>,
-Shoresh N<sup>†</sup>, Adrian J<sup>†</sup>, Kawli T<sup>†</sup>,
-Davis CA<sup>†</sup>, Dobin A<sup>†</sup>, 
-Kaul R<sup>†</sup>, Halow J<sup>†</sup>, ELV Nostrand<sup>†</sup>,
-Freese P<sup>†</sup>, Gorkin DU<sup>†</sup>, 
-Shen Y<sup>†</sup>, He Y<sup>†</sup>, Mackiewicz M<sup>†</sup>,
-Pauli-Behn F<sup>†</sup>, ..., Cherry JM<sup>$</sup>, Myers RM<sup>$</sup>,
-Ren B<sup>$</sup>, Graveley BR<sup>$</sup>, Gerstein MB<sup>$</sup>, Pennacchio LA<sup>$</sup>,
-Snyder MP<sup>$</sup>, Bernstein BE<sup>$</sup>, Wold B<sup>$</sup>, Hardison RC<sup>$</sup>, Gingeras TR<sup>$</sup>, Stamatoyannopoulos JA<sup>$</sup>, Weng Z<sup>$</sup>. (2020)<br>
+Shoresh N<sup>†</sup>, Adrian J<sup>†</sup>, Kawli T<sup>†</sup>, Davis CA<sup>†</sup>, Dobin A<sup>†</sup>, 
+Kaul R<sup>†</sup>, Halow J<sup>†</sup>, ELV Nostrand<sup>†</sup>, Freese P<sup>†</sup>, Gorkin DU<sup>†</sup>, 
+Shen Y<sup>†</sup>, He Y<sup>†</sup>, Mackiewicz M<sup>†</sup>, Pauli-Behn F<sup>†</sup>, ..., 
+Cherry JM<sup>$</sup>, Myers RM<sup>$</sup>, Ren B<sup>$</sup>, Graveley BR<sup>$</sup>, Gerstein MB<sup>$</sup>, 
+Pennacchio LA<sup>$</sup>, Snyder MP<sup>$</sup>, Bernstein BE<sup>$</sup>, Wold B<sup>$</sup>, Hardison RC<sup>$</sup>, 
+Gingeras TR<sup>$</sup>, Stamatoyannopoulos JA<sup>$</sup>, Weng Z<sup>$</sup>. (2020)<br>
 Expanded encyclopaedias of DNA elements in the human and mouse genomes.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32728249/)
 | [*Nature*](https://doi.org/10.1038/s41586-020-2493-4)
@@ -124,12 +123,12 @@ to inhibitor specific selective pressures.<br>
 <br>
 #### 2019
 
-- Jiang C, Trudeau SJ, Cheong TC, ..., Teng M, ..., Doench JG, Chiarle R, Gewurz BE. (2019)<br>
+- Jiang C, Trudeau SJ, Cheong TC, ..., Teng M, ..., Doench JG, Chiarle R, Gewurz BE<sup>$</sup>. (2019)<br>
 CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40 Regulation.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31365872)
 | [*Cell Reports*](https://doi.org/10.1016/j.celrep.2019.06.079)
 
-- Korthauer K<sup>†</sup>, Kimes PK<sup>†</sup>, Duvallet C, ..., Teng M, ..., Shukla C, Alm EJ, Hicks SC. (2019)<br>
+- Korthauer K<sup>†</sup>, Kimes PK<sup>†</sup>, Duvallet C, ..., Teng M, ..., Shukla C, Alm EJ, Hicks SC<sup>$</sup>. (2019)<br>
 A practical guide to methods controlling false discoveries in computational biology.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31164141)
 | [*Genome Biology*](https://doi.org/10.1186/s13059-019-1716-1)
@@ -153,111 +152,107 @@ pathways essential for nasopharyngeal carcinoma.<br>
 <br>
 #### Earlier
 
-- Hicks SC, Townes FW, Teng M, Irizarry RA. (2018)<br>
+- Hicks SC<sup>$</sup>, Townes FW, Teng M, Irizarry RA. (2018)<br>
 Missing data and technical variability in single-cell RNA-sequencing experiments.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29121214)
 | [*Biostatistics*](https://doi.org/10.1093/biostatistics/kxx053)
 
-- Chu Y<sup>†</sup>, Teng M<sup>†</sup>, Wang Y. (2018)<br>
+- Chu Y<sup>†</sup>, Teng M<sup>†</sup>, Wang Y<sup>$</sup>. (2018)<br>
 Modeling and correct the GC bias of tumor and normal WGS data for SCNA 
 based tumor subclonal population inferring.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29671389)
 | [*BMC Bioinformatics*](https://doi.org/10.1186/s12859-018-2099-0) 
 
-- Teng M, Irizarry RA. (2017)<br>
+- Teng M, Irizarry RA<sup>$</sup>. (2017)<br>
 Accounting for GC-content bias reduces systematic errors and batch effects in ChIP-seq data.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29025895)
 | [*Genome Research*](https://doi.org/10.1101/gr.220673.117)
 
-- Nakayama RT, Pulice JL, Valencia AM, ..., Teng M, ..., Zhao K, Ranish JA, Kadoch C. (2017)<br>
+- Nakayama RT<sup>†</sup>, Pulice JL<sup>†</sup>, Valencia AM<sup>†</sup>, ..., Teng M, ..., Zhao K, Ranish JA, Kadoch C<sup>$</sup>. (2017)<br>
 SMARCB1 is required for widespread BAF complex-mediated activation of enhancers and bivalent promoters.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28945250)
 | [*Nature Genetics*](https://doi.org/10.1038/ng.3958)
 
-- Chu Y, Wang Z, Wang R, ..., Hu Y, Teng M, Wang Y. (2017)<br>
+- Chu Y, Wang Z, Wang R, ..., Hu Y, Teng M, Wang Y<sup>$</sup>. (2017)<br>
 WDNfinder: a method for minimum driver node set detection and analysis 
 in directed and weighted biological network.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28918707)
 | [*Journal of Bioinformatics and Computational Biology*](https://doi.org/10.1142/S0219720017500214)
 
-- Teng M, Love MI, Davis CA, ..., Wei X, Zhan L, Irizarry RA. (2016)<br> 
+- Teng M, Love MI, Davis CA, ..., Wei X, Zhan L, Irizarry RA<sup>$</sup>. (2016)<br> 
 A benchmark for RNA-seq quantification pipelines.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27107712)
 | [*Genome Biology*](https://doi.org/10.1186/s13059-016-0940-1)<br>
 (Highlighted in [*Nature Reviews Genetics*](https://www.nature.com/articles/nrg.2016.62))
 
-- Liu B, Guan D, Teng M, Wang Y. (2016)<br>
+- Liu B<sup>†</sup>, Guan D<sup>†</sup>, Teng M, Wang Y<sup>$</sup>. (2016)<br>
 rHAT: fast alignment of noisy long reads with regional hashing.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26568628)
 | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btv662)
 
-- Juan L, Liu Y, Wang Y, Teng M, Zang T, Wang Y. (2015)<br>
+- Juan L<sup>†</sup>, Liu Y<sup>†</sup>, Wang Y, Teng M, Zang T, Wang Y<sup>$</sup>. (2015)<br>
 Family genome browser: visualizing genomes with pedigree information.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25788626)
 | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btv151) 
 
-- Juan L, Teng M, Zang T, ..., Li J, Zhang T, Wang Y. (2014)<br>
+- Juan L, Teng M, Zang T, ..., Li J, Zhang T, Wang Y<sup>$</sup>. (2014)<br>
 The personal genome browser: visualizing functions of genetic variants.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24799434)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gku361)
 
-- Wang G, Qi K, Zhao Y, ..., Teng M, Li L, Liu Y, Wang Y. (2013)<br>
+- Wang G<sup>$</sup>, Qi K, Zhao Y, ..., Teng M, Li L, Liu Y, Wang Y<sup>$</sup>. (2013)<br>
 Identification of regulatory regions of bidirectional genes in cervical cancer.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23369456)
 | [*BMC Medical Genomics*](https://doi.org/10.1186/1755-8794-6-S1-S5)
 
-- Teng M, Wang Y, Kim S, ..., Huang THM, Nephew KP, Balch C. (2012)<br>
+- Teng M, Wang Y<sup>$</sup>, Kim S, ..., Huang THM, Nephew KP, Balch C<sup>$</sup>. (2012)<br>
 Empirical bayes model comparisons for differential methylation analysis.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22956892)
 | [*Comparative and Functional Genomics*](https://doi.org/10.1155/2012/376706)
 
-- Teng M<sup>†</sup>, Ichikawa S<sup>†</sup>, Padgett LR, ..., Edenberg HJ, Econs MJ, Liu Y. (2012)<br>
+- Teng M<sup>†</sup>, Ichikawa S<sup>†</sup>, Padgett LR, ..., Edenberg HJ, Econs MJ, Liu Y<sup>$</sup>. (2012)<br>
 regSNPs: a strategy for prioritizing regulatory single nucleotide substitutions.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22611130)
 | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/bts275)
 
-- Teng M<sup>†</sup>, Balch C<sup>†</sup>, Liu Y, ..., Wang Y, Nephew KP, Li L. (2012)<br>
+- Teng M<sup>†</sup>, Balch C<sup>†</sup>, Liu Y, ..., Wang Y<sup>$</sup>, Nephew KP<sup>$</sup>, Li L<sup>$</sup>. (2012)<br>
 The influence of cis-regulatory elements on DNA methylation fidelity.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954)
 | [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0032928)
 
-- Zhu S, Jiang Q, Wang G, Liu B, Teng M, Wang Y. (2011)<br>
+- Zhu S, Jiang Q, Wang G, Liu B, Teng M, Wang Y<sup>$</sup>. (2011)<br>
 Chromatin structure characteristics of pre-miRNA genomic sequences.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21702984)
 | [*BMC Genomics*](https://doi.org/10.1186/1471-2164-12-329)
 
-- Teng M, Wang Y, Wang G, ..., Edenberg HJ, Sanford JR, Liu Y. (2011)<br>
+- Teng M, Wang Y<sup>$</sup>, Wang G, ..., Edenberg HJ, Sanford JR, Liu Y<sup>$</sup>. (2011)<br>
 Prioritizing single-nucleotide variations that potentially regulate alternative splicing.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22373210)
 | [*BMC Proceedings*](https://doi.org/10.1186/1753-6561-5-S9-S40)
 
-- Shen C, Huang Y, Liu Y, ..., Teng M, ..., Nephew KP, Huang THM, Li L. (2011)<br>
+- Shen C<sup>†</sup>, Huang Y<sup>†</sup>, Liu Y<sup>†</sup>, ..., Teng M, ..., Nephew KP, Huang THM, Li L<sup>$</sup>. (2011)<br>
 A modulated empirical Bayes model for identifying topological and 
 temporal estrogen receptor α regulatory networks in breast cancer.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21554733)
 | [*BMC System Biology*](https://doi.org/10.1186/1752-0509-5-67)
 
-- Zhou FC, Balaraman Y, Teng M, Liu Y, Singh RP, Nephew KP. (2011)<br>
+- Zhou FC<sup>$</sup>, Balaraman Y, Teng M, Liu Y, Singh RP, Nephew KP. (2011)<br>
 Alcohol alters DNA methylation patterns and inhibits neural stem cell differentiation.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21223309)
 | [*Alcoholism: Clinical and Experimental Research*](https://doi.org/10.1111/j.1530-0277.2010.01391.x)
 
-- Wang G, Wang Y, Teng M, Zhang D, Li L, Liu Y. (2010)<br>
+- Wang G, Wang Y<sup>$</sup>, Teng M, Zhang D, Li L, Liu Y<sup>$</sup>. (2010)<br>
 Signal transducers and activators of transcription-1 (STAT1) regulates 
 microRNA transcription in interferon γ-stimulated HeLa cells.<br> 
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20668688)
 | [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0011794)
 
-- Jiang Q, Hao Y, Wang G, ..., Teng M, Liu Y, Wang Y. (2010)<br>
+- Jiang Q<sup>†</sup>, Hao Y<sup>†</sup>, Wang G, ..., Teng M, Liu Y, Wang Y<sup>$</sup>. (2010)<br>
 Prioritization of disease microRNAs through a human phenome-microRNAome network.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20522252)
 | [*BMC System Biology*](https://doi.org/10.1186/1752-0509-4-S1-S2)
 
-- Jiang Q, Wang Y, Hao Y, ...,  Teng M, ..., Li M, Wang G, Liu Y. (2009)<br>
+- Jiang Q, Wang Y<sup>$</sup>, Hao Y, ...,  Teng M, ..., Li M, Wang G, Liu Y. (2009)<br>
 miR2Disease: a manually curated database for microRNA deregulation in human disease.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18927107)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkn714)
-
-
-<sup>†</sup> co-first authors
-<sup>$</sup> (co-)corresponding authors
