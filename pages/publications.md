@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Journal Articles
+title: Published Articles
 ---
 
 <sup>†</sup> Equal contribution<br>
 <sup>$</sup> Corresponding authors
 
 <br>
-#### 2022
+#### Research Papers
 
 - <u>Ding W</u><sup>†</sup>, Wang C<sup>†</sup>, Narita Y<sup>†</sup>, ..., Teng M, Jin S<sup>$</sup>, Sato Y<sup>$</sup>, Zhao B<sup>$</sup>. (2022)<br>
 The Epstein-Barr virus enhancer interaction landscapes in virus-associated cancer cell lines. <br>
@@ -42,9 +42,6 @@ DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35205126/)
 | [*Biology*](https://doi.org/10.3390/biology11020260)
 
-<br>
-#### 2021
-
 - Huang J, Soupir AC, Schlick BD, Teng M, ..., Manley BJ, Pellini B<sup>$</sup>, Wang L<sup>$</sup>. (2021)<br>
 Cancer detection and classification by CpG island hypermethylation signatures in plasma cell-free DNA. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34830765/)
@@ -65,10 +62,6 @@ TIMEx: tumor-immune microenvironment deconvolution web-portal for bulk transcrip
 using pan-cancer scRNA-seq signatures.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33901274/)
 | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btab244)
-
-
-<br>
-#### 2020
 
 - Wang C<sup>†</sup>, Zhang L<sup>†</sup>, Ke L, ..., Kaye KM, Teng M<sup>$</sup>, Zhao B<sup>$</sup>. (2020)<br>
 Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors.<br>
@@ -120,9 +113,6 @@ to inhibitor specific selective pressures.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32409712/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-16212-w)
 
-<br>
-#### 2019
-
 - <u>Jiang C</u>, Trudeau SJ, Cheong TC, ..., Teng M, ..., Doench JG, Chiarle R, Gewurz BE<sup>$</sup>. (2019)<br>
 CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40 Regulation.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31365872)
@@ -148,9 +138,6 @@ Genome-wide CRISPR-based gene knockout screens reveal cellular factors and
 pathways essential for nasopharyngeal carcinoma.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31073033)
 | [*Journal of Biological Chemistry*](https://doi.org/10.1074/jbc.RA119.008793)
-
-<br>
-#### Earlier
 
 - Hicks SC<sup>$</sup>, Townes FW, Teng M, Irizarry RA. (2018)<br>
 Missing data and technical variability in single-cell RNA-sequencing experiments.<br>
@@ -256,3 +243,17 @@ Prioritization of disease microRNAs through a human phenome-microRNAome network.
 miR2Disease: a manually curated database for microRNA deregulation in human disease.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18927107)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkn714)
+
+
+<br>
+#### Book Chapters and Editorial
+
+- Teng M. (In Press) <br>
+Statistical analysis in ChIP-seq related applications.<br>
+Book Chapter: *Methods in Molecular Biology*
+
+- Cheng L, Deng L, Teng M. (2020) <br>
+System biology methods and tools for integrating omics data.<br>
+Editorial: [PubMed](https://pubmed.ncbi.nlm.nih.gov/33281868/) 
+| [*Frontiers in Genetics*](https://doi.org/10.3389/fgene.2020.563108)
+
