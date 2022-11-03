@@ -3,8 +3,7 @@ layout: page
 title: Published Articles
 ---
 
-<sup>†</sup> Equal contribution<br>
-<sup>$</sup> Corresponding authors
+<sup>†</sup> Equal contribution; <sup>$</sup> Corresponding authors.
 
 <br>
 #### Research Papers
