@@ -8,12 +8,12 @@ title: Published Articles
 <br>
 #### Research Papers
 
-- <u>Ding W</u><sup>†</sup>, Wang C<sup>†</sup>, Narita Y<sup>†</sup>, ..., Teng M, Jin S<sup>$</sup>, Sato Y<sup>$</sup>, Zhao B<sup>$</sup>. (2022)<br>
+- Ding W<sup>†</sup>, Wang C<sup>†</sup>, Narita Y<sup>†</sup>, ..., Teng M, Jin S<sup>$</sup>, Sato Y<sup>$</sup>, Zhao B<sup>$</sup>. (2022)<br>
 The Epstein-Barr virus enhancer interaction landscapes in virus-associated cancer cell lines. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36094314/)
 | [*Journal of Virology*](https://doi.org/10.1128/jvi.00739-22)
 
-- <u>Jiang C</u><sup>$</sup>, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM<sup>$</sup>. (2022)<br>
+- Jiang C<sup>$</sup>, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM<sup>$</sup>. (2022)<br>
 A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small 
 cell lung cancer. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35667246/)
@@ -25,7 +25,7 @@ patients with multiple myeloma. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35500227/)
 | [*Blood Advances*](https://doi.org/10.1182/bloodadvances.2021006652)
 
-- <u>Liu X</u>, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M<sup>$</sup>. (2022)<br>
+- Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M<sup>$</sup>. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35234924/)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkac141) 
@@ -46,7 +46,7 @@ Cancer detection and classification by CpG island hypermethylation signatures in
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34830765/)
 | [*Cancers*](https://doi.org/10.3390/cancers13225611)
 
-- Teng M<sup>$</sup>, <u>Du D</u>, Chen D, Irizarry RA. (2021)<br>
+- Teng M<sup>$</sup>, Du D, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34661103/)
 | [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)
@@ -67,7 +67,7 @@ Primary effusion lymphoma enhancer connectome links super-enhancers to dependenc
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
 
-- Zhang Y<sup>†</sup>, <u>Jiang C</u><sup>†</sup>, Trudeau SJ, ..., Teng M, Guo R<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
+- Zhang Y<sup>†</sup>, Jiang C<sup>†</sup>, Trudeau SJ, ..., Teng M, Guo R<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
 Histone Loaders CAF1 and HIRA Restrict Epstein-Barr Virus B-Cell Lytic Reactivation.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33109754/)
 | [*mBio*](https://doi.org/10.1128/mBio.01063-20)
@@ -99,7 +99,7 @@ Perspectives on ENCODE.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32728248/)
 | [*Nature*](https://doi.org/10.1038/s41586-020-2449-8)
 
-- Guo R<sup>†</sup>, <u>Jiang C</u><sup>†</sup>, Zhang Y, ..., Doench JG, Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
+- Guo R<sup>†</sup>, Jiang C<sup>†</sup>, Zhang Y, ..., Doench JG, Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
 MYC controls the Epstein-Barr Virus lytic switch.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
 | [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025)<br>
@@ -112,7 +112,7 @@ to inhibitor specific selective pressures.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32409712/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-16212-w)
 
-- <u>Jiang C</u>, Trudeau SJ, Cheong TC, ..., Teng M, ..., Doench JG, Chiarle R, Gewurz BE<sup>$</sup>. (2019)<br>
+- Jiang C, Trudeau SJ, Cheong TC, ..., Teng M, ..., Doench JG, Chiarle R, Gewurz BE<sup>$</sup>. (2019)<br>
 CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40 Regulation.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31365872)
 | [*Cell Reports*](https://doi.org/10.1016/j.celrep.2019.06.079)

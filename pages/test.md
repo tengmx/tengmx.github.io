@@ -8,7 +8,7 @@ title: Published Articles
 <br>
 #### Research Papers
 
-<div style="height:700px;line-height:3em;overflow:scroll;padding:5px;padding-left:4em;text-indent: -1.3em;margin-left:1em;">
+<div style="height:700px;line-height:3em;overflow:scroll;padding:5px;padding-left:2em;text-indent: -1.35em;margin-left:0.5em;">
 
 <li style="padding-bottom:1em;">Ding W<sup>†</sup>, Wang C<sup>†</sup>, Narita Y<sup>†</sup>, ..., Teng M, Jin S<sup>$</sup>, Sato Y<sup>$</sup>, Zhao B<sup>$</sup>. (2022)<br>
 The Epstein-Barr virus enhancer interaction landscapes in virus-associated cancer cell lines. <br>
@@ -26,6 +26,8 @@ Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcom
 patients with multiple myeloma. <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/35500227/">PubMed</a>
 | <a href="https://doi.org/10.1182/bloodadvances.2021006652"><em>*Blood Advances</em></a></li>
+
+</div>
 
 - Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng M<sup>$</sup>. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and functional interpretation of super enhancers. <br>
@@ -245,7 +247,6 @@ miR2Disease: a manually curated database for microRNA deregulation in human dise
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18927107)
 | [*Nucleic Acids Research*](https://doi.org/10.1093/nar/gkn714)
 
-</div>
 
 <br>
 #### Book Chapters and Editorial
