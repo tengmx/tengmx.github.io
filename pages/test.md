@@ -8,20 +8,20 @@ title: Published Articles
 <br>
 #### Research Papers
 
-<div style="height:700px;line-height:3em;overflow:scroll;padding:5px;padding-left:4em;text-indent: -4em;">
+<div style="height:700px;line-height:3em;overflow:scroll;padding:5px;padding-left:4em;text-indent: -1.3em;margin-left:1em;">
 
-<li style="padding-bottom:2em;">Ding W<sup>†</sup>, Wang C<sup>†</sup>, Narita Y<sup>†</sup>, ..., Teng M, Jin S<sup>$</sup>, Sato Y<sup>$</sup>, Zhao B<sup>$</sup>. (2022)<br>
+<li style="padding-bottom:1em;">Ding W<sup>†</sup>, Wang C<sup>†</sup>, Narita Y<sup>†</sup>, ..., Teng M, Jin S<sup>$</sup>, Sato Y<sup>$</sup>, Zhao B<sup>$</sup>. (2022)<br>
 The Epstein-Barr virus enhancer interaction landscapes in virus-associated cancer cell lines. <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/36094314/">PubMed</a>
 | <a href="https://doi.org/10.1128/jvi.00739-22"><em>Journal of Virology</em></a></li>
 
-<li style="padding-bottom:2em;">Jiang C<sup>$</sup>, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM<sup>$</sup>. (2022)<br>
+<li style="padding-bottom:1em;">Jiang C<sup>$</sup>, Ward NP, Prieto-Farigua N, Kang YP, Thalakola A, Teng M, DeNicola GM<sup>$</sup>. (2022)<br>
 A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2 mutant non-small 
 cell lung cancer. <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/35667246/">PubMed</a>
 | <a href="https://doi.org/10.1016/j.redox.2022.102358"><em>Redox Biology</em></a></li>
 
-<li style="padding-bottom:2em;">Peres LC, Colin-Leitzinger C, Teng M, ..., Nishihori T, Shain KH<sup>$</sup>, Gillis N<sup>$</sup>. (2022)<br>
+<li style="padding-bottom:1em;">Peres LC, Colin-Leitzinger C, Teng M, ..., Nishihori T, Shain KH<sup>$</sup>, Gillis N<sup>$</sup>. (2022)<br>
 Racial and ethnic differences in clonal hematopoiesis, tumor markers, and outcomes of 
 patients with multiple myeloma. <br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/35500227/">PubMed</a>
