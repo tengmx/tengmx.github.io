@@ -60,6 +60,11 @@ gemcitabine treatment by upregulating deoxycytidine kinase.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32430484/)
 | [*Molecular Cancer Therapeutics*](https://doi.org/10.1158/1535-7163.MCT-19-0997)
 
+- The ENCODE Project Consortium. (2020)<br>
+Expanded encyclopaedias of DNA elements in the human and mouse genomes.<br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32728249/)
+| [*Nature*](https://doi.org/10.1038/s41586-020-2493-4)
+
 - Guo R<sup>†</sup>, Jiang C<sup>†</sup>, Zhang Y, ..., Doench JG, Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
 MYC controls the Epstein-Barr Virus lytic switch.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
