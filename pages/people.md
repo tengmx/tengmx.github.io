@@ -6,14 +6,6 @@ title: Lab Members
 
 <br>
 <img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
-src="/assets/themes/twitter/bootstrap/img/weiyueding.jpg">
-Weiyue Ding <br>
-PhD student in Biostatistics. He is co-supervised by Dr. Bo Zhao at
-Brigham and Women's Hospital. <br><br><br><br><br><br>
-
----
-
-<img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
 src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg"> 
 Xiang Liu<br>
 Postdoc Fellow. He got his PhD Degree in Biosystems Engineering from The University of
