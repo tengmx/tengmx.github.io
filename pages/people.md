@@ -5,17 +5,17 @@ title: Lab Members
 
 
 <br>
-<img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
 Mingxiang Teng <br>
 Principal Investigator. Assistant Member at the Department of
-Biostatistics and Bioinformatics, Moffitt Cancer Center. He holds
+Biostatistics and Bioinformatics, Moffitt Cancer Center. He also holds
 joint affiliation at the Institute for Artificial Intelligence + X,
-University of South Florida. <br>
+University of South Florida.<br><br><br><br><br><br>
 
 ---
 
-<img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg"> 
 Xiang Liu<br>
 Research Scientist. PhD in Biosystems Engineering from The University of
@@ -24,7 +24,7 @@ genomic enhancers in cancers.<br><br><br><br><br><br>
 
 ---
 
-<img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
 Yi-Han Tang <br>
 Data Analyst. MS in Bioinformatics and Computational Biology from the
@@ -33,7 +33,7 @@ methods to identify CHIP (Clonal hematopoiesis of indeterminate potential).<br><
 
 ---
 
-<img style="float:left;margin: 0 30px 0 0;width:150px;height:160px;"
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/perezhilnagendirakumar.jpg"> 
 Perezhil Nagendirakumar<br>
 Master Student in Bioinformatics and Computational Biology at the
