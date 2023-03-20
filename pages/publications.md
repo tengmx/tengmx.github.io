@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Published Articles
+title: Selected Publications
 ---
 
 <sup>†</sup> Equal contribution; <sup>$</sup> Corresponding authors. 
-[Google Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_works&sortby=pubdate)
+Full publication list at [Google
+Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_works&sortby=pubdate)
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mingxiang+teng&sort=date)
-<br>
+<br><br>
 #### Book Chapters
 
 - Teng M<sup>$</sup>. (2023)<br>
 Statistical analysis in ChIP-seq-related applications.<br>
 *Methods in Molecular Biology* (In press)
 
-<br>
-#### Selected Papers
+#### Scientific Papers
 
 - Wang C<sup>†</sup>, Liu X<sup>†</sup>, Liang J<sup>†</sup>, Narita
 Y<sup>†</sup>, Ding W<sup>†</sup>, ..., Jiang S<sup>$</sup>, Teng

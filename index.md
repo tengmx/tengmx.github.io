@@ -11,8 +11,10 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>2023.02 Xiang and our collaborators' work on EBV re-wiring human
+<li>2023.03 Xiang and our collaborators' work on EBV re-wiring human
 3D genome was accepted by Nature Communications.</li>
+<li>2023.02 Mingxiang gave an invited talk on the ODSi symposium at
+Huntsman Cancer Institute. 
 <li>2022.08 Welcome Graduate Intern Student <em>Perezhil
 Nagendirakumar</em>.</li>
 <li>2022.08 Congratulations to Xiang being promoted to Research
