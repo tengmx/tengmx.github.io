@@ -20,7 +20,7 @@ src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg">
 Xiang Liu<br>
 Research Scientist. PhD in Biosystems Engineering from The University of
 Arizona. His work focuses on computational methods for understanding
-genomic enhancers in cancers.<br><br><br><br>
+enhancer interactions and functions in cancers.<br><br><br><br>
 
 ---
 
@@ -38,7 +38,7 @@ src="/assets/themes/twitter/bootstrap/img/perezhilnagendirakumar.jpg">
 Perezhil Nagendirakumar<br>
 Master Student in Bioinformatics and Computational Biology at the
 University of South Florida. Her work focuses on rare cell
-identification using single cell sequencing data.<br><br>
+identification using single cell sequencing data.<br><br><br><br><br>
 
 ---
 

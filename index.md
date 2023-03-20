@@ -12,9 +12,9 @@ layout: page
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
 <li>2023.03 Xiang and our collaborators' work on EBV re-wiring human
-3D genome was accepted by Nature Communications.</li>
+3D genome was accepted by <em>Nature Communications</em>.</li>
 <li>2023.02 Mingxiang gave an invited talk on the ODSi symposium at
-Huntsman Cancer Institute. 
+Huntsman Cancer Institute.</li>
 <li>2022.08 Welcome Graduate Intern Student <em>Perezhil
 Nagendirakumar</em>.</li>
 <li>2022.08 Congratulations to Xiang being promoted to Research
@@ -44,12 +44,12 @@ under EBV infection</a> is published in <em>Journal of Virology</em>.</li>
 
 #### Contact Us
 
+<br>
 <!-- {% include JB/setup %} -->
 [Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
 [USF AI+X](https://aix.eng.usf.edu/members.html) |
 [Twitter](https://twitter.com/mingxiangteng) |
 [GitHub](https://github.com/tenglab)<br>
-
 Department of Biostatistics and Bioinformatics, Moffitt Cancer Center <br>
 Institute for Artificial Intelligence + X, University of South Florida <br>
 12902 Magnolia Drive, Tampa, FL 33612 <br>
