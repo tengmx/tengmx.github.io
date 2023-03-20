@@ -14,6 +14,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 Statistical analysis in ChIP-seq-related applications.<br>
 *Methods in Molecular Biology* (In press)
 
+<br>
 #### Scientific Papers
 
 - Wang C<sup>†</sup>, Liu X<sup>†</sup>, Liang J<sup>†</sup>, Narita
