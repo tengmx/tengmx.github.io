@@ -12,7 +12,8 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 
 - Teng M<sup>$</sup>. (2023)<br>
 Statistical analysis in ChIP-seq-related applications.<br>
-*Methods in Molecular Biology* (In press)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36929078/)
+|[*Methods in Molecular Biology*](https://doi.org/10.1007/978-1-0716-2986-4_9)
 
 <br>
 #### Scientific Papers

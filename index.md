@@ -16,19 +16,19 @@ style="height:240px;line-height:3em;overflow:scroll;padding:5px;">
 3D genome was accepted by <em>Nature Communications</em>.</li>
 <li>2023.02 Mingxiang gave an invited talk on the ODSi symposium at
 Huntsman Cancer Institute.</li>
-<li>2022.08 Welcome Graduate Intern Student <em>Perezhil
-Nagendirakumar</em>.</li>
+<li>2022.08 Welcome Graduate Intern Student Perezhil
+Nagendirakumar.</li>
 <li>2022.08 Congratulations to Xiang being promoted to Research
-Scientist</em>.</li>
+Scientist.</li>
 <li>2022.03 Xiang's work on <a
 href="https://doi.org/10.1093/nar/gkac141">super enhancer dynamics</a>
 	   was published in <em>Nucleic Acids Research</em>.</li>
-<li>2021.12 Welcome Data Analyst <em>Yi-Han Tang</em>.</li>
+<li>2021.12 Welcome Data Analyst Yi-Han Tang.</li>
 <li>2021.10 Our paper on <a
 href="https://doi.org/10.1093/nargab/lqab098">ChIP-seq site-specific
 variability</a> was published in <em>NAR Genomics and
 Bioinformatics</em>.</li>
-<li>2020.12 Welcome Postdoc Fellow <em>Xiang Liu</em>.</li>
+<li>2020.12 Welcome Postdoc Fellow Xiang Liu.</li>
 <li>2020.12 Great collaborative work on <a
 href="https://doi.org/10.1038/s41467-020-20136-w">enhancer connectome
 in PEL cancers</a> was published in <em>Nature Communications</em>.</li>
