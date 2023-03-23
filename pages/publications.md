@@ -13,7 +13,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 - Teng M<sup>$</sup>. (2023)<br>
 Statistical analysis in ChIP-seq-related applications.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36929078/)
-|[*Methods in Molecular Biology*](https://doi.org/10.1007/978-1-0716-2986-4_9)
+| [*Methods in Molecular Biology*](https://doi.org/10.1007/978-1-0716-2986-4_9)
 
 <br>
 #### Scientific Papers
@@ -23,7 +23,8 @@ Y<sup>†</sup>, Ding W<sup>†</sup>, ..., Jiang S<sup>$</sup>, Teng
 M<sup>$</sup>, Zhao B<sup>$</sup>. (2023) <br>
 A DNA tumor virus globally reprograms host 3D genome architecture to
 achieve immortal growth. <br>
-*Nature Communications* (Accepted)
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36949074/)
+| [*Nature Communications*](https://doi.org/10.1038/s41467-023-37347-6)
 
 - Jiang C<sup>$</sup>, Ward NP, Prieto-Farigua N, Kang YP, Thalakola
 A, Teng M, DeNicola GM<sup>$</sup>. (2022)<br>
