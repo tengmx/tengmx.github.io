@@ -6,7 +6,7 @@ title: Selected Publications
 <sup>†</sup> Equal contribution; <sup>$</sup> Corresponding authors. 
 Full publication list at [Google
 Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_works&sortby=pubdate)
-| [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mingxiang+teng&sort=date)
+| [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/mingxiang.teng.1/bibliography/public/)
 <br><br>
 #### Book Chapters
 
