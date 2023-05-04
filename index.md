@@ -42,7 +42,6 @@ href="https://doi.org/10.1128/JVI.00226-19">gene expression profiles
 under EBV infection</a> was published in <em>Journal of Virology</em>.</li>
 
 </div>
-<br>
 
 ---
 
@@ -51,7 +50,7 @@ under EBV infection</a> was published in <em>Journal of Virology</em>.</li>
 We are actively recruiting Postdocs,  Graduate Students and
 Interns. Please feel free to address us emails if you are interested
 and have background in computational biology, biostatistics 
-and any related fields. 
+or any related fields. 
 <br>
 
 ---

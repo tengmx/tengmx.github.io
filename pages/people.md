@@ -42,12 +42,12 @@ identification using single cell sequencing data.<br><br><br><br><br>
 
 ---
 
-<br>
 #### Alumni
 
 - Anthony McCofie (Summer Intern 2022, currently PhD student at USF)
 - Mak Djulbegovic (Summer Intern 2019, currently PhD student at U Miami)
 
 ---
-We are actively recruiting Postdocs,  Graduate Students and Interns in
-computational biology, biostatistics and any related fields. 
+
+Positions in computational biology, biostatistics or any related
+fields are available for Postdocs,  Students and Interns.
