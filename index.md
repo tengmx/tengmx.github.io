@@ -4,9 +4,9 @@ layout: page
 
 {% include carousel.html height="300" unit="px" duration="7" %}
 
+<br>
 ---
 
-<br>
 #### Lab News
 
 <div
@@ -43,9 +43,19 @@ under EBV infection</a> was published in <em>Journal of Virology</em>.</li>
 
 </div>
 
+<br>
 ---
 
+#### Opening Positions
+
+We are actively recruiting Postdocs,  Graduate Students and
+Interns. Please feel free to address us emails if you are interested
+and have background in computational biology, biostatistics 
+and any related fields. 
+
 <br>
+---
+
 #### Contact Us
 
 <!-- {% include JB/setup %} -->
