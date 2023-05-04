@@ -49,6 +49,5 @@ identification using single cell sequencing data.<br><br><br><br><br>
 - Mak Djulbegovic (Summer Intern 2019, currently PhD student at U Miami)
 
 ---
-We are actively recruiting Postdocs,  Graduate Students and Interns. 
-Please feel free to address us emails if you are interested and have 
-background in computational biology, biostatistics and any related fields.
+We are actively recruiting Postdocs,  Graduate Students and Interns in
+computational biology, biostatistics and any related fields. 

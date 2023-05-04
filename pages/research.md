@@ -5,9 +5,8 @@ title: Research Interests
 
 We focus on data challenges in computational epigenomics, including data 
 harmonization, data integration and functional annotation. Two main research areas
-are listed below.
+are listed below. <br>
 
-<br>
 ---
 
 #### Integrative Epigenomics 
@@ -40,10 +39,10 @@ to process and understand these datasets.
    quantification](https://doi.org/10.1186/s13059-016-0940-1) is critical so that 
    downstream comparison and evaluation is fair and accurate. Specially, sometimes it is
    important to organize the [dynamic patterns of gene expression](https://doi.org/10.1128/JVI.00226-19)
-   across conditions in order to extract the epigenomic effects efficiently.
+   across conditions in order to extract the epigenomic effects
+   efficiently.
+   <br>
 
-
-<br>
 ---
 
 #### Cancer Genomics
