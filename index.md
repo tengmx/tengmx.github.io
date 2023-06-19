@@ -12,7 +12,7 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>2023.04 Our first NIH R03 grant was awarded.</li>
+<li>2023.04 We were awarded an NIDCR R03 grant to study HPV+ oral cancer.</li>
 <li>2023.03 Collaborative work by Xiang on <a
 href="https://doi.org/10.1038/s41467-023-37347-6">EBV rewiring host 3D
 genome</a> was published in <em>Nat Commun</em>.</li>
