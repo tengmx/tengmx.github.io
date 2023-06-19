@@ -106,6 +106,7 @@ The influence of cis-regulatory elements on DNA methylation fidelity.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954)
 | [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0032928)
 
+<br>
 
 #### Book Chapters
 

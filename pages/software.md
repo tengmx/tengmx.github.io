@@ -3,8 +3,8 @@ layout: page
 title: Software Packages
 ---
 
-More software listed at [GitHub](https://github.com/tenglab)
-<br>
+More software listed on the Lab [GitHub](https://github.com/tenglab) page
+<br><br>
 
 [**DASE**](https://github.com/tenglab/DASE)
 
