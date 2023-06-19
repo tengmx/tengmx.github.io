@@ -8,14 +8,6 @@ Full publication list at [Google
 Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_works&sortby=pubdate)
 | [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/mingxiang.teng.1/bibliography/public/)
 <br><br>
-#### Book Chapters
-
-- Teng M<sup>$</sup>. (2023)<br>
-Statistical analysis in ChIP-seq-related applications.<br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/36929078/)
-| [*Methods in Molecular Biology*](https://doi.org/10.1007/978-1-0716-2986-4_9)
-
-<br>
 #### Scientific Papers
 
 - Wang C<sup>†</sup>, Liu X<sup>†</sup>, Liang J<sup>†</sup>, Narita
@@ -53,26 +45,12 @@ ChIP-seq data. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34661103/)
 | [*NAR Genomics and Bioinformatics*](https://doi.org/10.1093/nargab/lqab098)
 
-- Xie M, Lee K, Lockhart JH, ..., Teng M, Chung CH, Tan
-AC<sup>$</sup>. (2021)<br>
-TIMEx: tumor-immune microenvironment deconvolution web-portal for bulk
-transcriptomics using pan-cancer scRNA-seq signatures.<br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/33901274/)
-| [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btab244)
-
 - Wang C<sup>†</sup>, Zhang L<sup>†</sup>, Ke L, ..., Kaye KM, Teng
 M<sup>$</sup>, Zhao B<sup>$</sup>. (2020)<br>
 Primary effusion lymphoma enhancer connectome links super-enhancers to
 dependency factors.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
-
-- Guo R, Zhang Y, Teng M, ..., Cesarman E, Giulino-Roth L, Gewurz
-BE<sup>$</sup>. (2020)<br>
-DNA methylation enzymes and PRC1 restrict B-cell Epstein–Barr virus
-oncoprotein expression.<br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32424339)
-| [*Nature Microbiology*](https://doi.org/10.1038/s41564-020-0724-y)
 
 - Vena F<sup>†</sup>, Bayle S<sup>†</sup>, Nieto A, ..., Roush WR,
 Teng M, Duckett D<sup>$</sup>. (2020)<br>
@@ -94,20 +72,6 @@ MYC controls the Epstein-Barr Virus lytic switch.<br>
 (Highlighted in [*Cancer Discovery*](https://doi.org/10.1158/2159-8290.CD-RW2020-064) and 
 [*Science Signaling*](https://doi.org/10.1126/scisignal.abd0677))
 
-- Wang C, Jiang S, Zhang L, ..., Gewurz BE, Teng M<sup>$</sup>, Zhao
-B<sup>$</sup>. (2019)<br>
-TAF family proteins and MEF2C are essential for Epstein-Barr virus MYC
-super-enhancer activity.<br>
-[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31167905)
-| [*Journal of Virology*](https://doi.org/10.1128/JVI.00513-19)
-
-- Wang C, Li D, Zhang L, ..., Gewurz BE, Teng M<sup>$</sup>, Zhao
-B<sup>$</sup>. (2019)<br>
-RNA sequencing analyses of gene expression during Epstein-Barr virus
-infection of primary B lymphocytes.<br>
-[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31019051)
-| [*Journal of Virology*](https://doi.org/10.1128/JVI.00226-19)
-
 - Hicks SC<sup>$</sup>, Townes FW, Teng M, Irizarry RA. (2018)<br>
 Missing data and technical variability in single-cell RNA-sequencing experiments.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29121214)
@@ -118,13 +82,6 @@ Accounting for GC-content bias reduces systematic errors and batch
 effects in ChIP-seq data.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29025895)
 | [*Genome Research*](https://doi.org/10.1101/gr.220673.117)
-
-- Nakayama RT<sup>†</sup>, Pulice JL<sup>†</sup>, Valencia
-AM<sup>†</sup>, ..., Teng M, ..., Zhao K, Ranish JA, Kadoch C<sup>$</sup>. (2017)<br>
-SMARCB1 is required for widespread BAF complex-mediated activation of
-enhancers and bivalent promoters.<br>
-[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28945250)
-| [*Nature Genetics*](https://doi.org/10.1038/ng.3958)
 
 - Teng M, Love MI, Davis CA, ..., Wei X, Zhan L, Irizarry RA<sup>$</sup>. (2016)<br> 
 A benchmark for RNA-seq quantification pipelines.<br>
@@ -148,3 +105,11 @@ Y<sup>$</sup>, Nephew KP<sup>$</sup>, Li L<sup>$</sup>. (2012)<br>
 The influence of cis-regulatory elements on DNA methylation fidelity.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954)
 | [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0032928)
+
+
+#### Book Chapters
+
+- Teng M<sup>$</sup>. (2023)<br>
+Statistical analysis in ChIP-seq-related applications.<br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/36929078/)
+| [*Methods in Molecular Biology*](https://doi.org/10.1007/978-1-0716-2986-4_9)
