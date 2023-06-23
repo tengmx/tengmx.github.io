@@ -54,20 +54,21 @@ Cancers are the main biological setting where we apply our
 computational techniques. Our recent works focus on understanding
 oncogenesis mechanisms based on close collaboration
 with web-lab colleagues. We study oncogenesis mechanisms triggered by
-oncoviruses like Epstein–Barr virus (EBV) and human papillomavirus
-(HPV) etc.
+oncoviruses (e.g. Epstein–Barr virus (EBV) and human papillomavirus
+(HPV) etc.) and clonal hematopoiesis. 
 
  - **Oncogenesis driven by viral-associated 3D chromatin
    looping**. One of our key hypotheses is that viruses alter the host
    genome 3D looping during oncogenesis. This provides us an
    unique angle to evaluate [key biomarkers in viral-triggered
-   cancers](https://doi.org/10.1038/s41467-020-20136-w). We found that
-   viruses may create [new super
-   enhancers](https://doi.org/10.1038/s41467-023-37347-6) which
-   involve in 3D re-organiation of human genome and tumorgenesis. 
+   cancers](https://doi.org/10.1038/s41467-023-37347-6). We found that
+   viruses may generate [critical super
+   enhancers](https://doi.org/10.1038/s41467-020-20136-w) 
+   involving in re-organizing human genome expression. 
 
- - **Cancer biomarker identification driven by CRISPR screens**. CRIPSR screens have been
-   successfully applied to nominate driver biomarkers in cancers, especially with the aid of
-   other sequencing datasets and validation experiments. For example, we detected new roles 
-   of [MYC gene in EBV-associated cancers](https://doi.org/10.1016/j.molcel.2020.03.025)
-   through CRISPR screens.  
+ - **Clonal hematopoiesis biomarkers across solid tumors**. Clonal
+   hematopoiesis was found highly associated to reduced survival in
+   cancer patients. The molecular mechanisms however are unclear. We work
+   closely with the ORIEN network to decode relationships between
+   cancers and clonal hematopoiesis, to understand the common and
+   unique roles of clonal hematopoiesis.  
