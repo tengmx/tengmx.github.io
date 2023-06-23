@@ -3,60 +3,68 @@ layout: page
 title: Research Interests
 ---
 
-We focus on data challenges in computational epigenomics, including data 
-harmonization, data integration and functional annotation. Two main research areas
-are listed below. <br>
+Our research focuses on data science questions in decoding cancer
+epigenomic mechanisms. Our approaches include novel methodology
+developing, large data integration, and close wet-lab collaboration.
+Main projects are listed below. <br>
 
 ---
 
 #### Integrative Epigenomics 
 
-With epigenomics dataset accumulated, opportunities emerge to better interpret gene 
-regulation using integrative approaches. A variety of mature technologies dedicate
-to producing genome-wide profiles of epigenomic data: ChIP-seq, CUT&Tag, ATAC-seq, 
-DNase-seq, HiC, HiChIP, and CRISPR screens etc. Our lab develop computational methods
-to process and understand these datasets.
+Accumulated public datasets in epigenomics enable us to better
+interpret gene regulation through integrative approaches. These
+datasets include that measuring chromatin protein binding (ChIP-seq,
+CUT&Tag, etc.), chromatin accessibility (ATAC-seq, DNase-seq, etc.),
+3D chromatin looping (HiC, HiChIP, etc.), sequence
+editing/mutating in non-coding regions (CRISPR screens, target
+sequencing etc.) and so on. Our lab develop computational methods
+to integrate and interpret these datasets.
 
- - **Harmonizing ChIP-seq datasets across large spectrum of biological conditions**.
-   One barrier to jointly interpret ChIP-seq is the [data  heterogeneity](https://doi.org/10.1093/nargab/lqab098) 
-   that raise from diverse experimental parameters in different studies. For example,
-   different ChIP-seq samples might be tolerant to different levels of PCR artifacts 
-   that are associated to the [GC content of sequencing fragments](https://doi.org/10.1101/gr.220673.117).
-   We have introduced statistical models to deconvolute such data heterogeneity and
-   better interpret ChIP-seq signals.
+ - **Understanding enhancer function with multi-omics data
+   integration**. Key questions to interpret enhancer function include
+   who and how enhancers organize gene regulation. We integrate
+   sequencing assays measuring enhancer acitivities, enhancer-protein
+   binding, gene expression and enhaner-gene interactions to provide
+   quantitative answers to the questions. With well-designed
+   integrative approaches, we uncovered novel insights to understand [super
+   enhancer internal organization](https://doi.org/10.1093/nar/gkac141). 
+   By integrating public datasets into in-house domain applications, we
+   identified [critical enhancer
+   regulators](https://doi.org/10.1038/s41467-020-20136-w) in cancers.
 
- - **Understanding enhancer function with multi-omics integration**. Key questions to
-   interpret enhancer function include who and how enhancers organize gene regulation.
-   Sequencing of 3D chromatin looping has provided precise measurements of enhancer-gene
-   relationships. When combined with other sequencing data, it facilitates the [enhancer
-   regulator identification](https://doi.org/10.1038/s41467-020-20136-w) in cancers,
-   and provides new insights to the [enhancer dynamic characteristics](https://doi.org/10.1093/nar/gkac141)
-   in cell-type-specific gene regulation.
-
- - **Standardizing gene expression to aid epigenomic interpretation**. Gene expression
-   is the most-widely used metric to evaluate and validate epigenomic effects. In studies 
-   where multiple samples/conditions/parameters are involved, [benchmarked gene 
-   quantification](https://doi.org/10.1186/s13059-016-0940-1) is critical so that 
-   downstream comparison and evaluation is fair and accurate. Specially, sometimes it is
-   important to organize the [dynamic patterns of gene expression](https://doi.org/10.1128/JVI.00226-19)
-   across conditions in order to extract the epigenomic effects
-   efficiently.
+- **Harmonizing epigenomic sequencing variabilities across wide
+   biological conditions**. One barrier to efficient integrate
+   epigenomic sequencing data is the data heterogeneities within one
+   data modality and across multi-modalities. The heterogeneities
+   raise from diverse biological and technical parameters in different
+   studies. For example, ChIP-seq datasets are tolerant to high
+   measuring variabilities due to [PCR induced GC content
+   biases](https://doi.org/10.1101/gr.220673.117) or other [intrisic
+   bias factors](https://doi.org/10.1093/nargab/lqab098). We develop
+   statistical models to deconvolute such data heterogeneity and
+   better interpret epigenomic sequencing signals.
    <br>
 
 ---
 
 #### Cancer Genomics
 
-Cancers are the main biological setting where we apply our computational techniques. Our
-recent works focus on understanding oncogenesis mechanisms based on close collaboration
-with web-lab colleagues. We study oncogenesis mechanisms triggered by oncoviruses like
-Epstein–Barr virus (EBV) and human papillomavirus (HPV), and other reasons etc.
+Cancers are the main biological setting where we apply our
+computational techniques. Our recent works focus on understanding
+oncogenesis mechanisms based on close collaboration
+with web-lab colleagues. We study oncogenesis mechanisms triggered by
+oncoviruses like Epstein–Barr virus (EBV) and human papillomavirus
+(HPV) etc.
 
- - **Oncogenesis driven by viral-associated 3D chromatin looping**. One of our key hypotheses
-   is that viruses alter the host genome 3D looping during oncogenesis. This provides us an
-   unique angle to identify [key biomarkers in viral-triggered cancers](https://doi.org/10.1038/s41467-020-20136-w)
-   Particularly, [super enhancers](https://doi.org/10.1128/JVI.00513-19) might be heavily 
-   involved in such oncogenesis processes. 
+ - **Oncogenesis driven by viral-associated 3D chromatin
+   looping**. One of our key hypotheses is that viruses alter the host
+   genome 3D looping during oncogenesis. This provides us an
+   unique angle to evaluate [key biomarkers in viral-triggered
+   cancers](https://doi.org/10.1038/s41467-020-20136-w). We found that
+   viruses may create [new super
+   enhancers](https://doi.org/10.1038/s41467-023-37347-6) which
+   involve in 3D re-organiation of human genome and tumorgenesis. 
 
  - **Cancer biomarker identification driven by CRISPR screens**. CRIPSR screens have been
    successfully applied to nominate driver biomarkers in cancers, especially with the aid of
