@@ -36,7 +36,7 @@ methods to identify CHIP (Clonal hematopoiesis of indeterminate potential).<br><
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/perezhilnagendirakumar.jpg"> 
 Perezhil Nagendirakumar<br>
-Master Student in Bioinformatics and Computational Biology at the
+Master Student in Bioinformatics and Computational Biology Program at the
 University of South Florida. Her work focuses on rare cell
 identification using single cell sequencing data.<br><br><br><br><br>
 
@@ -44,10 +44,5 @@ identification using single cell sequencing data.<br><br><br><br><br>
 
 #### Alumni
 
-- Anthony McCofie (Summer Intern 2022, currently PhD student at USF)
-- Mak Djulbegovic (Summer Intern 2019, currently PhD student at U Miami)
-
----
-
-Positions in computational biology, biostatistics or any related
-fields are available for Postdocs,  Students and Interns.
+- Anthony McCofie (Summer Intern)
+- Mak Djulbegovic (Summer Intern)

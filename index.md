@@ -41,12 +41,10 @@ lytic switch</a> was published in <em>Mol Cell</em>.</li>
 
 ---
 
-#### Opening Positions
+#### Open Positions
 
-We are actively recruiting Postdocs,  Graduate Students and
-Interns. Please feel free to address us emails if you are interested
-and have background in computational biology, biostatistics 
-or any related fields. 
+We are recruiting Postdoc Fellows,  Graduate Students and
+Data Analysts. Please feel free to address us emails if you are interested. 
 <br>
 
 ---
