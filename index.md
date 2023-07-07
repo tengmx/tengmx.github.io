@@ -12,14 +12,15 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
+<li>2023.07 Welcome summer intern students Vineet (Vinny) Sharma and
+Dhwani Chandu Sangani.</li>
 <li>2023.04 We were awarded an NIDCR R03 grant to study HPV+ oral cancer.</li>
 <li>2023.03 Collaborative work by Xiang on <a
 href="https://doi.org/10.1038/s41467-023-37347-6">EBV rewiring host 3D
 genome</a> was published in <em>Nat Commun</em>.</li>
 <li>2023.02 Mingxiang gave an invited talk on the ODSi symposium at
 Huntsman Cancer Institute.</li>
-<li>2022.08 Welcome Graduate Intern Student Perezhil
-Nagendirakumar.</li>
+<li>2022.08 Welcome intern student Perezhil Nagendirakumar.</li>
 <li>2022.08 Congratulations to Xiang being promoted to Research
 Scientist.</li>
 <li>2022.03 Xiang's work on <a
