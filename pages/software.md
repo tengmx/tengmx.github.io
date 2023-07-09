@@ -3,7 +3,7 @@ layout: page
 title: Software Packages
 ---
 
-More software listed on the Lab [GitHub](https://github.com/tenglab) page
+More software listed on the [Lab GitHub](https://github.com/tenglab) page
 <br><br>
 
 [**DASE**](https://github.com/tenglab/DASE)
@@ -11,14 +11,14 @@ More software listed on the Lab [GitHub](https://github.com/tenglab) page
 <img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
 src="/assets/themes/twitter/bootstrap/img/sedynamics2.jpg">
 
-An R/GitHub package for detecting internal structural alterations of super 
-enhancers (SE) based on ChIP-seq data. Four types of internal alterations
-in addition to overall activity changes of SEs can be identified with this
-tool. In our publication, we have demonstrated the distinct functional 
-[characteristics of the different SE alterations](https://doi.org/10.1093/nar/gkac141).
-This tool has high sensitivity on detecting SE internal alterations, 
-thus is highly recommended if you are interested in comparing super 
-enhancer profiles between similar cell conditions.
+An R/GitHub package for detecting component alterations of super 
+enhancers (SE) using ChIP-seq. Four novel types of component alterations
+as well as overall activity alterations are reported. In the paper, we
+demonstrated [the distinct functional characteristics of  
+these alterations](https://doi.org/10.1093/nar/gkac141).
+This tool has elevated sensitivity in detecting SE profile changes, 
+thus is highly recommended when SE profiles of similar cell conditions
+are compared.
 
 ---
 
@@ -58,10 +58,10 @@ Package is also [available on GitHub](https://github.com/tenglab/rnaseqcomp).
 <img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
 src="/assets/themes/twitter/bootstrap/img/regsnps.jpg">
 
-An R implemented computational algorithm that integrates several established
-bioinformatics tools for [prioritizing regulatory SNPs](https://doi.org/10.1093/bioinformatics/bts275),
+An R-based algorithm that integrates multiple
+bioinformatics tools/databases for [prioritizing regulatory SNPs](https://doi.org/10.1093/bioinformatics/bts275),
 i.e., the SNPs in the promoter regions that potentially affect phenotype
-through transcription alteration. regSNPs considers degenerative features
-of binding motifs. It calculates the differences on transcription factor
-binding affinity caused by candidate variants and integrates potential
-phenotypic effects of various transcription factors.
+through transcription disruption. regSNPs considers degenerative features
+of transcription factor (TF) binding motifs. It calculates SNP-caused
+alterations of TF binding and integrates that with the phenotypic effects of
+the altered TFs. 
