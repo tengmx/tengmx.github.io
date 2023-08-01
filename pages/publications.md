@@ -59,11 +59,6 @@ cancer cells to gemcitabine treatment by upregulating deoxycytidine kinase.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32430484/)
 | [*Molecular Cancer Therapeutics*](https://doi.org/10.1158/1535-7163.MCT-19-0997)
 
-- The ENCODE Project Consortium. (2020)<br>
-Expanded encyclopaedias of DNA elements in the human and mouse genomes.<br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32728249/)
-| [*Nature*](https://doi.org/10.1038/s41586-020-2493-4)
-
 - Guo R<sup>†</sup>, Jiang C<sup>†</sup>, Zhang Y, ..., Doench JG,
 Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
 MYC controls the Epstein-Barr Virus lytic switch.<br>
@@ -71,6 +66,11 @@ MYC controls the Epstein-Barr Virus lytic switch.<br>
 | [*Molecular Cell*](https://doi.org/10.1016/j.molcel.2020.03.025)<br>
 (Highlighted in [*Cancer Discovery*](https://doi.org/10.1158/2159-8290.CD-RW2020-064) and 
 [*Science Signaling*](https://doi.org/10.1126/scisignal.abd0677))
+
+- The ENCODE Project Consortium. (2020)<br>
+Expanded encyclopaedias of DNA elements in the human and mouse genomes.<br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/32728249/)
+| [*Nature*](https://doi.org/10.1038/s41586-020-2493-4)
 
 - Hicks SC<sup>$</sup>, Townes FW, Teng M, Irizarry RA. (2018)<br>
 Missing data and technical variability in single-cell RNA-sequencing experiments.<br>
