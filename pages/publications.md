@@ -8,7 +8,7 @@ Full publication list at [Google
 Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_works&sortby=pubdate)
 | [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/mingxiang.teng.1/bibliography/public/)
 <br><br>
-#### Scientific Papers
+#### Research Papers
 
 - Wang C<sup>†</sup>, Liu X<sup>†</sup>, Liang J<sup>†</sup>, Narita
 Y<sup>†</sup>, Ding W<sup>†</sup>, ..., Jiang S<sup>$</sup>, Teng
