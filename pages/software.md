@@ -3,8 +3,24 @@ layout: page
 title: Software Packages
 ---
 
-More software listed on the [Lab GitHub](https://github.com/tenglab) page
+More code/packages listed on our [GitHub](https://github.com/tenglab) page
 <br><br>
+
+[**cSEAdb**](https://github.com/tenglab/cSEAdb)
+
+<img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
+src="/assets/themes/twitter/bootstrap/img/cancerse.jpg">
+
+An R/GitHub package documenting high-resolution differences of super 
+enhancer (SE) signatures across cancers. The sensitivity and specificity
+of cancer-specific SE identification are boosted by using mixture
+models to evaluate SE consensuses across 60 cell lines from 28 cancer
+types. Both cancer-specific-active and -inactive components of SEs are
+profiled here, enabling a pan-cancer systematic overview. Visualizing
+interface is built in the package to facilitate exploration. 
+
+---
+
 
 [**DASE**](https://github.com/tenglab/DASE)
 
