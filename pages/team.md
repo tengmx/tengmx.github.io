@@ -67,3 +67,11 @@ University of South Florida.<br><br><br><br>
 - Vineet Sharma (Summer Intern)
 - Anthony McCofie (Summer Intern)
 - Mak Djulbegovic (Summer Intern)
+
+---
+
+#### Open Positions
+
+We are recruiting Postdoc Fellows and Graduate Students. Please
+email us if you are interested and have computational/statistical
+background.
