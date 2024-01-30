@@ -12,6 +12,8 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
+<li>2024.01 Xiang's work on cancer super enhancer fingerprint was accepted in
+PLoS Computational Biology.</li>
 <li>2023.11 Welcome Postdoc Fellow Jennifer Joseph.</li>
 <li>2023.07 Welcome summer intern students Vineet (Vinny) Sharma and
 Dhwani Chandu Sangani.</li>
