@@ -10,6 +10,13 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 <br><br>
 #### Research Papers
 
+- Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L,
+  Duckett DR, Teng M<sup>$</sup>. (2024) <br>
+  An epigenomic fingerprint of human cancers by landscape
+  interrogation of super enhancers at the constituent level. <br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/38335222/)
+  | [*PLoS Computational Biology*](https://doi.org/10.1371/journal.pcbi.1011873)
+
 - Wang C<sup>†</sup>, Liu X<sup>†</sup>, Liang J<sup>†</sup>, Narita
 Y<sup>†</sup>, Ding W<sup>†</sup>, ..., Jiang S<sup>$</sup>, Teng
 M<sup>$</sup>, Zhao B<sup>$</sup>. (2023) <br>
