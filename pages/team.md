@@ -10,7 +10,7 @@ src="/assets/themes/twitter/bootstrap/img/jenniferjoseph.jpg">
 Jennifer Joseph<br>
 Postdoctoral Fellow. PhD in Computational Biophysics from Indian
 Institute of Technology Bombay. Her work focuses on computational
-methodologies in cancer spatial genomics.<br><br><br><br>
+approaches for understanding biomarkers in head and neck cancers.<br><br><br><br>
 
 ---
 
@@ -27,8 +27,8 @@ enhancer interactions and functions in cancers.<br><br><br><br>
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/dhwanisangani.jpg"> 
 Dhwani Chandu Sangani<br>
-Summer Intern. Graduate Student in Bioinformatics and Computational
-Biology Program at the  University of South Florida. She focuses on
+Graduate Student. MS in Bioinformatics and Computational
+Biology from the University of South Florida. She focuses on
 exploration of HNSCC immune profiles.<br><br><br><br><br>
 
 ---
@@ -38,7 +38,7 @@ src="/assets/themes/twitter/bootstrap/img/yihantang.jpg">
 Yi-Han Tang <br>
 Data Analyst. MS in Bioinformatics and Computational Biology from the
 University of South Florida. Her work focuses on bioinformatics
-methods to identify CHIP (Clonal hematopoiesis of indeterminate
+analysis to identify CHIP (Clonal hematopoiesis of indeterminate
 potential).<br><br><br><br>
 
 ---
@@ -55,8 +55,9 @@ University of South Florida.<br><br><br><br>
 
 #### Alumni
 
+- Mokshitha Kaki (Master Intern 2024)
 - Perezhil Nagendirakumar (Master Intern 2023)
-- Vineet Sharma (Summer Intern 2023)
+- Vineet Sharma (High School Intern 2023)
 - Anthony McCofie (Master Intern 2022)
 - Mak Djulbegovic (Master Intern 2019)
 
@@ -65,5 +66,5 @@ University of South Florida.<br><br><br><br>
 #### Open Positions
 
 We are recruiting Postdoc Fellows and Graduate Students. Please
-email us if you are interested and have computational/statistical
+email us if you are interested and have computational/statistical-related
 background.
