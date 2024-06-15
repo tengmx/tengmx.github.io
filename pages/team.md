@@ -25,15 +25,6 @@ enhancer interactions and functions in cancers.<br><br><br><br>
 ---
 
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/dhwanisangani.jpg"> 
-Dhwani Chandu Sangani<br>
-Graduate Student. MS in Bioinformatics and Computational
-Biology from the University of South Florida. She focuses on
-exploration of HNSCC immune profiles.<br><br><br><br><br>
-
----
-
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
 Yi-Han Tang <br>
 Data Analyst. MS in Bioinformatics and Computational Biology from the
@@ -55,9 +46,8 @@ University of South Florida.<br><br><br><br>
 
 #### Alumni
 
-- Mokshitha Kaki (Master Intern 2024)
-- Perezhil Nagendirakumar (Master Intern 2023)
-- Vineet Sharma (High School Intern 2023)
+- Dhwani Chandu Sangani, Mokshitha Kaki (Intern 2024)
+- Perezhil Nagendirakumar, Vineet Sharma (Intern 2023)
 - Anthony McCofie (Master Intern 2022)
 - Mak Djulbegovic (Master Intern 2019)
 
@@ -65,6 +55,5 @@ University of South Florida.<br><br><br><br>
 
 #### Open Positions
 
-We are recruiting Postdoc Fellows and Graduate Students. Please
-email us if you are interested and have computational/statistical-related
-background.
+We welcome Postdoc and Graduate Students to join our lab to
+solve data science challenges together.

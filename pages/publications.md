@@ -25,20 +25,6 @@ achieve immortal growth. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/36949074/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-023-37347-6)
 
-- Jiang C<sup>$</sup>, Ward NP, Prieto-Farigua N, Kang YP, Thalakola
-A, Teng M, DeNicola GM<sup>$</sup>. (2022)<br>
-A CRISPR screen identifies redox vulnerabilities for KEAP1/NRF2
-mutant non-small cell lung cancer. <br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35667246/)
-| [*Redox Biology*](https://doi.org/10.1016/j.redox.2022.102358)
-
-- Peres LC, Colin-Leitzinger C, Teng M, ..., Nishihori T, Shain
-KH<sup>$</sup>, Gillis N<sup>$</sup>. (2022)<br>
-Racial and ethnic differences in clonal hematopoiesis, tumor markers,
-and outcomes of patients with multiple myeloma. <br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/35500227/)
-| [*Blood Advances*](https://doi.org/10.1182/bloodadvances.2021006652)
-
 - Liu X, Zhao B, Shaw TI, Fridley BL, Duckett DR, Tan AC, Teng
 M<sup>$</sup>. (2022)<br>
 Summarizing internal dynamics boosts differential analysis and
@@ -58,13 +44,6 @@ Primary effusion lymphoma enhancer connectome links super-enhancers to
 dependency factors.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/33298918/)
 | [*Nature Communications*](https://doi.org/10.1038/s41467-020-20136-w)
-
-- Vena F<sup>†</sup>, Bayle S<sup>†</sup>, Nieto A, ..., Roush WR,
-Teng M, Duckett D<sup>$</sup>. (2020)<br>
-Targeting casein kinase 1 delta sensitizes pancreatic and bladder
-cancer cells to gemcitabine treatment by upregulating deoxycytidine kinase.<br>
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/32430484/)
-| [*Molecular Cancer Therapeutics*](https://doi.org/10.1158/1535-7163.MCT-19-0997)
 
 - Guo R<sup>†</sup>, Jiang C<sup>†</sup>, Zhang Y, ..., Doench JG,
 Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
@@ -106,12 +85,6 @@ Edenberg HJ, Econs MJ, Liu Y<sup>$</sup>. (2012)<br>
 regSNPs: a strategy for prioritizing regulatory single nucleotide substitutions.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22611130)
 | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/bts275)
-
-- Teng M<sup>†</sup>, Balch C<sup>†</sup>, Liu Y, ..., Wang
-Y<sup>$</sup>, Nephew KP<sup>$</sup>, Li L<sup>$</sup>. (2012)<br>
-The influence of cis-regulatory elements on DNA methylation fidelity.<br>
-[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22412954)
-| [*PLoS ONE*](https://doi.org/10.1371/journal.pone.0032928)
 
 <br>
 

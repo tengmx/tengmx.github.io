@@ -12,20 +12,17 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>2024.01 Xiang's work on <a
+<li>2024.01 Our work on <a
 href="https://doi.org/10.1371/journal.pcbi.1011873">super-enhancer
 fingerprints of cancers</a> was published in <em>PLoS Comp Biol</em>.</li>
 <li>2023.11 Welcome Postdoc Fellow Jennifer Joseph.</li>
-<li>2023.07 Welcome summer intern students Vineet (Vinny) Sharma and
-Dhwani Chandu Sangani.</li>
 <li>2023.04 We were awarded an NIDCR R03 grant to study HPV+ oral cancer.</li>
-<li>2023.03 Collaborative work by Xiang on <a
+<li>2023.03 Collaborative work on <a
 href="https://doi.org/10.1038/s41467-023-37347-6">EBV rewiring host 3D
 genome</a> was published in <em>Nat Commun</em>.</li>
-<li>2022.08 Welcome intern student Perezhil Nagendirakumar.</li>
 <li>2022.08 Congratulations to Xiang being promoted to Research
 Scientist.</li>
-<li>2022.03 Xiang's work on <a
+<li>2022.03 Our work on <a
 href="https://doi.org/10.1093/nar/gkac141">super enhancer dynamics</a>
 	   was published in <em>Nucleic Acids Res</em>.</li>
 <li>2021.12 Welcome Data Analyst Yi-Han Tang.</li>
