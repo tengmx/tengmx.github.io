@@ -10,8 +10,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 <br><br>
 #### Research Papers
 
-- Liu X, Gillis N, Jiang C, McCofie A, Shaw TI, Tan AC, Zhao B, Wan L,
-  Duckett DR, Teng M<sup>$</sup>. (2024) <br>
+- Liu X, Gillis N, Jiang C, ..., Wan L, Duckett DR, Teng M<sup>$</sup>. (2024) <br>
   An epigenomic fingerprint of human cancers by landscape
   interrogation of super enhancers at the constituent level. <br>
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/38335222/)
@@ -60,8 +59,8 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 
 - Wang C, Li D, Zhang L, ..., Gewurz BE, Teng M<sup>$</sup>, Zhao
   B<sup>$</sup>. (2019)<br>
-  RNA Sequencing Analyses of Gene Expression during Epstein-Barr Virus
-  Infection of Primary B Lymphocytes.<br> 
+  RNA sequencing analyses of gene expression during Epstein-Barr Virus
+  infection of primary B lymphocytes.<br> 
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/31019051/)
   | [*Journal of Virology*](https://doi.org/10.1128/jvi.00226-19)
 
