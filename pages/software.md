@@ -11,9 +11,11 @@ More code/packages listed on our [GitHub](https://github.com/tenglab) page
 <img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
 src="/assets/themes/twitter/bootstrap/img/cancerse.jpg">
 
-An R/GitHub package documenting high-resolution differences of super 
-enhancer (SE) signatures across cancers. The sensitivity and specificity
-of cancer-specific SE identification are boosted by using mixture
+An R/GitHub package documenting [high-resolution differences of super 
+enhancer (SE) signatures across
+cancers](https://doi.org/10.1371/journal.pcbi.1011873). The
+sensitivity and specificity of cancer-specific SE identification are
+boosted by using mixture
 models to evaluate SE consensuses across 60 cell lines from 28 cancer
 types. Both cancer-specific-active and -inactive components of SEs are
 profiled here, enabling a pan-cancer systematic overview. Visualizing
@@ -27,14 +29,14 @@ interface is built in the package to facilitate exploration.
 <img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
 src="/assets/themes/twitter/bootstrap/img/sedynamics2.jpg">
 
-An R/GitHub package for detecting component alterations of super 
-enhancers (SE) using ChIP-seq. Four novel types of component alterations
-as well as overall activity alterations are reported. In the paper, we
-demonstrated [the distinct functional characteristics of  
-these alterations](https://doi.org/10.1093/nar/gkac141).
-This tool has elevated sensitivity in detecting SE profile changes, 
-thus is highly recommended when SE profiles of similar cell conditions
-are compared.
+An R/GitHub package for detecting constitutive alterations of super
+enhancers (SE) using ChIP-seq. Four novel types of constitutive
+alterations as well as overall activity alterations are reported by
+this tool. Constitutive alterations usually demonstrate [distinct
+functional characteristics](https://doi.org/10.1093/nar/gkac141) in
+the way they regulate target genes. This tool elevates the sensitivity
+in detecting SE profile changes. It is highly recommended when SE
+profiles of similar cell conditions are compared.
 
 ---
 
