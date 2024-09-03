@@ -12,11 +12,16 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
+<li>2024.09 We received a MIRA R35 award from NIH/NIGMS to study enhancer
+functions using machine learning approaches .</li>
 <li>2024.01 Our work on <a
 href="https://doi.org/10.1371/journal.pcbi.1011873">super-enhancer
-fingerprints of cancers</a> was published in <em>PLoS Comp Biol</em>.</li>
+fingerprints of cancers</a> was published in <em>PLoS Comp
+Biol</em>.</li>
+<li>2023.12 We received  a CIIRC award to study HPV variant effect on
+oral cancers .</li>
 <li>2023.11 Welcome Postdoc Fellow Jennifer Joseph.</li>
-<li>2023.04 We were awarded an NIDCR R03 grant to study HPV+ oral cancer.</li>
+<li>2023.04 We received  an R03 award from NIH/NIDCR to study HPV+ oral cancer.</li>
 <li>2023.03 Collaborative work on <a
 href="https://doi.org/10.1038/s41467-023-37347-6">EBV rewiring host 3D
 genome</a> was published in <em>Nat Commun</em>.</li>
@@ -51,3 +56,6 @@ lytic switch</a> was published in <em>Mol Cell</em>.</li>
 Department of Biostatistics and Bioinformatics, Moffitt Cancer Center <br>
 Institute for Artificial Intelligence + X, University of South Florida <br>
 12902 Magnolia Drive, Tampa, FL 33612 <br>
+
+<br>
+Funded by **NIH/NIGMS**, **NIH/NIDCR** and **Moffitt CIIRC**.

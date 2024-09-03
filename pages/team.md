@@ -55,5 +55,6 @@ University of South Florida.<br><br><br><br>
 
 #### Open Positions
 
-We welcome Postdoc and Graduate Students to join our lab to
-solve data science challenges together.
+We have a few opening positions for Postdoc, Graduate
+Students and Interns. Please send us emails for inquiries. Let's
+solve data science challenges and conquer human diseases together.
