@@ -13,7 +13,7 @@ layout: page
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
 <li>2024.09 We received a MIRA R35 award from NIH/NIGMS to study enhancer
-functions using machine learning approaches .</li>
+functions using machine learning.</li>
 <li>2024.01 Our work on <a
 href="https://doi.org/10.1371/journal.pcbi.1011873">super-enhancer
 fingerprints of cancers</a> was published in <em>PLoS Comp
