@@ -58,5 +58,5 @@ Institute for Artificial Intelligence + X, University of South Florida <br>
 12902 Magnolia Drive, Tampa, FL 33612 <br>
 
 <br>
-Funded by **NIH/NIGMS**, **NIH/NIDCR**,**Moffitt CIIRC** and **Moffitt
+Funded by **NIH/NIGMS**, **NIH/NIDCR**, **Moffitt CIIRC** and **Moffitt
 M4M**.

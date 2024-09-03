@@ -18,7 +18,7 @@ group develops computational methods to address data integration with:
 gene expression (RNA-seq & scRNA-seq), chromatin status/accessibility (ChIP-seq,  ATAC-seq, scATAC-seq),
 3D chromatin looping (HiC & HiChIP), genome
 editing  (CRISPR screens) and protein expression (spatial
-proteomics). A few highlighted projects are:
+proteomics). 
 
 **Project Highlights:**
 
