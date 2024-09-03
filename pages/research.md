@@ -76,3 +76,12 @@ etc.) and clonal hematopoiesis.
    closely with the ORIEN network to decode relationships between
    cancers and clonal hematopoiesis, to understand the common and
    unique [roles of clonal hematopoiesis](https://doi.org/10.1093/infdis/jiae212).  
+
+
+---
+
+#### Open Positions
+
+We have a few opening positions for Postdoc, Graduate
+Students and Interns. Please send us emails for inquiries. Let's
+solve data science challenges and conquer human diseases together.
