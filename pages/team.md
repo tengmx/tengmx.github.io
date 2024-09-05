@@ -35,7 +35,7 @@ potential).<br><br><br><br>
 ---
 
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/jamaicapond.jpg"> 
+src="/assets/themes/twitter/bootstrap/img/mt.jpg"> 
 Mingxiang Teng <br>
 Principal Investigator. Assistant Member at the Department of
 Biostatistics and Bioinformatics, Moffitt Cancer Center. He also holds
