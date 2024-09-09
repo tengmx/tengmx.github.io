@@ -24,6 +24,16 @@ enhancer interactions and functions in cancers.<br><br><br><br>
 
 ---
 
+<br>
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
+src="/assets/themes/twitter/bootstrap/img/zachpinet.jpg">
+Zachary Pinet <br>
+Undergraduate Student in Computer Science at University of
+Florida. He focuses on building deep learning models in
+understanding human genome features.<br><br><br><br>
+
+---
+
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
 Yi-Han Tang <br>
