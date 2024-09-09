@@ -10,7 +10,7 @@ src="/assets/themes/twitter/bootstrap/img/jenniferjoseph.jpg">
 Jennifer Joseph<br>
 Postdoctoral Fellow. PhD in Computational Biophysics from Indian
 Institute of Technology Bombay. Her work focuses on computational
-approaches for understanding biomarkers in head and neck cancers.<br><br><br><br>
+approaches for understanding biomarkers in head and neck cancers.<br><br><br>
 
 ---
 
@@ -19,7 +19,7 @@ src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg">
 Xiang Liu<br>
 Research Scientist. PhD in Biosystems Engineering from The University of
 Arizona. His work focuses on computational methods for understanding
-enhancer interactions and functions in cancers.<br><br><br><br>
+enhancer interactions and functions in cancers.<br><br><br>
 
 ---
 
@@ -38,7 +38,7 @@ Yi-Han Tang <br>
 Data Analyst. MS in Bioinformatics and Computational Biology from the
 University of South Florida. Her work focuses on bioinformatics
 analysis to identify CHIP (Clonal hematopoiesis of indeterminate
-potential).<br><br><br><br>
+potential).<br><br><br>
 
 ---
 
@@ -48,7 +48,7 @@ Mingxiang Teng <br>
 Principal Investigator. Assistant Member at the Department of
 Biostatistics and Bioinformatics, Moffitt Cancer Center. He also holds
 joint affiliation at the Institute for Artificial Intelligence + X,
-University of South Florida.<br><br><br><br>
+University of South Florida.<br><br><br>
 
 ---
 
