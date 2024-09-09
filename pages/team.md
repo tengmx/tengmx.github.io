@@ -14,7 +14,6 @@ approaches for understanding biomarkers in head and neck cancers.<br><br><br><br
 
 ---
 
-<br>
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg">
 Xiang Liu<br>
@@ -24,7 +23,6 @@ enhancer interactions and functions in cancers.<br><br><br><br>
 
 ---
 
-<br>
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/zachpinet.jpg">
 Zachary Pinet <br>
