@@ -10,7 +10,7 @@ src="/assets/themes/twitter/bootstrap/img/jenniferjoseph.jpg">
 Jennifer Joseph<br>
 Postdoctoral Fellow. PhD in Computational Biophysics from Indian
 Institute of Technology Bombay. Her work focuses on computational
-approaches for understanding somatic mutation effects.<br><br><br>
+approaches to understand functional effects of somatic mutations.<br><br><br>
 
 ---
 
@@ -18,8 +18,18 @@ approaches for understanding somatic mutation effects.<br><br><br>
 src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg">
 Xiang Liu<br>
 Research Scientist. PhD in Biosystems Engineering from The University of
-Arizona. His work focuses on computational methods for understanding
-chromatin organization and functions.<br><br><br>
+Arizona. His work focuses on developing computational methods and
+tools to understand chromatin organization and enhancer function.<br><br><br>
+
+---
+
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
+src="/assets/themes/twitter/bootstrap/img/isisnarvaezbandera.jpg">
+Isis Narvaez-Bandera<br>
+Postdoctoral Fellow. PhD in Bioinformatics from the University of
+Puerto Rico at Mayaguez. Her work focuses on developing bioinformatics
+methods and tools to characterize cancers at the molecular
+level. (co-supervised by Dr. Xuefeng Wang)<br><br><br>
 
 ---
 
