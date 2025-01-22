@@ -10,7 +10,7 @@ src="/assets/themes/twitter/bootstrap/img/jenniferjoseph.jpg">
 Jennifer Joseph<br>
 Postdoctoral Fellow. PhD in Computational Biophysics from Indian
 Institute of Technology Bombay. Her work focuses on computational
-approaches for understanding biomarkers in head and neck cancers.<br><br><br>
+approaches for understanding somatic mutation effects.<br><br><br>
 
 ---
 
@@ -19,16 +19,16 @@ src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg">
 Xiang Liu<br>
 Research Scientist. PhD in Biosystems Engineering from The University of
 Arizona. His work focuses on computational methods for understanding
-enhancer interactions and functions in cancers.<br><br><br>
+chromatin organization and functions.<br><br><br>
 
 ---
 
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/zachpinet.jpg">
 Zachary Pinet <br>
-Undergraduate Student in Computer Science at University of
+Undergraduate student in Computer Science at the University of
 Florida. He focuses on building deep learning models in
-understanding human genome features.<br><br><br><br>
+understanding human genomic features.<br><br><br><br>
 
 ---
 
@@ -37,8 +37,7 @@ src="/assets/themes/twitter/bootstrap/img/yihantang.jpg">
 Yi-Han Tang <br>
 Data Analyst. MS in Bioinformatics and Computational Biology from the
 University of South Florida. Her work focuses on bioinformatics
-analysis to identify CHIP (Clonal hematopoiesis of indeterminate
-potential).<br><br><br>
+analysis of  Clonal Hematopoiesis(co-supervised by Dr. Nancy Gillis).<br><br><br>
 
 ---
 
@@ -46,9 +45,20 @@ potential).<br><br><br>
 src="/assets/themes/twitter/bootstrap/img/mt.jpg"> 
 Mingxiang Teng <br>
 Principal Investigator. Assistant Member at the Department of
-Biostatistics and Bioinformatics, Moffitt Cancer Center. He also holds
-joint affiliation at the Institute for Artificial Intelligence + X,
-University of South Florida.<br><br><br>
+Biostatistics and Bioinformatics, Moffitt Cancer Center. He holds
+joint faculty appointment at the College of Public Health and
+Institute for Artificial Intelligence + X, University of South Florida.<br><br><br>
+
+---
+
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
+src="/assets/themes/twitter/bootstrap/img/jingjingwu.jpg"> 
+Jingjing Wu <br>
+
+PhD student in Medical Science at the Heart Institute, University of
+South Florida. She focuses on investigating the spatial and temporal chromatin
+architecture of B cells following EBV infection (co-supervised by
+Dr. Dazhi Wang). <br><br><br>
 
 ---
 

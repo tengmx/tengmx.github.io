@@ -10,6 +10,15 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 <br><br>
 #### Research Papers
 
+- Wang C<sup>†</sup><sup>$</sup>, Leong MM<sup>†</sup>, Ding
+  W<sup>†</sup>, Narita Y<sup>†</sup>, ..., Hammerschmidt W, Teng
+  M<sup>$</sup>, Zhao B<sup>$</sup>. (2025) <br> Viral oncogene EBNALP
+  regulates YY1 DNA binding and alters host 3D genome
+  organization. <br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/39747661/)
+  | [*EMBO Reports*](https://doi.org/10.1038/s44319-024-00357-6)
+
+
 - Murray-Nerger LA, Maestri D<sup>†</sup>, Liu X<sup>†</sup>, Li
   Z<sup>†</sup>, ..., Tempera I, Teng M, Gewurz BE. (2024) <br> 
   The DNA loop release factor WAPL suppresses Epstein-Barr virus

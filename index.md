@@ -12,6 +12,11 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
+<li>2025.01 Welcome Postdoc Fellow Isis Narvaez-Bandera.</li>
+<li>2025.01 Collaborative work on <a
+href="https://doi.org/10.1038/s44319-024-00357-6">Mechanisms of EBV
+rewiring host chromatin</a> was published in <em>EMBO Rep</em>.</li>
+<li>2024.12 Welcome PhD student Jingjing Wu.</li>
 <li>2024.09 We received a MIRA R35 award from NIH/NIGMS to study enhancer
 functions using machine learning.</li>
 <li>2024.01 Our work on <a
@@ -53,7 +58,8 @@ lytic switch</a> was published in <em>Mol Cell</em>.</li>
 [USF AI+X](https://aix.eng.usf.edu/members.html) |
 [Twitter](https://twitter.com/mingxiangteng) |
 [GitHub](https://github.com/tenglab)<br>
-Department of Biostatistics and Bioinformatics, Moffitt Cancer Center <br>
+Department of Biostatistics and Bioinformatics, Moffitt Cancer Center<br>
+Genomics PhD Program, College of Public Health, University of South Florida <br>
 Institute for Artificial Intelligence + X, University of South Florida <br>
 12902 Magnolia Drive, Tampa, FL 33612 <br>
 
