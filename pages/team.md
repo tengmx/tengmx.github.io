@@ -93,5 +93,5 @@ and machine learning towards spatial omics data normalization and integration. <
 
 #### Open Positions
 
-Please email for opportunity in the lab. Let's address data science
+Please email for opportunities in the lab. Let's address data science
 challenges and conquer human diseases together.
