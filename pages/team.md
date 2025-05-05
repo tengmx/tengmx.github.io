@@ -6,15 +6,6 @@ title: Lab Members
 
 <br>
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/jenniferjoseph.jpg"> 
-Jennifer Joseph, PhD<br>
-Postdoctoral Fellow. PhD in Computational Biophysics from Indian
-Institute of Technology Bombay. Her work focuses on computational
-approaches to understand functional effects of somatic mutations.<br><br><br>
-
----
-
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg">
 Xiang Liu, PhD<br>
 Research Scientist. PhD in Biosystems Engineering from The University of
@@ -24,21 +15,11 @@ tools to understand chromatin organization and enhancer function.<br><br><br>
 ---
 
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/isisnarvaezbandera.jpg">
-Isis Narvaez-Bandera, PhD<br>
-Postdoctoral Fellow. PhD in Bioinformatics from the University of
-Puerto Rico at Mayaguez. Her work focuses on developing bioinformatics
-methods and tools to characterize cancers at the molecular
-level. (co-supervised by Dr. Xuefeng Wang)<br><br><br>
-
----
-
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/zachpinet.jpg">
 Zachary Pinet <br>
 Undergraduate student in Computer Science at the University of
-Florida. He focuses on building deep learning models in
-understanding human genomic features.<br><br><br><br>
+Florida. He focuses on practising and building deep learning models to
+understand chromatin regulation of human genome.<br><br><br>
 
 ---
 
@@ -47,7 +28,7 @@ src="/assets/themes/twitter/bootstrap/img/yihantang.jpg">
 Yi-Han Tang, MS <br>
 Data Analyst. MS in Bioinformatics and Computational Biology from the
 University of South Florida. Her work focuses on bioinformatics
-analysis of  Clonal Hematopoiesis(co-supervised by Dr. Nancy Gillis).<br><br><br>
+analysis of Clonal Hematopoiesis(co-supervised by Dr. Nancy Gillis).<br><br><br>
 
 ---
 
@@ -64,7 +45,6 @@ Institute for Artificial Intelligence + X, University of South Florida.<br><br><
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/jingjingwu.jpg"> 
 Jingjing Wu, MS <br>
-
 PhD student in Medical Science at the Heart Institute, University of
 South Florida. She focuses on investigating the spatial and temporal chromatin
 architecture of B cells following EBV infection (co-supervised by
@@ -75,23 +55,25 @@ Dr. Dazhi Wang). <br><br><br>
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/zilezhao.jpg"> 
 Zile Zhao, PhD <br>
-
 Postdoctoral Fellow. PhD in Statistics from the University of South
-Carolina. His research focuses on Bayesian high-dimensional modeling
-and machine learning towards spatial omics data normalization and integration. <br><br><br>
+Carolina. His research focuses on high-dimensional modeling and
+machine learning towards spatial omics data normalization and integration. <br><br><br>
 
 ---
 
 #### Alumni
 
-- Dhwani Chandu Sangani, Mokshitha Kaki (Intern 2024)
-- Perezhil Nagendirakumar, Vineet Sharma (Intern 2023)
-- Anthony McCofie (Master Intern 2022)
-- Mak Djulbegovic (Master Intern 2019)
+- Jennifer Joseph (Postdoc 2023-25)
+- Dhwani Chandu Sangani (Intern 2024)
+- Mokshitha Kaki (Intern 2024)
+- Perezhil Nagendirakumar (Intern 2023)
+- Vineet Sharma (Intern 2023)
+- Anthony McCofie (Intern 2022)
+- Mak Djulbegovic (Intern 2019)
 
 ---
 
 #### Open Positions
 
-Please email for opportunities in the lab. Let's address data science
-challenges and conquer human diseases together.
+Please email us for research opportunities in our lab. Let's work
+together to conquer diseases using data science approaches.
