@@ -9,6 +9,12 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 <br>
 #### 2025
 
+- Chen L, Shultz ZP, Sansone M, ..., Teng M, Schonbrunn E, Lopchuk JM, Chen J. (2025) <br>
+  PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells
+  and Inhibits Tumor Growth In Vivo. <br> 
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/40376796/)
+  | [*Mol Cancer Ther*](https://doi.org/10.1158/1535-7163.mct-24-1091) 
+
 - Wang C<sup>†</sup><sup>$</sup>, Leong MM<sup>†</sup>, Ding W<sup>†</sup>, Narita Y<sup>†</sup>, ..., Hammerschmidt W, Teng
   M<sup>$</sup>, Zhao B<sup>$</sup>. (2025) <br> 
   Viral oncogene EBNALP regulates YY1 DNA binding and alters host 3D genome organization. <br>
@@ -178,7 +184,7 @@ CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40 Regulation.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31365872)
 | [*Cell Rep*](https://doi.org/10.1016/j.celrep.2019.06.079)
 
-- Korthauer K, Kimes PK, Duvallet C, ..., Teng M, ..., Shukla C, Alm EJ, Hicks SC. (2019)<br>
+- Korthauer K, Kimes PK, Duvallet C, ..., Teng M, Shukla C, Alm EJ, Hicks SC. (2019)<br>
 A practical guide to methods controlling false discoveries in computational biology.<br>
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31164141)
 | [*Genome Biol*](https://doi.org/10.1186/s13059-019-1716-1)
