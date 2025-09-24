@@ -19,7 +19,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
   qcCHIP: An R package to identify clonal hematopoiesis variants using
   cohort-specific data characteristics. <br>
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/40973027/)
-  |[*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btaf522)
+  | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btaf522)
 
 - Shepard A, Lester DK, Troutman S, ..., Teng M, ..., Flores ER,
   Ventura A, Kissil JL. (2025) <br>
