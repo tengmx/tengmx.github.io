@@ -12,6 +12,9 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
+<li>2025.09 Collaborative work on <a
+href="https://doi.org/10.1093/bioinformatics/btaf522">clonal hematopoiesis
+variant filtering</a> was published in <em>Bioinformatics</em>.</li>
 <li>2025.01 Collaborative work on <a
 href="https://doi.org/10.1038/s44319-024-00357-6">Mechanisms of EBV
 rewiring host chromatin</a> was published in <em>EMBO Rep</em>.</li>

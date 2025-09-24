@@ -1,4 +1,6 @@
-images: 
+images:
+  - image: /assets/themes/twitter/bootstrap/img/qcchip.png
+  - image: /assets/themes/twitter/bootstrap/img/cancerse.jpg
   - image: /assets/themes/twitter/bootstrap/img/sedynamics.jpg
   - image: /assets/themes/twitter/bootstrap/img/lclrblhic.jpg
   - image: /assets/themes/twitter/bootstrap/img/chipseqvar.jpg

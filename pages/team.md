@@ -6,6 +6,15 @@ title: Lab Members
 
 <br>
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
+src="/assets/themes/twitter/bootstrap/img/yalinliao.jpg">
+Yalin Liao, PhD<br>
+Postdoctoral Fellow. PhD in Electrical and Computer Engineering from
+the University of Delaware. His work focuses on machine learning
+mothods in chromatin interaction and cancer biomarkers.<br><br><br>
+
+---
+
+<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/xiangliu.jpg">
 Xiang Liu, PhD<br>
 Research Scientist. PhD in Biosystems Engineering from The University of
@@ -19,7 +28,7 @@ src="/assets/themes/twitter/bootstrap/img/zachpinet.jpg">
 Zachary Pinet <br>
 Undergraduate student in Computer Science at the University of
 Florida. He focuses on practising and building deep learning models to
-understand chromatin regulation of human genome.<br><br><br>
+understand chromatin regulation on human genome.<br><br><br>
 
 ---
 
@@ -37,7 +46,7 @@ src="/assets/themes/twitter/bootstrap/img/mt.jpg">
 Mingxiang Teng, PhD <br>
 Principal Investigator. Assistant Member at the Department of
 Biostatistics and Bioinformatics, Moffitt Cancer Center. He holds
-joint faculty appointment at the College of Public Health and
+joint faculty appointments at the College of Public Health and
 Institute for Artificial Intelligence + X, University of South Florida.<br><br><br>
 
 ---

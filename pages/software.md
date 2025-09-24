@@ -6,6 +6,22 @@ title: Software Packages
 More code/packages listed on our [GitHub](https://github.com/tenglab) page
 <br><br>
 
+[**qcCHIP**](https://github.com/tenglab/qcCHIP)
+
+<img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
+src="/assets/themes/twitter/bootstrap/img/qcchip.jpg">
+
+An R/GitHub package for [estimating quality parameters and filtering
+clonal hematopoiesis variants from WES- or targeted-DNAseq-based
+mutation calls](https://doi.org/10.1093/bioinformatics/btaf522). The
+tool first uses permutation test to determine the optimal parameter
+values for a given dataset in CHIP filtering, *e.g.*, VAF cutoffs. It
+then implements CH filtering using four groups of data metrics. We
+demonstrated its precision and recall by applying it to sequencing
+data cohorts across multiple solid cancer types in the ORIEN Network.
+
+---
+
 [**cSEAdb**](https://github.com/tenglab/cSEAdb)
 
 <img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
@@ -22,7 +38,6 @@ profiled here, enabling a pan-cancer systematic overview. Visualizing
 interface is built in the package to facilitate exploration. 
 
 ---
-
 
 [**DASE**](https://github.com/tenglab/DASE)
 

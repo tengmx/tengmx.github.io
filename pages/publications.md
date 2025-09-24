@@ -7,7 +7,26 @@ title: Journal Articles
 Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_works&sortby=pubdate)
 
 <br>
-#### 2025
+###### 2025
+
+- Wang H, Mou Z, Yeo YY, ..., Teng M, ..., Liu X, Jiang S, Bo
+  Zhao. (2025) <br> 
+  Epstein-Barr virus exploits Desmocollin 2 as the principal
+  epithelial cell entry receptor. <br> 
+  [Nat Microbiol](https://doi.org/10.1038/s41564-025-02126-0)
+
+- Liu X<sup>†</sup>, Tang Y<sup>†</sup>, ..., Teer JK, Gillis N<sup>$</sup>, Teng M<sup>$</sup>. (2025) <br>
+  qcCHIP: An R package to identify clonal hematopoiesis variants using
+  cohort-specific data characteristics. <br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/40973027/)
+  |[*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btaf522)
+
+- Shepard A, Lester DK, Troutman S, ..., Teng M, ..., Flores ER,
+  Ventura A, Kissil JL. (2025) <br>
+  An Autochthonous Model of Lung Cancer Identifies Requirements for
+  Cellular Transformation in the Naked Mole-Rat. <br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/40920097/)
+  | [*Cancer Discov*](https://doi.org/10.1158/2159-8290.cd-25-0526)
 
 - Chen L, Shultz ZP, Sansone M, ..., Teng M, Schonbrunn E, Lopchuk JM, Chen J. (2025) <br>
   PROTAC-Mediated Degradation of TAF1 Induces Apoptosis in AML Cells
@@ -22,7 +41,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
   | [*EMBO Rep*](https://doi.org/10.1038/s44319-024-00357-6)
 
 <br>
-#### 2024
+###### 2024
 
 - Davis JT, Obermayer AN, Soupir AC, ..., Teng M, Wang X, Shaw TI. (2024) <br>
   BatchFLEX: feature-level equalization of X-batch. <br>
@@ -46,7 +65,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
   | [*PLoS Comput Biol*](https://doi.org/10.1371/journal.pcbi.1011873)
 
 <br>
-#### 2023
+###### 2023
 
 - Dickey BL, Putney RM, Suneja G, ..., Teng M, ..., Gillis N, Berglund A, Coghill AE. (2023) <br>
   Differences in epigenetic age by HIV status among patients with a non-AIDS defining cancer. <br>
@@ -82,7 +101,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
   | [*Methods Mol Biol*](https://doi.org/10.1007/978-1-0716-2986-4_9) (Book Chapter)
 
 <br>
-#### 2022
+###### 2022
 
 - Ding W, Wang C, Narita Y, ..., Teng M, Jin S, Sato Y, Zhao B. (2022)<br>
 The Epstein-Barr virus enhancer interaction landscapes in virus-associated cancer cell lines. <br>
@@ -116,14 +135,14 @@ DRPPM-EASY: a web-based framework for integrative analysis of multi-omics cancer
 | [*Biology*](https://doi.org/10.3390/biology11020260)
 
 <br>
-#### 2021
+###### 2021
 
 - Huang J, Soupir AC, Schlick BD, Teng M, ..., Manley BJ, Pellini B, Wang L. (2021)<br>
 Cancer detection and classification by CpG island hypermethylation signatures in plasma cell-free DNA. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34830765/)
 | [*Cancers*](https://doi.org/10.3390/cancers13225611)
 
-- Teng M<sup>$</sup>, Du D<, Chen D, Irizarry RA. (2021)<br>
+- Teng M<sup>$</sup>, Du D, Chen D, Irizarry RA. (2021)<br>
 Characterizing batch effects and binding site-specific variability in ChIP-seq data. <br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/34661103/)
 | [*NAR Genom Bioinform*](https://doi.org/10.1093/nargab/lqab098)
@@ -139,7 +158,7 @@ TIMEx: tumor-immune microenvironment deconvolution web-portal for bulk transcrip
 | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btab244)
 
 <br>
-#### 2020
+###### 2020
 
 - Wang C, Zhang L, Ke L, ..., Kaye KM, Teng M<sup>$</sup>, Zhao B<sup>$</sup>. (2020)<br>
 Primary effusion lymphoma enhancer connectome links super-enhancers to dependency factors.<br>
@@ -166,7 +185,7 @@ Expanded encyclopaedias of DNA elements in the human and mouse genomes.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32728249/)
 | [*Nature*](https://doi.org/10.1038/s41586-020-2493-4)
 
-- Guo R<sup>†</sup>, <u>Jiang C</u><sup>†</sup>, Zhang Y, ..., Doench JG, Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
+- Guo R<sup>†</sup>, Jiang C<sup>†</sup>, Zhang Y, ..., Doench JG, Teng M<sup>$</sup>, Gewurz BE<sup>$</sup>. (2020)<br>
 MYC controls the Epstein-Barr Virus lytic switch.<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32315601)
 | [*Mol Cell*](https://doi.org/10.1016/j.molcel.2020.03.025)<br>
@@ -177,7 +196,7 @@ Resistance to targeted therapies as a multifactorial, gradual adaptation to inhi
 | [*Nat Commun*](https://doi.org/10.1038/s41467-020-16212-w)
 
 <br>
-#### 2019
+###### 2019
 
 - Jiang C, Trudeau SJ, Cheong TC, ..., Teng M, ..., Doench JG, Chiarle R, Gewurz BE. (2019)<br>
 CRISPR/Cas9 Screens Reveal Multiple Layers of B cell CD40 Regulation.<br>
@@ -205,7 +224,7 @@ Genome-wide CRISPR-based gene knockout screens reveal cellular factors and pathw
 | [*J Biol Chem*](https://doi.org/10.1074/jbc.RA119.008793)
 
 <br>
-#### Earlier
+###### Earlier
 
 - Hicks SC, Townes FW, Teng M, Irizarry RA. (2018)<br>
 Missing data and technical variability in single-cell RNA-sequencing experiments.<br>
