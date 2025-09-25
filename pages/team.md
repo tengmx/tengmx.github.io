@@ -72,17 +72,13 @@ machine learning towards spatial omics data normalization and integration. <br><
 
 #### Alumni
 
-- Jennifer Joseph (Postdoc 2023-25)
-- Dhwani Chandu Sangani (Intern 2024)
-- Mokshitha Kaki (Intern 2024)
-- Perezhil Nagendirakumar (Intern 2023)
-- Vineet Sharma (Intern 2023)
-- Anthony McCofie (Intern 2022)
-- Mak Djulbegovic (Intern 2019)
+- Jennifer Joseph
+- Dhwani Chandu Sangani
+- Perezhil Nagendirakumar
 
 ---
 
 #### Open Positions
 
 Please email us for research opportunities in our lab. Let's work
-together to conquer diseases using data science approaches.
+together to conquer diseases with data science.

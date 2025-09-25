@@ -13,7 +13,7 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
   Zhao. (2025) <br> 
   Epstein-Barr virus exploits Desmocollin 2 as the principal
   epithelial cell entry receptor. <br> 
-  [Nat Microbiol](https://doi.org/10.1038/s41564-025-02126-0)
+  [*Nat Microbiol*](https://doi.org/10.1038/s41564-025-02126-0)
 
 - Liu X<sup>†</sup>, Tang Y<sup>†</sup>, ..., Teer JK, Gillis N<sup>$</sup>, Teng M<sup>$</sup>. (2025) <br>
   qcCHIP: An R package to identify clonal hematopoiesis variants using
