@@ -9,11 +9,11 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 <br>
 ###### 2025
 
-- Wang H, Mou Z, Yeo YY, ..., Teng M, ..., Liu X, Jiang S, Bo
-  Zhao. (2025) <br> 
-  Epstein-Barr virus exploits Desmocollin 2 as the principal
+- Wang H, Mou Z, Yeo YY, ..., Teng M, ..., Liu X, Jiang S, Zhao B. (2025) <br> 
+  Epstein-Barr virus exploits desmocollin 2 as the principal
   epithelial cell entry receptor. <br> 
-  [*Nat Microbiol*](https://doi.org/10.1038/s41564-025-02126-0)
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/41006833/)
+  | [*Nat Microbiol*](https://doi.org/10.1038/s41564-025-02126-0)
 
 - Liu X<sup>†</sup>, Tang Y<sup>†</sup>, ..., Teer JK, Gillis N<sup>$</sup>, Teng M<sup>$</sup>. (2025) <br>
   qcCHIP: An R package to identify clonal hematopoiesis variants using
@@ -34,7 +34,8 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/40376796/)
   | [*Mol Cancer Ther*](https://doi.org/10.1158/1535-7163.mct-24-1091) 
 
-- Wang C<sup>†</sup><sup>$</sup>, Leong MM<sup>†</sup>, Ding W<sup>†</sup>, Narita Y<sup>†</sup>, ..., Hammerschmidt W, Teng
+- Wang C<sup>†</sup><sup>$</sup>, Leong MM<sup>†</sup>, Ding
+  W<sup>†</sup>, Narita Y<sup>†</sup>, ..., Hammerschmidt W, Teng
   M<sup>$</sup>, Zhao B<sup>$</sup>. (2025) <br> 
   Viral oncogene EBNALP regulates YY1 DNA binding and alters host 3D genome organization. <br>
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/39747661/)
