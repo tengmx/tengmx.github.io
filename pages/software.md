@@ -12,8 +12,9 @@ More code/packages listed on our [GitHub](https://github.com/tenglab) page
 src="/assets/themes/twitter/bootstrap/img/qcchip.jpg">
 
 An R/GitHub package for [estimating quality parameters and filtering
-clonal hematopoiesis variants from WES- or targeted-DNAseq-based
-mutation calls](https://doi.org/10.1093/bioinformatics/btaf522). The
+clonal hematopoiesis
+variants](https://doi.org/10.1093/bioinformatics/btaf522) from WES- or
+targeted-DNAseq-based mutation calls. The
 tool first uses permutation test to determine the optimal parameter
 values for a given dataset in CHIP filtering, *e.g.*, VAF cutoffs. It
 then implements CH filtering using four groups of data metrics. We
@@ -27,7 +28,7 @@ data cohorts across multiple solid cancer types in the ORIEN Network.
 <img style="float:right;margin: 0 30px 0 0;width:300px;height:150px;"
 src="/assets/themes/twitter/bootstrap/img/cancerse.jpg">
 
-An R/GitHub package documenting [high-resolution differences of super 
+An R/GitHub package documenting high-resolution differences of [super 
 enhancer (SE) signatures across
 cancers](https://doi.org/10.1371/journal.pcbi.1011873). The
 sensitivity and specificity of cancer-specific SE identification are

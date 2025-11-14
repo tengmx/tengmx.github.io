@@ -78,7 +78,8 @@ and human papillomavirus etc.) and clonal hematopoiesis.
  - **Clonal hematopoiesis biomarkers across solid tumors**. Clonal
    hematopoiesis was found highly associated to reduced survival in
    cancer patients. The molecular mechanisms however are unclear. We
-   [explore clonal hematopoiesis variants in public data
-   repositories](https://doi.org/10.1101/2025.03.21.25324408)  to understand their
+   explore [clonal hematopoiesis variants](https://doi.org/10.1101/2025.03.21.25324408) in public data
+   repositories to understand their
    epidemiology features. We work closely with the ORIEN network to decode
-   the [roles of clonal hematopoiesis across cancer types](https://doi.org/10.1093/infdis/jiae212).  
+   the [roles of clonal
+   hematopoiesis](https://doi.org/10.1093/infdis/jiae212)  across cancer types.

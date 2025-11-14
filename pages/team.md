@@ -75,7 +75,7 @@ machine learning towards spatial omics data normalization and integration. <br><
 - Jennifer Joseph
 - Dhwani Chandu Sangani
 - Perezhil Nagendirakumar
-
+- Weiyue Ding
 ---
 
 #### Open Positions

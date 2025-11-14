@@ -53,7 +53,7 @@ lytic switch</a> was published in <em>Mol Cell</em>.</li>
 
 <!-- {% include JB/setup %} -->
 [Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
-[USF AI+X](https://aix.eng.usf.edu/members.html) |
+[USF AI+X](https://www.usf.edu/ai-cybersecurity-computing/centers/ai-x/about/faculty.aspx) |
 [Twitter](https://twitter.com/mingxiangteng) |
 [GitHub](https://github.com/tenglab)<br>
 Department of Biostatistics and Bioinformatics, Moffitt Cancer Center<br>
