@@ -76,6 +76,8 @@ machine learning towards spatial omics data normalization and integration. <br><
 - Dhwani Chandu Sangani
 - Perezhil Nagendirakumar
 - Weiyue Ding
+- Anthony McCofie
+
 ---
 
 #### Open Positions
