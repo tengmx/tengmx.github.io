@@ -12,10 +12,13 @@ layout: page
 <div
 style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
 
-<li>2025.09 Collaborative work on <a
+<li>2025.12 Our work on <a
+href="https://doi.org/10.1186/s40246-025-00847-1">population patterns
+of clonal hematopoiesis variants</a> was published in <em>Hum Genomics</em>.</li>
+<li>2025.09 Our work on <a
 href="https://doi.org/10.1093/bioinformatics/btaf522">clonal hematopoiesis
 variant filtering</a> was published in <em>Bioinformatics</em>.</li>
-<li>2025.01 Collaborative work on <a
+<li>2025.01 Our work on <a
 href="https://doi.org/10.1038/s44319-024-00357-6">Mechanisms of EBV
 rewiring host chromatin</a> was published in <em>EMBO Rep</em>.</li>
 <li>2024.09 We received a MIRA R35 award from NIH/NIGMS to study enhancer
@@ -62,4 +65,4 @@ Institute for Artificial Intelligence + X, University of South Florida <br>
 12902 Magnolia Drive, Tampa, FL 33612 <br>
 
 <br>
-Funded by **NIGMS**, **NIDCR**, **CIIRC** and **M4M**.
+Funded by **National Institutes of Health**,**Florida Department of Health**, **Moffitt Foundation**.

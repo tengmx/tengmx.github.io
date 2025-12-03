@@ -9,6 +9,14 @@ Scholar](https://scholar.google.com/citations?user=T7QIObwAAAAJ&view_op=list_wor
 <br>
 ###### 2025
 
+- Ancestry-dependent patterns of somatic mosaicism and clonal
+  hematopoiesis mutations in over 125,000 individuals reveal distinct
+  cancer associations. <br>
+  Colin-Leitzinger C<sup>†</sup>, **Tang YH**<sup>†</sup>, **Teng
+  M**<sup>$</sup>, Gillis N<sup>$</sup>. <br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/41331781/)
+  | [*Hum Genomics*](https://doi.org/10.1186/s40246-025-00847-1)
+
 - Epstein-Barr virus exploits desmocollin 2 as the principal
   epithelial cell entry receptor. <br> 
   Wang H, Mou Z, Yeo YY, Ge Q, **Liu X**, Narita Y, Li Z, Wang C, Li W,
