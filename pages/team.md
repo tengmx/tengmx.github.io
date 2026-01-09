@@ -44,10 +44,10 @@ analysis of Clonal Hematopoiesis(co-supervised by Dr. Nancy Gillis).<br><br><br>
 <img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
 src="/assets/themes/twitter/bootstrap/img/mt.jpg"> 
 Mingxiang Teng, PhD <br>
-Principal Investigator. Assistant Member at the Department of
-Biostatistics and Bioinformatics, Moffitt Cancer Center. He holds
-joint faculty appointments at the College of Public Health and
-Institute for Artificial Intelligence + X, University of South Florida.<br><br><br>
+Principal Investigator. Associate Faculty Member at the Department of
+Biostatistics and Bioinformatics, Moffitt Cancer Center. He also holds
+multiple appointments at University of South Florida including their
+Genomics PhD Program at College of Public Health.<br><br><br>
 
 ---
 
