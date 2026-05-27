@@ -11,7 +11,7 @@ Yalin Liao, PhD<br>
 Postdoctoral Fellow <br>
 PhD in Electrical and Computer Engineering from the University of
 Delaware. His research focuses on developing AI methods for chromatin
-interaction analysis and biomarker discovery.<br><br> 
+interaction analysis and biomarker discovery.<br><br><br>
 
 ---
 
@@ -21,7 +21,7 @@ Zachary Pinet <br>
 Undergraduate student <br>
 Computer Science program at the University of Florida. His work
 focuses on exploring deep learning models to understand chromatin
-assay variabilities .<br><br> 
+assay variabilities .<br><br> <br>
 
 ---
 
@@ -31,7 +31,7 @@ Animesh Singh <br>
 Master student <br> 
 Bioinformatics and Computational Biology program at University of
 South Florida. He focuses on machine learning applications to
-understand HPV biomarkers in oral cancers. <br><br>
+understand HPV biomarkers in oral cancers. <br><br><br>
 
 ---
 
@@ -41,7 +41,7 @@ Tushar Singh, MS <br>
 PhD student <br> 
 Genomics program at School of Public Health, University of
 South Florida. His research focuses on developing AI-driven methods
-and tools for the analysis of pathology and spatial omics data. <br><br>
+and tools for the analysis of pathology and spatial omics data. <br><br><br>
 
 ---
 
@@ -49,9 +49,10 @@ and tools for the analysis of pathology and spatial omics data. <br><br>
 src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
 Yi-Han Tang, MS <br>
 Data Analyst <br>
-MS in Bioinformatics and Computational Biology from the University of
+MS in Bioinformatics and Computational Biology from University of
 South Florida. She supports bioinformatics analysis of clonal
-hematopoiesis and single-cell/spatial transcriptome.<br><br>
+hematopoiesis and single-cell/spatial transcriptome, co-supervised by
+Dr. Nancy Gillis.<br><br>
 
 ---
 
