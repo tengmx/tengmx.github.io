@@ -6,9 +6,9 @@ layout: page
 <br>
 
 ---
-
-##### Postdoc Positions available in the lab. Please contact us for more info.
-
+<br><br>
+#### We are looking for Postdocs to join our lab. Please reach out for more info.
+<br><br>
 #### Lab News
 
 <div
