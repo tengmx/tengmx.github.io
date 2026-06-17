@@ -7,6 +7,8 @@ layout: page
 
 ---
 
+##### Postdoc Positions available in the lab. Please contact us for more info.
+
 #### Lab News
 
 <div
