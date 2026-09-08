@@ -41,10 +41,13 @@
 
 <style>
 .carousel__holder {
-  width: 100%; 
-  position: relative; 
-  padding-bottom: {{ include.height }}{{ include.unit }}; 
-  margin: 1rem 0 1rem;
+  width: 100%;
+  position: relative;
+  padding-bottom: {{ include.height }}{{ include.unit }};
+  margin: 0.5rem 0 1.5rem;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 8px 30px rgba(15, 30, 35, 0.14);
 }
 .carousel {
   height: 100%;
@@ -80,56 +83,64 @@
 }
 .carousel__activator:nth-of-type({{ forloop.index }}):checked ~ .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
   opacity: 1;
+  transform: scale(1.25);
 }
 {% endfor %}
 
 .carousel__control {
-  height: 30px;
-  width: 30px;
-  margin-top: -15px;
+  height: 14px;
+  width: 14px;
+  margin-top: -19px;
   top: 50%;
   position: absolute;
   display: block;
   cursor: pointer;
-  border-width: 5px 5px 0 0;
+  border-width: 3px 3px 0 0;
   border-style: solid;
-  border-color: #5c5353;
-  opacity: 0.35;
-  opacity: 1;
+  border-color: #fff;
+  background: rgba(20, 30, 34, 0.35);
+  padding: 12px;
+  border-radius: 50%;
+  background-clip: padding-box;
+  opacity: 0.85;
   outline: 0;
   z-index: 3;
+  transition: background 0.15s, opacity 0.15s;
 }
 .carousel__control:hover {
   opacity: 1;
+  background-color: rgba(20, 30, 34, 0.55);
 }
 .carousel__control--backward {
-  left: 20px;
+  left: 16px;
   -webkit-transform: rotate(-135deg);
           transform: rotate(-135deg);
 }
 .carousel__control--forward {
-  right: 20px;
+  right: 16px;
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
 }
 .carousel__indicators {
   position: absolute;
-  bottom: 20px;
+  bottom: 18px;
   width: 100%;
   text-align: center;
+  z-index: 2;
 }
 .carousel__indicator {
-  height: 15px;
-  width: 15px;
+  height: 8px;
+  width: 8px;
   border-radius: 100%;
   display: inline-block;
-  z-index: 2;
   cursor: pointer;
-  opacity: 0.35;
-  margin: 0 2.5px 0 2.5px;
+  opacity: 0.5;
+  margin: 0 4px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.15);
+  transition: opacity 0.15s, transform 0.15s;
 }
 .carousel__indicator:hover {
-  opacity: 0.75;
+  opacity: 0.85;
 }
 .carousel__track {
   position: absolute;
@@ -178,8 +189,10 @@
 {% for item in site.data.carousel.images %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
+  background-color: var(--color-bg-alt);
 }
 {% endfor %}
 </style>

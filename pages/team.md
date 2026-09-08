@@ -3,92 +3,70 @@ layout: page
 title: Lab Members
 ---
 
+<div class="team-grid">
 
-<br>
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/yalinliao.jpg">
-Yalin Liao, PhD<br>
-Postdoctoral Fellow <br>
-PhD in Electrical and Computer Engineering from the University of
-Delaware. His research focuses on developing AI methods for chromatin
-interaction analysis and biomarker discovery.<br><br><br>
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/yalinliao.jpg" alt="Yalin Liao">
+    <div class="team-card__name">Yalin Liao, PhD</div>
+    <div class="team-card__role">Postdoctoral Fellow</div>
+    <div class="team-card__bio">PhD in Electrical and Computer Engineering from the University of Delaware. His research focuses on developing AI methods for chromatin interaction analysis and biomarker discovery.</div>
+  </div>
 
----
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/zachpinet.jpg" alt="Zachary Pinet">
+    <div class="team-card__name">Zachary Pinet</div>
+    <div class="team-card__role">Undergraduate Student</div>
+    <div class="team-card__bio">Computer Science program at the University of Florida. His work focuses on exploring deep learning models to understand chromatin assay variabilities.</div>
+  </div>
 
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/zachpinet.jpg">
-Zachary Pinet <br>
-Undergraduate student <br>
-Computer Science program at the University of Florida. His work
-focuses on exploring deep learning models to understand chromatin
-assay variabilities .<br><br> <br>
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/animeshsingh.jpg" alt="Animesh Singh">
+    <div class="team-card__name">Animesh Singh</div>
+    <div class="team-card__role">Master Student</div>
+    <div class="team-card__bio">Bioinformatics and Computational Biology program at University of South Florida. He focuses on machine learning applications to understand HPV biomarkers in oral cancers.</div>
+  </div>
 
----
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/tusharsingh.png" alt="Tushar Singh">
+    <div class="team-card__name">Tushar Singh, MS</div>
+    <div class="team-card__role">PhD Student</div>
+    <div class="team-card__bio">Genomics program at School of Public Health, University of South Florida. His research focuses on developing AI-driven methods and tools for the analysis of pathology and spatial omics data.</div>
+  </div>
 
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/animeshsingh.jpg">
-Animesh Singh <br>
-Master student <br> 
-Bioinformatics and Computational Biology program at University of
-South Florida. He focuses on machine learning applications to
-understand HPV biomarkers in oral cancers. <br><br><br>
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/yihantang.jpg" alt="Yi-Han Tang">
+    <div class="team-card__name">Yi-Han Tang, MS</div>
+    <div class="team-card__role">Data Analyst</div>
+    <div class="team-card__bio">MS in Bioinformatics and Computational Biology from University of South Florida. She supports bioinformatics analysis of clonal hematopoiesis and single-cell/spatial transcriptome, co-supervised by Dr. Nancy Gillis.</div>
+  </div>
 
----
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/mt.jpg" alt="Mingxiang Teng">
+    <div class="team-card__name">Mingxiang Teng, PhD</div>
+    <div class="team-card__role">Associate Member / Professor</div>
+    <div class="team-card__bio">PhD in Computational Biology and Postdoc in Biostatistics. He holds faculty appointments at Moffitt Cancer Center and University of South Florida. He serves as co-mentor for the Genomics PhD Program at USF Health.</div>
+  </div>
 
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/tusharsingh.png">
-Tushar Singh, MS <br>
-PhD student <br> 
-Genomics program at School of Public Health, University of
-South Florida. His research focuses on developing AI-driven methods
-and tools for the analysis of pathology and spatial omics data. <br><br><br>
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/jingjingwu.jpg" alt="Jingjing Wu">
+    <div class="team-card__name">Jingjing Wu, MS</div>
+    <div class="team-card__role">PhD Student</div>
+    <div class="team-card__bio">Medical Sciences program at Heart Institute, USF Health. Her research focuses on understanding spatial and temporal chromatin architecture of B cells, co-supervised by Dr. Dazhi Wang.</div>
+  </div>
 
----
+</div>
 
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/yihantang.jpg"> 
-Yi-Han Tang, MS <br>
-Data Analyst <br>
-MS in Bioinformatics and Computational Biology from University of
-South Florida. She supports bioinformatics analysis of clonal
-hematopoiesis and single-cell/spatial transcriptome, co-supervised by
-Dr. Nancy Gillis.<br><br>
+###### Alumni
 
----
+<div class="alumni-list" markdown="1">
+- Postdoc: Zile Zhao (2025-2026)
+- Postdoc/Scientist: Xiang Liu (2020-2026)
+- Postdoc: Jennifer Joseph (2024-2025)
+- Master Student: Dhwani Chandu Sangani (2024)
+- Master Student: Perezhil Nagendirakumar (2023)
+- Master Student: Anthony McCofie (2021)
+</div>
 
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/mt.jpg"> 
-Mingxiang Teng, PhD <br>
-Associate Member/Professor<br>
-PhD in Computational Biology and Postdoc in Biostatistics. He holds
-faculty appointments at Moffitt Cancer Center and University of South
-Florida. He serves as co-mentor for Genomics PhD Program at USF Health. <br><br>
+###### Open Positions
 
----
-
-<img style="float:left;margin: 0 30px 0 0;width:120px;height:125px;"
-src="/assets/themes/twitter/bootstrap/img/jingjingwu.jpg"> 
-Jingjing Wu, MS <br>
-PhD student <br>
-Medical Sciences program at Heart Institute, USF Health. Her research
-focuses on understanding spatial and temporal chromatin architecture
-of B cells, co-supervised by Dr. Dazhi Wang. <br><br>
-
----
-
-#### Alumni
-
-- Postdoc: Zile Zhao
-- Postdoc/Scientist: Xiang Liu
-- Postdoc: Jennifer Joseph
-- Master Student: Dhwani Chandu Sangani
-- Master Student: Perezhil Nagendirakumar
-- Visiting PhD Student: Weiyue Ding
-- Master Student: Anthony McCofie
-
----
-
-#### Open Positions
-
-Please email us for research opportunities in our lab. Let's work
-together to conquer diseases with AI and data science.
+Please email us for research opportunities in our lab. Let's work together to conquer diseases with AI and data science.

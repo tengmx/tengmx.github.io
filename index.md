@@ -2,67 +2,28 @@
 layout: page
 ---
 
-{% include carousel.html height="300" unit="px" duration="7" %}
-<br>
+<p class="callout">We build statistical and AI approaches to transform
+multi-omics datasets into biomedical insights </p>
 
----
-<br><br>
-#### We are looking for Postdocs to join our lab. Please reach out for more info.
-<br><br>
-#### Lab News
+{% include carousel.html height="370" unit="px" duration="7" %}
 
-<div
-style="height:240px;line-height:3em;overflow:scroll;padding:5px;"> 
+<h4>Lab News</h4>
 
-<li>2025.12 Our work on <a
-href="https://doi.org/10.1186/s40246-025-00847-1">population patterns
-of clonal hematopoiesis variants</a> was published in <em>Hum Genomics</em>.</li>
-<li>2025.09 Our work on <a
-href="https://doi.org/10.1093/bioinformatics/btaf522">clonal hematopoiesis
-variant filtering</a> was published in <em>Bioinformatics</em>.</li>
-<li>2025.01 Our work on <a
-href="https://doi.org/10.1038/s44319-024-00357-6">Mechanisms of EBV
-rewiring host chromatin</a> was published in <em>EMBO Rep</em>.</li>
-<li>2024.09 We received a MIRA R35 award from NIH/NIGMS to study enhancer
-functions using machine learning.</li>
-<li>2024.01 Our work on <a
-href="https://doi.org/10.1371/journal.pcbi.1011873">super-enhancer
-fingerprints of cancers</a> was published in <em>PLoS Comp
-Biol</em>.</li>
-<li>2023.12 We received  a CIIRC award to study HPV variant effect on
-oral cancers .</li>
-<li>2023.04 We received  an R03 award from NIH/NIDCR to study HPV+ oral cancer.</li>
-<li>2023.03 Our work on <a
-href="https://doi.org/10.1038/s41467-023-37347-6">EBV rewiring host 3D
-genome</a> was published in <em>Nat Commun</em>.</li>
-<li>2022.03 Our work on <a
-href="https://doi.org/10.1093/nar/gkac141">super enhancer dynamics</a>
-	   was published in <em>Nucleic Acids Res</em>.</li>
-<li>2021.10 Our work on <a
-href="https://doi.org/10.1093/nargab/lqab098">ChIP-seq site-specific
-variability</a> was published in <em>NAR Genom Bioinform</em>.</li>
-<li>2020.12 Our work on <a
-href="https://doi.org/10.1038/s41467-020-20136-w">enhancer connectome
-in PEL cancers</a> was published in <em>Nat Commun</em>.</li>
-<li>2020.04 Our work on <a
-href="https://doi.org/10.1016/j.molcel.2020.03.025">MYC's roles in EBV
-lytic switch</a> was published in <em>Mol Cell</em>.</li>
-
+<div class="news-box" markdown="1">
+- <span class="date">2025.12</span> Our work on [population clonal hematopoiesis variants](https://doi.org/10.1186/s40246-025-00847-1) was published in *Hum Genomics*.
+- <span class="date">2025.09</span> Our work on [clonal hematopoiesis variant filtering](https://doi.org/10.1093/bioinformatics/btaf522) was published in *Bioinformatics*.
+- <span class="date">2025.01</span> Our work on [mechanisms of EBV rewiring host chromatin](https://doi.org/10.1038/s44319-024-00357-6) was published in *EMBO Rep*.
+- <span class="date">2024.09</span> We received a MIRA R35 award from NIH/NIGMS to study enhancer functions using machine learning.
+- <span class="date">2024.01</span> Our work on [super-enhancer fingerprints of cancers](https://doi.org/10.1371/journal.pcbi.1011873) was published in *PLoS Comp Biol*.
+- <span class="date">2023.12</span> We received a CIIRC award to study HPV variant effect on oral cancers.
+- <span class="date">2023.04</span> We received an R03 award from NIH/NIDCR to study HPV+ oral cancer.
+- <span class="date">2023.03</span> Our work on [EBV rewiring host 3D genome](https://doi.org/10.1038/s41467-023-37347-6) was published in *Nat Commun*.
+- <span class="date">2022.03</span> Our work on [super enhancer dynamics](https://doi.org/10.1093/nar/gkac141) was published in *Nucleic Acids Res*.
+- <span class="date">2021.10</span> Our work on [ChIP-seq site-specific variability](https://doi.org/10.1093/nargab/lqab098) was published in *NAR Genom Bioinform*.
+- <span class="date">2020.12</span> Our work on [enhancer connectome in PEL cancers](https://doi.org/10.1038/s41467-020-20136-w) was published in *Nat Commun*.
+- <span class="date">2020.04</span> Our work on [MYC's roles in EBV lytic switch](https://doi.org/10.1016/j.molcel.2020.03.025) was published in *Mol Cell*.
 </div>
 
 ---
 
-#### Contact Us
-
-<!-- {% include JB/setup %} -->
-[Moffitt](https://moffitt.org/research-science/researchers/mingxiang-teng) |
-[USF AI+X](https://www.usf.edu/ai-cybersecurity-computing/centers/ai-x/about/faculty.aspx) |
-[Twitter](https://twitter.com/mingxiangteng) |
-[GitHub](https://github.com/tenglab)<br>
-Department of Biostatistics and Bioinformatics, Moffitt Cancer Center<br>
-Genomics PhD Program, College of Public Health, University of South Florida <br>
-Institute for Artificial Intelligence + X, University of South Florida <br>
-12902 Magnolia Drive, Tampa, FL 33612 <br>
-
-<br>
 Funded by **National Institutes of Health**, **Florida Department of Health**, **Moffitt Foundation**.
