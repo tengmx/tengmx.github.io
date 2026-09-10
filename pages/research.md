@@ -48,6 +48,11 @@ proteomics/MALDI).
   taking consideration of data characteristics across large cohort.
 </div>
 
+<div class="fig-row">
+  <img src="/assets/themes/twitter/bootstrap/img/field1.jpg" alt="Diagram of a super-enhancer's ATAC/ChIP-seq signal, its Hi-C loop to a target gene, and the resulting rise in RNA-seq expression, all aligned to the same genomic position.">
+  <img src="/assets/themes/twitter/bootstrap/img/field2.jpg" alt="Diagram of noisy, batch-specific sequencing tracks passing through a statistical correction model to produce signal that is comparable across samples.">
+</div>
+
 #### Cancer Biomarkers
 
 Cancers are one of the main biological settings where we apply our
@@ -73,4 +78,9 @@ and human papillomavirus etc.) and clonal hematopoiesis.
   epidemiology features. We work closely with the ORIEN network to decode
   the [roles of clonal
   hematopoiesis](https://doi.org/10.1093/infdis/jiae212) across cancer types.
+</div>
+
+<div class="fig-row">
+  <img src="/assets/themes/twitter/bootstrap/img/field3.jpg" alt="Diagram of a host chromatin loop before viral infection versus after, when a distinctly-shaped EBV particle and HPV capsid rewire the loop to switch on an oncogene.">
+  <img src="/assets/themes/twitter/bootstrap/img/field4.jpg" alt="Diagram of clonal hematopoiesis: one mutant blood stem cell clonally expanding, alongside a scatter plot of CH driver genes by cancer type and age at detection.">
 </div>

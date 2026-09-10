@@ -303,6 +303,27 @@ strong { font-weight: 700; }
   margin-bottom: 0;
 }
 
+.fig-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin: 0 0 1.8em;
+}
+
+.fig-row img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2.9 / 1;
+  object-fit: contain;
+  background: var(--color-bg);
+}
+
+@media (max-width: 640px) {
+  .fig-row {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* ---------------------------------------------------------------------- */
 /* Publications list                                                      */
 /* ---------------------------------------------------------------------- */
