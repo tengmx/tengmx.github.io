@@ -6,6 +6,20 @@ title: Lab Members
 <div class="team-grid">
 
   <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/lanaaltukhova.jpg" alt="Lana Altukhova">
+    <div class="team-card__name">Lana Altukhova</div>
+    <div class="team-card__role">Undergraduate Student</div>
+    <div class="team-card__bio">Computer Science program at the University of South Florida. Her work focuses on exploring bioinformatics analysis of Xenium spatial transcriptome.</div>
+  </div>
+
+  <div class="team-card">
+    <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/naimafahmi.jpg" alt="Naima Ahmed Fahmi">
+    <div class="team-card__name">Naima Ahmed Fahmi, PhD</div>
+    <div class="team-card__role">Postdoctoral Fellow</div>
+    <div class="team-card__bio">PhD in Computer Science from the University of Central Florida. Her research focuses on developing computational approaches to integrate and annotate single cell omics.</div>
+  </div>
+
+  <div class="team-card">
     <img class="team-card__photo" src="/assets/themes/twitter/bootstrap/img/yalinliao.jpg" alt="Yalin Liao">
     <div class="team-card__name">Yalin Liao, PhD</div>
     <div class="team-card__role">Postdoctoral Fellow</div>
@@ -59,11 +73,11 @@ title: Lab Members
 ###### Alumni
 
 <div class="alumni-list" markdown="1">
-- Postdoc: Zile Zhao (2025-2026)
-- Postdoc/Scientist: Xiang Liu (2020-2026)
-- Postdoc: Jennifer Joseph (2024-2025)
-- Master Student: Dhwani Chandu Sangani (2024)
-- Master Student: Perezhil Nagendirakumar (2023)
+- Postdoc: [Zile Zhao](https://www.linkedin.com/in/zile-zhao-678b4814a/) (2025-2026)
+- Postdoc/Scientist: [Xiang Liu](https://www.linkedin.com/in/xiang-liu-ab230468/) (2020-2026)
+- Postdoc: [Jennifer Joseph](https://www.linkedin.com/in/jeny2992/) (2024-2025)
+- Master Student: [Dhwani Chandu Sangani](https://www.linkedin.com/in/dhwani-sangani-b291a3241/) (2024)
+- Master Student: [Perezhil Nagendirakumar](https://www.linkedin.com/in/perezhil/) (2023)
 - Master Student: Anthony McCofie (2021)
 </div>
 

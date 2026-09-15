@@ -8,6 +8,66 @@ title: Journal Articles
 
 <div class="pub-list" markdown="1">
 
+###### 2026
+
+- Treatment with the Nox1/4 inhibitor Setanaxib ameliorates cardiac
+  function in mouse models of Duchenne muscular dystrophy. <br> 
+  <span class="pub-authors">Deng R, De Oliveira Silva T, **Liu X**,
+  Fan C, Seok HY, Wu J, Wickramage I, Guo H, Lin T, Zhang S, Semerci
+  N, Taheri S, Lu YW, Huang ZP, Mably JD, **Teng M**, Chen H, Diniz
+  GP, Wang DZ.</span><br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/42363603/)
+  | [*Mol Ther*](https://doi.org/10.1016/j.ymthe.2026.06.033) 
+
+- Evolution of clonal hematopoiesis during cancer treatment and its
+  impact on outcomes. <br> 
+  <span class="pub-authors">Arabzadeh M, **Tang YH**, Colin-Leitzinger
+  C, Marzban S, Walgenbach D, Morganti S, Mahaganapathy V, Harper E,
+  **Teng M**, Kresovich JK, Washington I, Parsons HA, Garber JE, West
+  J, Ganesan S, Khiabanian H, Gillis N.</span><br> 
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/42262879/)
+  | [*J Clin Invest*](https://doi.org/10.1172/jci204429) 
+
+- Abundance and balance of circulating leukocyte subsets and
+  colorectal cancer survival. <br> 
+  <span class="pub-authors">Richards AR, Gomez MF, Dowling BI, Bulka
+  CM, Gigic B, Figueiredo JC, Li CI, Shibata D, Toriola AT, Byrd DA,
+  Ulrich CM, **Teng M**, Stewart PA, Siegel EM, Kresovich JK.</span><br> 
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/42237020/)
+  | [*Br J Cancer*](https://doi.org/10.1038/s41416-026-03480-4)
+
+- Integrated Genomic and Epigenomic Analysis Reveals Epigenetic
+  Plasticity in Disease Progression and Multidrug Resistance in
+  Multiple Myeloma. <br> 
+  <span class="pub-authors">Canevarolo RR, Sudalagunta PR, Meads MB,
+  Silva M, Zhao X, Magaletti D, Alugubelli RR, DeAvila G, DeAvila D,
+  Persi E, Maura F, Bell ET, Bishop RT, Cubitt CL, Sansil SS, Zhang W,
+  Teer JK, **Teng M**, Yoder SJ, Siegel EM, Shah BD, Nishihori T,
+  Hazlehurst L, Lynch CC, Landgren O, Hampton O, Gatenby RA, Sullivan
+  DM, Brayer J, Dalton W, Cleveland JL, Alsina M, Baz R, Shain KH,
+  Silva AS.</span><br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/42233980/)
+  | [*Cancer Res*](https://doi.org/10.1158/0008-5472.can-26-1082) 
+
+- Genome-wide variation in cell-free DNA end-motif entropy predicts
+  immunotherapy response in head and neck cancer. <br>
+  <span class="pub-authors">Bandaru R, Fu H, Zheng H, Liang J, Wang L, Gulati S, Hinrichs BH,
+  **Teng M**, Zhang B, Kocherginsky M, Lin DC, Hildeman DA, Worden FP, Old
+  M, Dunlap NE, Kaczmar JM, Gillison ML, El-Gamal D, Wise Draper T,
+  Liu Y.</span><br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/42154530/)
+  | [*J Clin Invest*](https://doi.org/10.1172/jci196284)
+
+- ShinyEvents: harmonizing longitudinal data for real-world survival
+  estimation. <br>
+  <span class="pub-authors">Obermayer A, Davis J, Talada DP, **Teng M**, Eschrich S, Yin
+  V, Spakowicz D, Chatterjee D, Rounbehler RJ, Churchman ML, Tarhini
+  AA, Wang X, Gupta S, Markowitz J, Goecks J, Li R, Rodrigues Pessoa
+  R, Manley BJ, Tan AC, Grass GD, Chen DT, Shaw TI.</span><br>
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/41526666/)
+  | [*NPJ Precis Oncol*](https://doi.org/10.1038/s41698-025-01212-0)
+
+
 ###### 2025
 
 - Ancestry-dependent patterns of somatic mosaicism and clonal
